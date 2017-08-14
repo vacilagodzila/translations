@@ -1,0 +1,19 @@
+{
+  "name": "translations",
+  "version": "0.0.0",
+  "description": "Translations for Cards services.",
+  "keywords": [
+    "translations",
+    "cards",
+    "services"
+  ],
+  "author": {
+    "name": "Ross Khanas",
+    "email": "rk@try.cards"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:opensource-cards/translations.git"
+  }
+}
