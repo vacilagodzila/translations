@@ -1,0 +1,15 @@
+{
+  "data": {
+    "binary-ui-auth-change-number": "Назад до номеру",
+    "binary-ui-auth-code": "Код",
+    "binary-ui-auth-country": "Країна",
+    "binary-ui-auth-done": "Готово",
+    "binary-ui-auth-i-agree-to-the": "Погоджуюсь з {formattedTermsOfServiceLabel}",
+    "binary-ui-auth-next-step": "Далі",
+    "binary-ui-auth-number": "Номер",
+    "binary-ui-auth-skip-login": "Пропустити вхід",
+    "binary-ui-auth-terms-of-service": "умовами користування",
+    "binary-ui-auth-type-phone-number-here": "Уведіть номер",
+    "binary-ui-auth-type-sms-code-here": "Уведіть СМС пароль"
+  }
+}
