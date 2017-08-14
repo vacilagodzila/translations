@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-card-edit-select-name-font": "Шрифт імені",
+    "cards-card-edit-select-field-font": "Шрифт даних",
+    "cards-card-edit-privacy-settings": "Приватність",
+    "cards-card-edit-public": "Публічна",
+    "cards-card-edit-public-link": "Посилання",
+    "cards-card-edit-embed-code": "Код для сайту",
+    "cards-card-edit-autoconnect": "Автоконект",
+    "cards-card-edit-copied-to-clipboard": "Copied to clipboard"
+  }
+}

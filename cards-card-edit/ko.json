@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-card-edit-select-name-font": "이름 폰트",
+    "cards-card-edit-select-field-font": "필드 폰트",
+    "cards-card-edit-privacy-settings": "정보 보호 설정",
+    "cards-card-edit-public": "공개 카드",
+    "cards-card-edit-public-link": "공개 링크",
+    "cards-card-edit-embed-code": "소스 코드",
+    "cards-card-edit-autoconnect": "자동 연결",
+    "cards-card-edit-copied-to-clipboard": "Copied to clipboard"
+  }
+}

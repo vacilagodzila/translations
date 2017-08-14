@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-alert-authenticate-to-backup-data": "당신의 소중한 데이터를 위해 로그인 해주세요!",
+    "cards-alert-autoconnect-notice": "이 카드는 이미 자신의 전화 번호가 이미 연락처에 있고, 전화 번호가 이미 연락처에 있던 카드 사용자와 자동으로 동기화됩니다.",
+    "cards-alert-icloud-login-fail": "Apple ID 또는 암호가 올바르지 않습니다.",
+    "cards-alert-storyline-chapter-unlocked": "새로운 이야기가 나왔습니다! 클릭해주세요!"
+  }
+}
