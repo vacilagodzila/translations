@@ -4,7 +4,7 @@
     "binary-ui-auth-code": "인증번호",
     "binary-ui-auth-country": "국가",
     "binary-ui-auth-done": "완료",
-    "binary-ui-auth-i-agree-to-the": "{formattedTermsOfServiceLabel} 모두 동의합니다",
+    "binary-ui-auth-i-agree-to-the": "{termsOfServiceFormatMessage} 모두 동의합니다",
     "binary-ui-auth-next-step": "다음",
     "binary-ui-auth-number": "전화번호",
     "binary-ui-auth-skip-login": "로그인없이 사용하기",

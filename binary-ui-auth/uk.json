@@ -4,7 +4,7 @@
     "binary-ui-auth-code": "Код",
     "binary-ui-auth-country": "Країна",
     "binary-ui-auth-done": "Готово",
-    "binary-ui-auth-i-agree-to-the": "Погоджуюсь з {formattedTermsOfServiceLabel}",
+    "binary-ui-auth-i-agree-to-the": "Погоджуюсь з {termsOfServiceFormatMessage}",
     "binary-ui-auth-next-step": "Далі",
     "binary-ui-auth-number": "Номер",
     "binary-ui-auth-skip-login": "Пропустити вхід",
