@@ -1,0 +1,13 @@
+{
+  "data": {
+    "cards-stack-facebook-cards-title": "Facebook",
+    "cards-stack-facebook-cards-subtitle": "Всі контакти з Фейсбуку в одному стеку",
+    "cards-stack-facebook-cards-more": "Інші функції",
+    "cards-stack-facebook-cards-empty-heading": "Додайте друзів з Facebook",
+    "cards-stack-facebook-cards-empty-text-add": "Це дасть вам змогу отримати картки з контактною інформацію друзів у мережі Facebook.",
+    "cards-stack-facebook-cards-empty-text-no-posting": "Cards не буде дописувати на вашу стіну.",
+    "cards-stack-facebook-cards-empty-facebook-button": "Продовжити з Facebook",
+    "cards-stack-facebook-cards-connection-expired-heading": "З'єднання втрачено",
+    "cards-stack-facebook-cards-connection-expired-text": "Увійдіть в свій обліковий запис знову."
+  }
+}
