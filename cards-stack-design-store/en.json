@@ -1,0 +1,29 @@
+{
+  "data": {
+    "design-store": "Design Store",
+    "design-store-description": "Get new designs for your personal live cards",
+    "design-store-subtitle": "Get new designs for your personal live cards",
+    "design-store-section-cities": "Around the world",
+    "design-store-section-floral": "Floral",
+    "design-store-section-professions": "Professions",
+    "design-store-section-modern": "Miscellaneous",
+    "design-store-section-new-and-noteworthy": "New and Noteworthy",
+    "design-store-section-simple-designs": "Simple Designs",
+    "design-store-section-anna-oliynyk": "Designed by Anna Oliynyk",
+    "design-store-section-colorful": "Colorful life",
+    "design-store-section-franchize": "Franchize",
+    "design-store-section-sophisticated": "Sophisticated",
+    "design-store-info": "Information",
+    "design-store-author": "Author",
+    "design-store-category": "Category",
+    "design-store-date": "Date",
+    "design-store-details": "Description",
+    "design-store-customize": "Color preview",
+    "design-store-no-description": "Author did not provide any description.",
+    "design-store-other-by-author": "More by ",
+    "design-store-other-category": "More in ",
+    "get-card-design": "Download design",
+    "get-card-design-success": "Success! Edit your card to apply this design.",
+    "get-card-design-unsuccess": "Couldn't download design. Try again later."
+  }
+}

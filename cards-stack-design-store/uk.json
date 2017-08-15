@@ -1,0 +1,28 @@
+{
+  "data": {
+    "design-store": "Магазин дизайнів",
+    "design-store-description": "Завантажуйте нові дизайни персональних живих карток",
+    "design-store-subtitle": "Завантажуйте нові дизайни персональних живих карток",
+    "design-store-section-cities": "Навколо світу",
+    "design-store-section-floral": "Квіти",
+    "design-store-section-professions": "Професії",
+    "design-store-section-modern": "Різне",
+    "design-store-section-new-and-noteworthy": "Нові та цікаві",
+    "design-store-section-simple-designs": "Усе геніальне — просте",
+    "design-store-section-anna-oliynyk": "Дизайнер Анна Олійник",
+    "design-store-section-colorful": "Кольорове життя",
+    "design-store-section-franchize": "Відомі бренди",
+    "design-store-section-sophisticated": "Витончені",
+    "design-store-info": "Інформація",
+    "design-store-author": "Митець",
+    "design-store-category": "Категорія",
+    "design-store-date": "Дата",
+    "design-store-details": "Опис",
+    "design-store-customize": "Перегляд кольорів",
+    "design-store-other-by-author": "Більше від ",
+    "design-store-other-category": "Інші в категорії ",
+    "get-card-design": "Завантажити дизайн",
+    "get-card-design-success": "Готово! Редагуйте картку щоб застосувати цей дизайн.",
+    "get-card-design-unsuccess": "Неможливо завантижити дизайн. Спробуйте ще раз."
+  }
+}
