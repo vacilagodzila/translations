@@ -1,8 +1,7 @@
 {
   "data": {
-    "design-store": "Design Store",
-    "design-store-description": "Get new designs for your personal live cards",
-    "design-store-subtitle": "Get new designs for your personal live cards",
+    "cards-stack-design-store-title": "Design Store",
+    "cards-stack-design-store-subtitle": "Get new designs for your personal live cards",
     "design-store-section-cities": "Around the world",
     "design-store-section-floral": "Floral",
     "design-store-section-professions": "Professions",

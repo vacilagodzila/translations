@@ -1,8 +1,7 @@
 {
   "data": {
-    "design-store": "Магазин дизайнів",
-    "design-store-description": "Завантажуйте нові дизайни персональних живих карток",
-    "design-store-subtitle": "Завантажуйте нові дизайни персональних живих карток",
+    "cards-stack-design-store-title": "Магазин дизайнів",
+    "cards-stack-design-store-subtitle": "Завантажуйте нові дизайни персональних живих карток",
     "design-store-section-cities": "Навколо світу",
     "design-store-section-floral": "Квіти",
     "design-store-section-professions": "Професії",
