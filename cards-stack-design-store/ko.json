@@ -2,6 +2,18 @@
   "data": {
     "cards-stack-design-store-title": "디자인 스토어",
     "cards-stack-design-store-subtitle": "개인 디지탈 명함 디자인을 찾아냄",
+    "cards-stack-design-store-get-card-design": "디자인을 다운받기",
+    "cards-stack-design-store-get-card-design-success": "다운로드 완료되었습니다. 디자인을 적용하기로 개인카드를 편집하세요.",
+    "cards-stack-design-store-get-card-design-unsuccess": "다운로드 실패. 나중에 다시 시도하세요.",
+    "cards-stack-design-store-info": "안내",
+    "cards-stack-design-store-author": "디자이너",
+    "cards-stack-design-store-category": "종류",
+    "cards-stack-design-store-date": "날짜",
+    "cards-stack-design-store-description": "설명",
+    "cards-stack-design-store-customize": "색상 미리보기",
+    "cards-stack-design-store-no-description": "디자이너가 설명을 제공하지 않았습니다.",
+    "cards-stack-design-store-other-by-author": "다른 디자인 : ",
+    "cards-stack-design-store-other-category": "카테고리 더보기 : ",
     "design-store-section-cities": "세계 일주",
     "design-store-section-floral": "꽃 디자인",
     "design-store-section-professions": "직장",
@@ -11,18 +23,6 @@
     "design-store-section-anna-oliynyk": "안나 올리늑의 디자인",
     "design-store-section-colorful": "다채로운 디자인",
     "design-store-section-franchize": "유명한 디자인",
-    "design-store-section-sophisticated": "세련된 디자인",
-    "design-store-info": "안내",
-    "design-store-author": "디자이너",
-    "design-store-category": "종류",
-    "design-store-date": "날짜",
-    "design-store-details": "설명",
-    "design-store-customize": "색상 미리보기",
-    "design-store-no-description": "디자이너가 설명을 제공하지 않았습니다.",
-    "design-store-other-by-author": "다른 디자인 : ",
-    "design-store-other-category": "카테고리 더보기 : ",
-    "get-card-design": "디자인을 다운받기",
-    "get-card-design-success": "다운로드 완료되었습니다. 디자인을 적용하기로 개인카드를 편집하세요.",
-    "get-card-design-unsuccess": "다운로드 실패. 나중에 다시 시도하세요."
+    "design-store-section-sophisticated": "세련된 디자인"
   }
 }
