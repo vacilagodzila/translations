@@ -1,0 +1,9 @@
+{
+  "data": {
+    "cards-stack-unavailable-title": "Недоступний стек",
+    "cards-stack-unavailable-subtitle": "Зміст цього стеку недоступний. Оновіть Cards.",
+    "cards-stack-unavailable-not-available": "Недоступний",
+    "cards-stack-unavailable-not-available-description": "Неможливо показати вміст.",
+    "cards-stack-unavailable-not-available-action": "Оновити додаток"
+  }
+}
