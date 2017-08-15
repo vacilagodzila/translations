@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-stack-designer-preview-title": "미리보기",
+    "cards-stack-designer-preview-subtitle": "카드 디자인 미리보기 및 색상 조화 정의",
+    "cards-stack-designer-preview-mark-card": "체크 박스",
+    "cards-stack-designer-preview-more-actions-with-card": "기타 기능",
+    "cards-stack-designer-preview-color-palette": "색상 조화",
+    "cards-stack-designer-preview-color-harmony": "규칙",
+    "cards-stack-designer-preview-key-color": "주요 색상",
+    "cards-stack-designer-preview-color-index": "생성된 팔레트",
+    "cards-stack-designer-preview-color-index-explanation": "값을 복사하려면 색상 샘플을 누르십시오.",
+    "cards-stack-designer-preview-size-limit": "용량",
+    "cards-stack-designer-preview-decoration-limit": "장식",
+    "cards-stack-designer-preview-field-limit": "필드"
+  }
+}
