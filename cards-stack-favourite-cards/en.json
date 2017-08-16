@@ -1,0 +1,14 @@
+{
+  "data": {
+    "favourite-cards": "Favorites",
+    "favourite-cards-subtitle": "Most important cards at your fingertips",
+    "favourite-add": "Add to favorites",
+    "favourite-more": "More options",
+    "edit-card":"Edit card",
+    "delete-card":"Delete card",
+    "remove-from-favourites":"Remove from favorites",
+    "favourite-cards-empty-heading": "It's lonely here",
+    "favourite-cards-empty-text-add": "Add some cards to this stack for quick access.",
+    "favourite-cards-empty-facebook-button": "Add cards"
+  }
+}

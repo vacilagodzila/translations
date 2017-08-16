@@ -1,0 +1,14 @@
+{
+  "data": {
+    "favourite-cards": "Улюблені",
+    "favourite-cards-subtitle": "Додавайте картки для швидкого доступу",
+    "favourite-add": "Додати до улюблених",
+    "favourite-more": "Інші функції",
+    "edit-card": "Редагувати",
+    "delete-card": "Видалити",
+    "remove-from-favourites": "Прибрати з улюблених",
+    "favourite-cards-empty-heading": "Тут поки пусто",
+    "favourite-cards-empty-text-add": "Додайте картки для швидкого доступу.",
+    "favourite-cards-empty-facebook-button": "Додати картки"
+  }
+}

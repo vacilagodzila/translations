@@ -1,0 +1,14 @@
+{
+  "data": {
+    "favourite-cards": "즐겨찾기",
+    "favourite-cards-subtitle": "빠른 연락하도록 카드를 즐겨찾기에 추가",
+    "favourite-add": "즐겨찾기에 추가",
+    "favourite-more": "기타 기능",
+    "edit-card": "카드를 편집",
+    "delete-card": "카드를 삭제",
+    "remove-from-favourites": "즐겨찾기에서 삭제하기",
+    "favourite-cards-empty-heading": "보여줄 것이 없다",
+    "favourite-cards-empty-text-add": "빠른 연락하도록 카드를 즐겨찾기에 추가.",
+    "favourite-cards-empty-facebook-button": "카드를 추가"
+  }
+}

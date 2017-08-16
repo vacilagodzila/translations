@@ -1,0 +1,18 @@
+{
+  "data": {
+    "phonebook-cards": "Phonebook cards",
+    "phonebook-cards-stack-title": "Phonebook cards",
+    "phonebook-cards-subtitle": "Cards of people who didn't get invite to Cards",
+    "phonebook-cards-edit-card": "Edit card",
+    "phonebook-cards-delete-card": "Delete card",
+    "phonebook-cards-add-to-favourites": "Add to favorites",
+    "phonebook-cards-more-button-label": "More options",
+    "phonebook-cards-create-card": "Create card",
+    "phonebook-cards-update-card": "Update card",
+    "phonebook-cards-my-information": "Information",
+    "phonebook-cards-my-notes": "Notes",
+    "phonebook-cards-empty-heading": "About phonebook cards",
+    "phonebook-cards-empty-text-add": "Phonebook cards can be imported from your phone's local contacts or manually created. They don't auto-update.",
+    "phonebook-cards-empty-facebook-button": "Create phonebook card"
+  }
+}

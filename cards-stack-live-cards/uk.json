@@ -1,0 +1,30 @@
+{
+  "data": {
+    "live-cards": "Живі картки",
+    "live-cards-subtitle": "Ніколи не втрачайте зв'язок з людьми завдяки живим карткам, що автоматично оновлюються",
+    "live-cards-enter-code-here": "Уведіть код",
+    "live-cards-edit-card": "Редагувати",
+    "live-cards-delete-card": "Видалити",
+    "live-cards-add-to-favourites": "Додати до улюблених",
+    "live-cards-cancel-and-return": "Відмінити та повернутись",
+    "live-cards-submit-code": "Готово",
+    "live-cards-add-live-cards": "Отримати живу картку",
+    "live-cards-sharing-code": "Код",
+    "live-cards-received-cards": "Отримані картки",
+    "live-cards-approve-incoming-cards": "Підтвердити",
+    "live-cards-more": "Інші функції",
+    "live-cards-share-cards": "Поділитися картками",
+    "live-cards-update-personal-shared-card": "Оновити живу картку",
+    "live-cards-information": "Інформація",
+    "live-cards-my-information": "Моя інформація",
+    "live-cards-shared-notes": "Нотатки для всіх",
+    "live-cards-my-notes": "Приватні нотатки",
+    "live-cards-empty-heading": "Отримайте першу живу картку",
+    "live-cards-empty-text-add": "Натисніть на кнопку внизу щоб увести тимчасовий код.",
+    "live-cards-empty-facebook-button": "Отримати картку",
+    "live-cards-mark-card": "Вибрати",
+    "live-cards-exchange-successful": "Обмін живими картками успішний.",
+    "live-cards-receive-or-exchange-cards": "Receive or exchange cards",
+    "live-cards-connect-to-internet-and-try-again": "Під'єднайтесь до інтернету і спробуйте знову."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "data": {
+    "live-cards": "Live Cards",
+    "live-cards-subtitle": "Auto-updating contact cards of Cards users",
+    "live-cards-enter-code-here": "Enter code",
+    "live-cards-edit-card": "Edit",
+    "live-cards-delete-card": "Delete",
+    "live-cards-add-to-favourites": "Add to favorites",
+    "live-cards-cancel-and-return": "Cancel and return",
+    "live-cards-submit-code": "Submit code",
+    "live-cards-add-live-cards": "Add live cards",
+    "live-cards-sharing-code": "Sharing code",
+    "live-cards-received-cards": "Incoming cards",
+    "live-cards-approve-incoming-cards": "Approve",
+    "live-cards-more": "More options",
+    "live-cards-share-cards": "Share cards",
+    "live-cards-update-personal-shared-card": "Update live card",
+    "live-cards-information": "Information",
+    "live-cards-my-information": "My Information",
+    "live-cards-shared-notes": "Shared Notes",
+    "live-cards-my-notes": "Private Notes",
+    "live-cards-empty-heading": "Get started with live cards",
+    "live-cards-empty-text-add": "Press the button below to enter sharing code.",
+    "live-cards-empty-facebook-button": "Receive a card",
+    "live-cards-mark-card": "Select",
+    "live-cards-exchange-successful": "Live card exchange successful.",
+    "live-cards-receive-or-exchange-cards": "Receive or exchange cards",
+    "live-cards-connect-to-internet-and-try-again": "Connect to internet and try again."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "new-stack": "Новий стек",
+    "new-stack-subtitle": "Власна група карток",
+    "custom-cards-more": "Інші функції",
+    "custom-cards-type-here": "Уведіть назву",
+    "custom-cards-add-cards": "Додати картки",
+    "custom-cards-edit-card": "Редагувати",
+    "custom-cards-delete-card": "Видалити",
+    "custom-cards-add-to-favourites": "Додати до улюблених",
+    "custom-cards-remove-from-stack": "Прибрати зі стеку",
+    "custom-cards-empty-heading": "Почнемо додавати картки",
+    "custom-cards-empty-text-add": "В цей стек можна додавати як живі картки, так і звичайні.",
+    "custom-cards-empty-facebook-button": "Додати картки"
+  }
+}
