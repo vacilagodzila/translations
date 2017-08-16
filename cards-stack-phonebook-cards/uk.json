@@ -1,18 +1,17 @@
 {
   "data": {
-    "phonebook-cards": "Звичайні картки",
-    "phonebook-cards-stack-title": "Звичайні картки",
-    "phonebook-cards-subtitle": "Контакти людей, які поки що не використовують Cards",
-    "phonebook-cards-edit-card": "Редагувати",
-    "phonebook-cards-delete-card": "Видалити",
-    "phonebook-cards-add-to-favourites": "Додати до улюблених",
-    "phonebook-cards-more-button-label": "Інші функції",
-    "phonebook-cards-create-card": "Створити картку",
-    "phonebook-cards-update-card": "Оновити картку",
-    "phonebook-cards-my-information" : "Інформація",
-    "phonebook-cards-my-notes" : "Нотатки",
-    "phonebook-cards-empty-heading": "Про звичайні картки",
-    "phonebook-cards-empty-text-add": "Звичайні картки імортуються з контактів телефону або створюються вручну. Вони не оновлюються автоматично.",
-    "phonebook-cards-empty-facebook-button": "Створити звичайну картку"
+    "cards-stack-phonebook-cards-title": "Звичайні картки",
+    "cards-stack-phonebook-cards-subtitle": "Контакти людей, які поки що не використовують Cards",
+    "cards-stack-phonebook-cards-edit-card": "Редагувати",
+    "cards-stack-phonebook-cards-delete-card": "Видалити",
+    "cards-stack-phonebook-cards-add-to-favourites": "Додати до улюблених",
+    "cards-stack-phonebook-cards-more-button-label": "Інші функції",
+    "cards-stack-phonebook-cards-empty-heading": "Про звичайні картки",
+    "cards-stack-phonebook-cards-empty-text-add": "Звичайні картки імортуються з контактів телефону або створюються вручну. Вони не оновлюються автоматично.",
+    "cards-stack-phonebook-cards-empty-button": "Створити звичайну картку",
+    "cards-stack-phonebook-cards-create-card": "Створити картку",
+    "cards-stack-phonebook-cards-update-card": "Оновити картку",
+    "cards-stack-phonebook-cards-my-information" : "Інформація",
+    "cards-stack-phonebook-cards-my-notes" : "Нотатки"
   }
 }
