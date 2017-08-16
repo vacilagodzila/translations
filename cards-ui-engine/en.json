@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-ui-engine-drag-up-to-delete": "Drag up to delete",
+    "cards-ui-engine-drag-down-to-deactivate": "Drag down to deactivate",
+    "cards-ui-engine-drag-to-top-to-delete": "Drag to top to delete",
+    "cards-ui-engine-drag-to-center-to-activate": "Drag to center to activate"
+  }
+}

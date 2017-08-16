@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-ui-engine-drag-up-to-delete": "삭제하기",
+    "cards-ui-engine-drag-down-to-deactivate": "Deactivate",
+    "cards-ui-engine-drag-to-top-to-delete": "삭제하기",
+    "cards-ui-engine-drag-to-center-to-activate": "Activate"
+  }
+}
