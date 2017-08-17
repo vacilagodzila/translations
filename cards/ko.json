@@ -54,6 +54,17 @@
     "live-cards-information": "그들 정보",
     "live-cards-my-information": "나의 정보",
     "live-cards-shared-notes": "공공 메모",
-    "live-cards-my-notes": "사유 메모"
+    "live-cards-my-notes": "사유 메모",
+
+    "shared-information": "정보",
+    "shared-notes": "공공 메모",
+    "my-notes": "사유 메모",
+    "photos": "프로필 사진",
+    "logos": "회사 로고",
+    "design-mappings": "디자인 및 레이아웃",
+    "share-link": "링크",
+    "waiting-for-code": "임시 코드 준비중...",
+    "received-back": "되로",
+    "received-done": "완료"
   }
 }

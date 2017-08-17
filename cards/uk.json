@@ -55,6 +55,17 @@
     "live-cards-information": "Інформація",
     "live-cards-my-information": "Моя інформація",
     "live-cards-shared-notes": "Нотатки для всіх",
-    "live-cards-my-notes": "Приватні нотатки"
+    "live-cards-my-notes": "Приватні нотатки",
+
+    "shared-information": "Інформація",
+    "shared-notes": "Публічні нотатки",
+    "my-notes": "Приватні нотатки",
+    "photos": "Фотографії",
+    "logos": "Логотипи",
+    "design-mappings": "Дизайн та макет",
+    "share-link": "Посилання",
+    "waiting-for-code": "Генеруємо код...",
+    "received-back": "Повернутися",
+    "received-done": "Готово"
   }
 }

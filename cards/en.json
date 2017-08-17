@@ -55,6 +55,17 @@
     "live-cards-information": "Information",
     "live-cards-my-information": "My Information",
     "live-cards-shared-notes": "Shared Notes",
-    "live-cards-my-notes": "Private Notes"
+    "live-cards-my-notes": "Private Notes",
+
+    "shared-information": "Information",
+    "shared-notes": "Public notes",
+    "my-notes": "Private notes",
+    "photos": "Photos",
+    "logos": "Logos",
+    "design-mappings": "Design & Mappings",
+    "share-link": "Link",
+    "waiting-for-code": "Waiting for code...",
+    "received-back": "Back",
+    "received-done": "Done"
   }
 }
