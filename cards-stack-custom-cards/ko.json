@@ -2,15 +2,15 @@
   "data": {
     "cards-stack-custom-cards-title": "새로운 스텍",
     "cards-stack-custom-cards-subtitle": "개인 연락처 그룹",
-    "custom-cards-more": "기타 기능",
-    "custom-cards-type-here": "스텍 이름 입력",
-    "custom-cards-add-cards": "추가",
-    "custom-cards-edit-card": "편집",
-    "custom-cards-delete-card": "삭제",
-    "custom-cards-add-to-favourites": "즐겨찾기에 추가",
-    "custom-cards-remove-from-stack": "스텍에서 삭제",
-    "custom-cards-empty-heading": "Let's add some cards",
-    "custom-cards-empty-text-add": "You can add live or phonebook cards to this stack.",
-    "custom-cards-empty-facebook-button": "Add cards"
+    "cards-stack-custom-cards-more": "기타 기능",
+    "cards-stack-custom-cards-type-here": "스텍 이름 입력",
+    "cards-stack-custom-cards-add-cards": "추가",
+    "cards-stack-custom-cards-edit-card": "편집",
+    "cards-stack-custom-cards-delete-card": "삭제",
+    "cards-stack-custom-cards-add-to-favourites": "즐겨찾기에 추가",
+    "cards-stack-custom-cards-remove-from-stack": "스텍에서 삭제",
+    "cards-stack-custom-cards-empty-heading": "Let's add some cards",
+    "cards-stack-custom-cards-empty-text-add": "You can add live or phonebook cards to this stack.",
+    "cards-stack-custom-cards-empty-button": "Add cards"
   }
 }

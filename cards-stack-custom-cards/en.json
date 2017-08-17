@@ -2,15 +2,15 @@
   "data": {
     "cards-stack-custom-cards-title": "New stack",
     "cards-stack-custom-cards-subtitle": "A custom stack of cards",
-    "custom-cards-more" : "More options",
-    "custom-cards-type-here": "Type here",
-    "custom-cards-add-cards": "Add cards",
-    "custom-cards-edit-card": "Edit",
-    "custom-cards-delete-card": "Delete",
-    "custom-cards-add-to-favourites": "Add to favorites",
-    "custom-cards-remove-from-stack": "Remove from stack",
-    "custom-cards-empty-heading": "Let's add some cards",
-    "custom-cards-empty-text-add": "You can add live or phonebook cards to this stack.",
-    "custom-cards-empty-facebook-button": "Add cards"
+    "cards-stack-custom-cards-more" : "More options",
+    "cards-stack-custom-cards-type-here": "Type here",
+    "cards-stack-custom-cards-add-cards": "Add cards",
+    "cards-stack-custom-cards-edit-card": "Edit",
+    "cards-stack-custom-cards-delete-card": "Delete",
+    "cards-stack-custom-cards-add-to-favourites": "Add to favorites",
+    "cards-stack-custom-cards-remove-from-stack": "Remove from stack",
+    "cards-stack-custom-cards-empty-heading": "Let's add some cards",
+    "cards-stack-custom-cards-empty-text-add": "You can add live or phonebook cards to this stack.",
+    "cards-stack-custom-cards-empty-button": "Add cards"
   }
 }
