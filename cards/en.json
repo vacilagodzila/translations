@@ -49,6 +49,12 @@
     "email-personal": "Email Personal",
     "email-other": "Email Other",
     "title": "Title",
-    "organization": "Organization"
+    "organization": "Organization",
+
+    "live-cards-update-personal-shared-card": "Update live card",
+    "live-cards-information": "Information",
+    "live-cards-my-information": "My Information",
+    "live-cards-shared-notes": "Shared Notes",
+    "live-cards-my-notes": "Private Notes"
   }
 }
