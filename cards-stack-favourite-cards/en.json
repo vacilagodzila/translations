@@ -1,14 +1,14 @@
 {
   "data": {
-    "favourite-cards": "Favorites",
-    "favourite-cards-subtitle": "Most important cards at your fingertips",
-    "favourite-add": "Add to favorites",
-    "favourite-more": "More options",
-    "edit-card":"Edit card",
-    "delete-card":"Delete card",
-    "remove-from-favourites":"Remove from favorites",
-    "favourite-cards-empty-heading": "It's lonely here",
-    "favourite-cards-empty-text-add": "Add some cards to this stack for quick access.",
-    "favourite-cards-empty-facebook-button": "Add cards"
+    "cards-stack-favourite-cards-title": "Favorites",
+    "cards-stack-favourite-cards-subtitle": "Most important cards at your fingertips",
+    "cards-stack-favourite-cards-add": "Add to favorites",
+    "cards-stack-favourite-cards-more": "More options",
+    "cards-stack-favourite-cards-edit-card":"Edit card",
+    "cards-stack-favourite-cards-delete-card":"Delete card",
+    "cards-stack-favourite-cards-remove-from-favourites":"Remove from favorites",
+    "cards-stack-favourite-cards-empty-heading": "It's lonely here",
+    "cards-stack-favourite-cards-empty-text-add": "Add some cards to this stack for quick access.",
+    "cards-stack-favourite-cards-empty-facebook-button": "Add cards"
   }
 }

@@ -1,14 +1,14 @@
 {
   "data": {
-    "favourite-cards": "Улюблені",
-    "favourite-cards-subtitle": "Додавайте картки для швидкого доступу",
-    "favourite-add": "Додати до улюблених",
-    "favourite-more": "Інші функції",
-    "edit-card": "Редагувати",
-    "delete-card": "Видалити",
-    "remove-from-favourites": "Прибрати з улюблених",
-    "favourite-cards-empty-heading": "Тут поки пусто",
-    "favourite-cards-empty-text-add": "Додайте картки для швидкого доступу.",
-    "favourite-cards-empty-facebook-button": "Додати картки"
+    "cards-stack-favourite-cards-title": "Улюблені",
+    "cards-stack-favourite-cards-subtitle": "Додавайте картки для швидкого доступу",
+    "cards-stack-favourite-cards-add": "Додати до улюблених",
+    "cards-stack-favourite-cards-more": "Інші функції",
+    "cards-stack-favourite-cards-edit-card": "Редагувати",
+    "cards-stack-favourite-cards-delete-card": "Видалити",
+    "cards-stack-favourite-cards-remove-from-favourites": "Прибрати з улюблених",
+    "cards-stack-favourite-cards-empty-heading": "Тут поки пусто",
+    "cards-stack-favourite-cards-empty-text-add": "Додайте картки для швидкого доступу.",
+    "cards-stack-favourite-cards-empty-facebook-button": "Додати картки"
   }
 }
