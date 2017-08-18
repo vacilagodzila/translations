@@ -1,7 +1,7 @@
 {
   "data": {
-    "settings": "설정",
-    "settings-subtitle": "계정, 언어, SNS동기화 및 지원 등 설정",
+    "cards-stack-designer-settings-title": "설정",
+    "cards-stack-designer-settings-subtitle": "계정, 언어, SNS동기화 및 지원 등 설정",
     "settings-general": "일반",
     "settings-sorting": "정렬 순서",
     "sorting-first-last": "이름, 성",
@@ -43,14 +43,11 @@
     "remove-session": "세션 삭제",
     "sessions-active": "활성 세션",
     "settings-support": "서비스",
-    "settings-help": "도움",
     "settings-report-a-problem": "문제 전하기",
     "settings-report-a-problem-describe": "문제 상세",
     "settings-report-a-problem-placeholder": "자세한 설명을 입력하십시오.",
     "settings-report-a-problem-attach": "스크린샷",
     "settings-report-a-problem-submit": "보내기",
-    "settings-terms": "사용권",
-    "settings-licenses": "법적 공지",
     "settings-privacy-policy": "개인정보",
     "settings-storyline": "이야기 및 진행"
   }

@@ -1,7 +1,7 @@
 {
   "data": {
-    "settings": "Налаштування",
-    "settings-subtitle": "Керуйте обліковим записом, виглядом та поведінкою додатку",
+    "cards-stack-designer-settings-title": "Налаштування",
+    "cards-stack-designer-settings-subtitle": "Керуйте обліковим записом, виглядом та поведінкою додатку",
     "settings-general": "Загальні",
     "settings-sorting": "Порядок",
     "sorting-first-last": "Ім'я, прізвище",
@@ -43,14 +43,11 @@
     "remove-session": "Видалити сеанс",
     "sessions-active": "Активні сеанси",
     "settings-support": "Підтримка",
-    "settings-help": "Допомога",
     "settings-report-a-problem": "Повідомити про проблему",
     "settings-report-a-problem-describe": "Опис проблеми",
     "settings-report-a-problem-placeholder": "Будь ласка опишіть якомога детальніше",
     "settings-report-a-problem-attach": "Долучити скріншот",
     "settings-report-a-problem-submit": "Відправити розробникам",
-    "settings-terms": "Умови користування",
-    "settings-licenses": "Ліцензії",
     "settings-privacy-policy": "Політика приватності",
     "settings-storyline": "Розповідь та прогрес"
   }

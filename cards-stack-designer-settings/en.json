@@ -1,7 +1,7 @@
 {
   "data": {
-    "settings": "Settings",
-    "settings-subtitle": "Change your account settings, language, the way app looks and behaves",
+    "cards-stack-designer-settings-title": "Settings",
+    "cards-stack-designer-settings-subtitle": "Change your account settings, language, the way app looks and behaves",
     "settings-general": "General",
     "settings-sorting": "Sorting",
     "sorting-first-last": "First, Last",
@@ -43,14 +43,11 @@
     "remove-session": "Remove session",
     "sessions-active": "Active sessions",
     "settings-support": "Support",
-    "settings-help": "Help",
     "settings-report-a-problem": "Report an issue",
     "settings-report-a-problem-describe": "Description",
     "settings-report-a-problem-placeholder": "Please provide a detailed description",
     "settings-report-a-problem-attach": "Screenshot",
     "settings-report-a-problem-submit": "Submit",
-    "settings-terms": "Terms of Use",
-    "settings-licenses": "Licenses",
     "settings-privacy-policy": "Privacy Policy",
     "settings-storyline": "Storyline and progress"
   }
