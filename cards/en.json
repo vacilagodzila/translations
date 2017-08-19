@@ -21,7 +21,6 @@
     "update-personal-shared-card": "Update live card",
     "add-cards-to-stack": "Add to stack",
 
-    "type-here": "Type here",
     "other": "Other",
     "select-data": "Select data",
     "select-field": "Select field",
@@ -57,9 +56,6 @@
     "live-cards-shared-notes": "Shared Notes",
     "live-cards-my-notes": "Private Notes",
 
-    "shared-information": "Information",
-    "shared-notes": "Public notes",
-    "my-notes": "Private notes",
     "photos": "Photos",
     "logos": "Logos",
     "design-mappings": "Design & Mappings",

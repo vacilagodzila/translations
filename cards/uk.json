@@ -21,7 +21,6 @@
     "update-personal-shared-card": "Оновити живу картку",
     "add-cards-to-stack": "Додати до стеку",
 
-    "type-here": "Почніть набирати...",
     "first-name": "Ім'я",
     "last-name": "Прізвище",
     "full-name": "Повне ім'я",
@@ -57,9 +56,6 @@
     "live-cards-shared-notes": "Нотатки для всіх",
     "live-cards-my-notes": "Приватні нотатки",
 
-    "shared-information": "Інформація",
-    "shared-notes": "Публічні нотатки",
-    "my-notes": "Приватні нотатки",
     "photos": "Фотографії",
     "logos": "Логотипи",
     "design-mappings": "Дизайн та макет",

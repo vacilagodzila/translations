@@ -1,5 +1,7 @@
 {
   "data": {
-    "cards-combobox-save-as-custom-field-name": "Save as custom field name"
+    "cards-combobox-no-matching-input-options": "There are no options matching your input",
+    "cards-combobox-save-as-custom-field-name": "Save as custom field name",
+    "cards-combobox-type-here": "Type here"
   }
 }

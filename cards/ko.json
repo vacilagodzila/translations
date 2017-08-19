@@ -21,7 +21,6 @@
     "update-personal-shared-card": "갱신 라이브 카드",
     "add-cards-to-stack": "스텍에 추가",
 
-    "type-here": "입력하기",
     "first-name": "이름",
     "last-name": "성",
     "full-name": "성/이름",
@@ -56,9 +55,6 @@
     "live-cards-shared-notes": "공공 메모",
     "live-cards-my-notes": "사유 메모",
 
-    "shared-information": "정보",
-    "shared-notes": "공공 메모",
-    "my-notes": "사유 메모",
     "photos": "프로필 사진",
     "logos": "회사 로고",
     "design-mappings": "디자인 및 레이아웃",
