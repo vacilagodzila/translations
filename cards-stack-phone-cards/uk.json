@@ -1,0 +1,19 @@
+{
+  "data": {
+    "cards-stack-phone-cards-title": "Звичайні картки",
+    "cards-stack-phone-cards-subtitle": "Контакти людей, які поки що не використовують Cards",
+    "cards-stack-phone-cards-edit-card": "Редагувати",
+    "cards-stack-phone-cards-delete-card": "Видалити",
+    "cards-stack-phone-cards-add-to-favourites": "Додати до улюблених",
+    "cards-stack-phone-cards-more-button-label": "Інші функції",
+    "cards-stack-phone-cards-empty-heading": "Про звичайні картки",
+    "cards-stack-phone-cards-empty-text-add": "Звичайні картки імортуються з контактів телефону або створюються вручну. Вони не оновлюються автоматично.",
+    "cards-stack-phone-cards-empty-button": "Створити звичайну картку",
+    "cards-stack-phone-cards-create-card": "Створити картку",
+    "cards-stack-phone-cards-update-card": "Оновити картку",
+    "cards-stack-phone-cards-my-information" : "Інформація",
+    "cards-stack-phone-cards-my-notes" : "Нотатки",
+    "cards-stack-phone-cards-create": "Нова картка",
+    "cards-stack-phone-cards-update": "Оновити картку"
+  }
+}

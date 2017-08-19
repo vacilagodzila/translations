@@ -9,6 +9,7 @@
     "cards-page-phone-number-important": "Важлива інформація",
     "cards-page-phone-number-info": "Додайте декілька номерів телефону для синхронізації та доступу до Cards на всіх пристроях. Альтернативного способу залогуватися не існує. Переконайтесь, що ви можете отримувати СМС з паролем на телефон.",
     "cards-page-phone-number-info-add": "Щоб додати номер, натисніть",
-    "cards-page-phone-number-info-modify": "Щоб замінити чи видалити номер, натисніть"
+    "cards-page-phone-number-info-modify": "Щоб замінити чи видалити номер, натисніть",
+    "cards-page-phone-number-remove": ""
   }
 }

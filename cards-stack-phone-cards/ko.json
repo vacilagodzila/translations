@@ -1,0 +1,19 @@
+{
+  "data": {
+    "cards-stack-phone-cards-title": "기본 카드",
+    "cards-stack-phone-cards-subtitle": "Cards에 수입한 기본 연락처 카드",
+    "cards-stack-phone-cards-edit-card": "편집",
+    "cards-stack-phone-cards-delete-card": "삭제",
+    "cards-stack-phone-cards-add-to-favourites": "즐겨찾기에 추가",
+    "cards-stack-phone-cards-more-button-label": "기타 기능",
+    "cards-stack-phone-cards-empty-heading": "About phonebook cards",
+    "cards-stack-phone-cards-empty-text-add": "Phonebook cards can be imported from your phone's local contacts or manually created. They don't auto-update.",
+    "cards-stack-phone-cards-empty-button": "Create phonebook card",
+    "cards-stack-phone-cards-create-card": "기본 카드 만들기",
+    "cards-stack-phone-cards-update-card": "기본 카드 업데이트",
+    "cards-stack-phone-cards-my-information": "정보",
+    "cards-stack-phone-cards-my-notes": "메모",
+    "cards-stack-phone-cards-create": "새로운 카드",
+    "cards-stack-phone-cards-update": "갱신 카드"
+  }
+}

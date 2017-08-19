@@ -9,6 +9,7 @@
     "cards-page-phone-number-important": "공지사항",
     "cards-page-phone-number-info": "전화번호는 고유 한 계정 식별자입니다. 하나 이상 번호를 추가 할 수 있스며 모든 기기에서 액세스 됩니다. 계정에 액세스하는 다른 방법은 없습니다. 로그인 할 때 임시 코드 SMS를 받을 수 있는지 확인하십시오.",
     "cards-page-phone-number-info-add": "추가의 전화번호 등록하기에 다음과 같은 버튼을 눌러 주세요 : ",
-    "cards-page-phone-number-info-modify": "등록된 번호를 편집 및 삭제하기에 다음과 같은 버튼을 눌러 주세요 : "
+    "cards-page-phone-number-info-modify": "등록된 번호를 편집 및 삭제하기에 다음과 같은 버튼을 눌러 주세요 : ",
+    "cards-page-phone-number-remove": ""
   }
 }

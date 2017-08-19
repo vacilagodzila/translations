@@ -9,6 +9,7 @@
     "cards-page-phone-number-important": "Important Information",
     "cards-page-phone-number-info": "Add several numbers to backup and sync Cards across devices. There is no alternative ways to access your account. Make sure you are able to receive SMS with passcode.",
     "cards-page-phone-number-info-add": "Add numbers by pressing ",
-    "cards-page-phone-number-info-modify": "Change numbers by pressing "
+    "cards-page-phone-number-info-modify": "Change numbers by pressing ",
+    "cards-page-phone-number-remove": ""
   }
 }

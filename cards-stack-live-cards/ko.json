@@ -19,6 +19,11 @@
     "cards-stack-live-cards-mark-card": "선텍",
     "cards-stack-live-cards-exchange-successful": "라이브카드를 교환하였습니다.",
     "cards-stack-live-cards-receive-or-exchange-cards": "Receive or exchange cards",
-    "cards-stack-live-cards-connect-to-internet-and-try-again": "인터넷에 연결하고 다시 시도하세요."
+    "cards-stack-live-cards-connect-to-internet-and-try-again": "인터넷에 연결하고 다시 시도하세요.",
+    "cards-stack-live-cards-information": "그들 정보",
+    "cards-stack-live-cards-my-information": "나의 정보",
+    "cards-stack-live-cards-update": "라이브 카드 편집",
+    "cards-stack-live-cards-shared-notes": "공공 메모",
+    "cards-stack-live-cards-my-notes": "사유 메모"
   }
 }
