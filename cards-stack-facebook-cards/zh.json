@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-stack-facebook-cards-title": "Facebook",
+    "cards-stack-facebook-cards-subtitle": "Facebook friends that also use Cards",
+    "cards-stack-facebook-cards-more": "More options",
+    "cards-stack-facebook-cards-empty-heading": "Connect to your Facebook friends",
+    "cards-stack-facebook-cards-empty-text-add": "You will be able to see contact information of friends who also use this app. We will not post anything to your wall.",
+    "cards-stack-facebook-cards-empty-facebook-button": "Continue with Facebook",
+    "cards-stack-facebook-cards-connection-expired-heading": "Connection expired",
+    "cards-stack-facebook-cards-connection-expired-text": "Reconnect social account by clicking the button below."
+  }
+}

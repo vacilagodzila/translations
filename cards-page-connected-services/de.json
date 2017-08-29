@@ -1,0 +1,18 @@
+{
+  "data": {
+    "cards-page-connected-services-title": "Connected Services",
+    "cards-page-connected-services-facebook": "Facebook",
+    "cards-page-connected-services-linkedin": "LinkedIn",
+    "cards-page-connected-services-google": "Google+",
+    "cards-page-connected-services-icloud": "Apple iCloud",
+    "cards-page-connected-services-icloud-credentials": "Login credentials",
+    "cards-page-connected-services-icloud-credentials-email": "Email",
+    "cards-page-connected-services-icloud-credentials-password": "Password",
+    "cards-page-connected-services-icloud-account-actions": "Account actions",
+    "cards-page-connected-services-icloud-delete": "Disconnect",
+    "cards-page-connected-services-twitter": "Twitter",
+    "cards-page-connected-services-social-networks": "Social Networks",
+    "cards-page-connected-services-services": "Contacts Services",
+    "cards-page-connected-services-save-and-close": "Save and close"
+  }
+}

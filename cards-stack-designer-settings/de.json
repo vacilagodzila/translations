@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-stack-designer-settings-title": "Settings",
+    "cards-stack-designer-settings-subtitle": "Change your account settings, language, the way app looks and behaves",
+    "cards-stack-designer-settings-locale": "Language",
+    "cards-stack-designer-settings-support": "Support",
+    "cards-stack-designer-settings-general": "General",
+    "cards-stack-designer-settings-sign-in": "Authenticate",
+    "cards-stack-designer-settings-sign-out": "Log Out",
+    "cards-stack-designer-settings-account": "Account"
+  }
+}

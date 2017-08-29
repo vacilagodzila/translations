@@ -1,0 +1,56 @@
+{
+  "data": {
+    "marketing-contacts-title": "About Cards",
+
+    "marketing-contacts-highlight-introduction-heading": "Light-years ahead",
+    "marketing-contacts-highlight-introduction-description": "No more manual contacts updates. All you need is Cards.",
+    "marketing-contacts-highlight-introduction-feature-register-action": "Get now for free",
+
+    "marketing-contacts-highlight-problem-title": "Start with a live card",
+    "marketing-contacts-highlight-problem-text": "When you start using Cards, your contacts resurrect as live cards. You can make and receive cards for free.",
+    "marketing-contacts-highlight-problem-intuitive": "Intuitive and compact",
+    "marketing-contacts-highlight-problem-customizable": "Customizable to reflect your personality",
+    "marketing-contacts-highlight-problem-interactive": "Interactive, even on the web",
+    "marketing-contacts-highlight-problem-updated": "Updated in real time – no more manual edits",
+    "marketing-contacts-highlight-problem-private": "Private – share the right card with the right person",
+
+    "marketing-contacts-highlight-features-live-card-heading": "Always updated",
+    "marketing-contacts-highlight-features-live-card-text": "Phone numbers, e-mail address–all contact information stays updated with live cards.",
+    "marketing-contacts-highlight-features-multi-profile-heading": "Multiple identities",
+    "marketing-contacts-highlight-features-multi-profile-text": "We recognize that you may have more than one identity: one for work, one for hobby, one for something else.",
+    "marketing-contacts-highlight-features-modular-heading": "Module for everything",
+    "marketing-contacts-highlight-features-modular-text": "Add or remove features with a simple swipe. Connect other contacts services.",
+    "marketing-contacts-highlight-features-devices-heading": "For all devices",
+    "marketing-contacts-highlight-features-devices-text": "Apps for all popular platforms and progressive web-app for your browser. ",
+    "marketing-contacts-highlight-features-devices-link": "Downloads",
+
+    "marketing-contacts-highlight-intelligent-heading": "Intelligent suggestions",
+    "marketing-contacts-highlight-intelligent-description": "The more you use Cards – the smarter it becomes. Search and scroll less – the card is already waiting. Know when is the right time to call someone.",
+    "marketing-contacts-highlight-coming-soon": "Coming soon",
+
+    "marketing-contacts-highlight-digital-title": "100% digital.",
+    "marketing-contacts-highlight-free-title": "100% free.",
+    "marketing-contacts-highlight-gidital-text-replace": "Replace printed business cards with Cards. Go paperless and save money!",
+    "marketing-contacts-highlight-digital-text-never": "Never run out of live cards to give",
+    "marketing-contacts-highlight-digital-text-embed": "Embed interactive cards on any website",
+    "marketing-contacts-highlight-digital-text-autoupdate": "Enhance your contacts with realtime updates",
+
+    "marketing-contacts-highlight-download-app": "Available late 2017",
+    "marketing-contacts-highlight-download-signup": "Get access to beta",
+    "marketing-contacts-highlight-download-access-now": "Already have access?",
+    "marketing-contacts-highlight-download-signup-email": "E-mail address",
+    "marketing-contacts-highlight-download-signup-button": "Request",
+    "marketing-contacts-highlight-download-for-device": "Start using on your device",
+    "marketing-contacts-highlight-download-for-other": "or choose another version below",
+    "marketing-contacts-highlight-download-web-app-link": "Web",
+    "marketing-contacts-highlight-download-web-app": "Open Web-app",
+    "marketing-contacts-highlight-download-ios":"Download for iOS",
+    "marketing-contacts-highlight-download-android":"Download for Android",
+    "marketing-contacts-highlight-download-windows-mobile":"Download for Windows Mobile",
+    "marketing-contacts-highlight-download-chrome":"Download for Chrome OS",
+    "marketing-contacts-highlight-download-mac-os": "Download for macOS",
+    "marketing-contacts-highlight-download-windows": "Download for Windows",
+    "marketing-contacts-highlight-download-fedora": "Download for Fedora/Redhat",
+    "marketing-contacts-highlight-download-ubuntu": "Download for Ubuntu/Debian"
+  }
+}
