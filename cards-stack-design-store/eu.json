@@ -1,0 +1,28 @@
+{
+  "data": {
+    "cards-stack-design-store-title": "Магазин дизайнів",
+    "cards-stack-design-store-subtitle": "Завантажуйте нові дизайни персональних живих карток",
+    "cards-stack-design-store-get-card-design": "Завантажити дизайн",
+    "cards-stack-design-store-get-card-design-success": "Готово! Редагуйте картку щоб застосувати цей дизайн.",
+    "cards-stack-design-store-get-card-design-unsuccess": "Неможливо завантижити дизайн. Спробуйте ще раз.",
+    "cards-stack-design-store-info": "Інформація",
+    "cards-stack-design-store-author": "Митець",
+    "cards-stack-design-store-category": "Категорія",
+    "cards-stack-design-store-date": "Дата",
+    "cards-stack-design-store-description": "Опис",
+    "cards-stack-design-store-customize": "Перегляд кольорів",
+    "cards-stack-design-store-no-description": "Автор не надав ніякого опису.",
+    "cards-stack-design-store-other-by-author": "Більше від",
+    "cards-stack-design-store-other-category": "Інші в категорії",
+    "design-store-section-cities": "Навколо світу",
+    "design-store-section-floral": "Квіти",
+    "design-store-section-professions": "Професії",
+    "design-store-section-modern": "Різне",
+    "design-store-section-new-and-noteworthy": "Нові та цікаві",
+    "design-store-section-simple-designs": "Усе геніальне — просте",
+    "design-store-section-anna-oliynyk": "Дизайнер Анна Олійник",
+    "design-store-section-colorful": "Кольорове життя",
+    "design-store-section-franchize": "Відомі бренди",
+    "design-store-section-sophisticated": "Витончені"
+  }
+}

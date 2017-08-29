@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-stack-google-cards-title": "Контакти Google",
+    "cards-stack-google-cards-subtitle": "Доступ до контактів Google на всіх пристроях",
+    "cards-stack-google-cards-more": "Інші функції",
+    "cards-stack-google-cards-empty-heading":"Під'єднайте контакти Google",
+    "cards-stack-google-cards-empty-text": "Перетворіть контакти Google в картки.",
+    "cards-stack-google-cards-empty-button": "Увійти до Google",
+    "cards-stack-google-cards-connection-expired-heading": "З'єднання втрачено",
+    "cards-stack-google-cards-connection-expired-text": "Увійдіть в свій обліковий запис знову."
+  }
+}

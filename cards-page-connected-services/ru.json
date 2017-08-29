@@ -1,0 +1,18 @@
+{
+  "data": {
+    "cards-page-connected-services-title": "Під'єднані сервіси",
+    "cards-page-connected-services-facebook": "Facebook",
+    "cards-page-connected-services-linkedin": "LinkedIn",
+    "cards-page-connected-services-google": "Google+",
+    "cards-page-connected-services-icloud": "Apple iCloud",
+    "cards-page-connected-services-icloud-credentials": "Дані для входу",
+    "cards-page-connected-services-icloud-credentials-email": "Логін",
+    "cards-page-connected-services-icloud-credentials-password": "Пароль",
+    "cards-page-connected-services-icloud-account-actions": "Керування записом",
+    "cards-page-connected-services-icloud-delete": "Від'єднати",
+    "cards-page-connected-services-twitter": "Twitter",
+    "cards-page-connected-services-social-networks": "Соціальні мережі",
+    "cards-page-connected-services-services": "Сервіси контактів",
+    "cards-page-connected-services-save-and-close": "Зберегти і закрити"
+  }
+}

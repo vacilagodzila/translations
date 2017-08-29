@@ -1,0 +1,29 @@
+{
+  "data": {
+    "cards-stack-live-cards-title": "Живі картки",
+    "cards-stack-live-cards-subtitle": "Ніколи не втрачайте зв'язок з людьми завдяки живим карткам, що автоматично оновлюються",
+    "cards-stack-live-cards-enter-code-here": "Уведіть код",
+    "cards-stack-live-cards-edit-card": "Редагувати",
+    "cards-stack-live-cards-delete-card": "Видалити",
+    "cards-stack-live-cards-add-to-favourites": "Додати до улюблених",
+    "cards-stack-live-cards-cancel-and-return": "Відмінити та повернутись",
+    "cards-stack-live-cards-add-live-cards": "Отримати живу картку",
+    "cards-stack-live-cards-sharing-code": "Код",
+    "cards-stack-live-cards-received-cards": "Отримані картки",
+    "cards-stack-live-cards-approve-incoming-cards": "Підтвердити",
+    "cards-stack-live-cards-more": "Інші функції",
+    "cards-stack-live-cards-share-cards": "Поділитися картками",
+    "cards-stack-live-cards-heading": "Отримайте першу живу картку",
+    "cards-stack-live-cards-text-add": "Натисніть на кнопку внизу щоб увести тимчасовий код.",
+    "cards-stack-live-cards-button": "Отримати картку",
+    "cards-stack-live-cards-mark-card": "Вибрати",
+    "cards-stack-live-cards-exchange-successful": "Обмін живими картками успішний.",
+    "cards-stack-live-cards-receive-or-exchange-cards": "Receive or exchange cards",
+    "cards-stack-live-cards-connect-to-internet-and-try-again": "Під'єднайтесь до інтернету і спробуйте знову.",
+    "cards-stack-live-cards-information": "Інформація",
+    "cards-stack-live-cards-my-information": "Моя інформація",
+    "cards-stack-live-cards-update": "Оновити живу картку",
+    "cards-stack-live-cards-shared-notes": "Нотатки для всіх",
+    "cards-stack-live-cards-my-notes": "Приватні нотатки"
+  }
+}
