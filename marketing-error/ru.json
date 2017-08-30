@@ -1,10 +1,10 @@
 {
   "data": {
-    "marketing-error-title": "Помилка {errorCode}",
-    "marketing-error-something-is-missing": "Щось пішло не так",
-    "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Відвідайте {supportPageFormatMessage} або {twitterFormatMessage} для допомоги або поверніться {homeFormatMessage}",
-    "marketing-error-support-page": "сторінку підтримки",
-    "marketing-error-twitter": "Твітер",
-    "marketing-error-home": "додому"
+    "marketing-error-title": "Ошибка {errorCode}",
+    "marketing-error-something-is-missing": "Что-то пошло не так",
+    "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Перейдите {supportPageFormatMessage} или {twitterFormatMessage} для помощи, либо вернитесь на {homeFormatMessage}",
+    "marketing-error-support-page": "страницу поддержки",
+    "marketing-error-twitter": "Твиттер",
+    "marketing-error-home": "домой"
   }
 }
