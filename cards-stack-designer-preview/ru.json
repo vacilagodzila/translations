@@ -1,16 +1,16 @@
 {
   "data": {
-    "cards-stack-designer-preview-title": "Інспектор",
-    "cards-stack-designer-preview-subtitle": "Попередній перегляд дизайну та налаштування кольору",
+    "cards-stack-designer-preview-title": "Инспектор",
+    "cards-stack-designer-preview-subtitle": "Предварительный просмотр дизайна и настройки цвета",
     "cards-stack-designer-preview-mark-card": "Чекбокс",
-    "cards-stack-designer-preview-more-actions-with-card": "Більше функцій",
-    "cards-stack-designer-preview-color-palette": "Налаштування палітри",
+    "cards-stack-designer-preview-more-actions-with-card": "Больше функций",
+    "cards-stack-designer-preview-color-palette": "Настройки палитры",
     "cards-stack-designer-preview-color-harmony": "Модель",
-    "cards-stack-designer-preview-key-color": "Основний колір",
-    "cards-stack-designer-preview-color-index": "Згенерована палітра",
-    "cards-stack-designer-preview-color-index-explanation": "Порада: натисність на колір щоб скопіювати значення.",
-    "cards-stack-designer-preview-size-limit": "Розмір",
-    "cards-stack-designer-preview-decoration-limit": "Декорації",
+    "cards-stack-designer-preview-key-color": "Основной цвет",
+    "cards-stack-designer-preview-color-index": "Сгенерированная палитра",
+    "cards-stack-designer-preview-color-index-explanation": "Совет: нажмите на цвет, чтобы скопировать значение.",
+    "cards-stack-designer-preview-size-limit": "Размер",
+    "cards-stack-designer-preview-decoration-limit": "Декорации",
     "cards-stack-designer-preview-field-limit": "Поля"
   }
 }
