@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-ui-engine-drag-up-to-delete": "Посуньте вгору щоб видалити",
-    "cards-ui-engine-drag-down-to-deactivate": "Посуньте вниз щоб вимкнути",
-    "cards-ui-engine-drag-to-top-to-delete": "Посуньте вгору щоб видалити",
-    "cards-ui-engine-drag-to-center-to-activate": "Посуньте до центру щоб увімкнути"
+    "cards-ui-engine-drag-up-to-delete": "Подвиньте вверх чтобы удалить",
+    "cards-ui-engine-drag-down-to-deactivate": "Подвиньте вниз чтобы выключить",
+    "cards-ui-engine-drag-to-top-to-delete": "Подвиньте вверх чтобы удалить",
+    "cards-ui-engine-drag-to-center-to-activate": "Подвиньте в центр чтобы включить"
   }
 }
