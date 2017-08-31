@@ -1,12 +1,12 @@
 {
   "data": {
-    "cards-stack-apple-cards-title": "Контакти Apple",
-    "cards-stack-apple-cards-subtitle": "Синхронізуйте з контактами від Apple iCloud",
-    "cards-stack-apple-cards-more": "Інші функції",
-    "cards-stack-apple-cards-empty-heading": "Імпорт контактів iCloud",
-    "cards-stack-apple-cards-empty-text": "Зробіть свої контакти доступними на всіх своїх пристроях",
-    "cards-stack-apple-cards-empty-facebook-button": "Увійти до iCloud",
-    "cards-stack-apple-cards-connection-expired-heading": "З'єднання втрачено",
-    "cards-stack-apple-cards-connection-expired-text": "Увійдіть в свій обліковий запис знову."
+    "cards-stack-apple-cards-title": "Контакты Apple",
+    "cards-stack-apple-cards-subtitle": "Синхронизируйте с контактами от Apple iCloud",
+    "cards-stack-apple-cards-more": "Другие функции",
+    "cards-stack-apple-cards-empty-heading": "Импорт контактов iCloud",
+    "cards-stack-apple-cards-empty-text": "Сделайте контакты доступными на всех своих устройствах",
+    "cards-stack-apple-cards-empty-facebook-button": "Войти в iCloud",
+    "cards-stack-apple-cards-connection-expired-heading": "Соединение утеряно",
+    "cards-stack-apple-cards-connection-expired-text": "Войдите в свою учетную запись снова."
   }
 }
