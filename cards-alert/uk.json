@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-alert-authenticate-to-backup-data": "Авторизуйтесь щоб зберегти та синхронізувати дані.",
+    "cards-alert-authenticate-to-backup-data": "Авторизуйтесь, щоб зберегти та синхронізувати дані.",
     "cards-alert-autoconnect-notice": "Цю картку буде автоматично синхронізувано з тими користувачами Cards, які вже мали ваш номер телефону в своїх контактах, і чий номер ви також вже мали у власному списку контактів.",
     "cards-alert-icloud-login-fail": "Ваш обліковий запис Apple або пароль невірний.",
     "cards-alert-storyline-chapter-unlocked": "Доступна нова історія! Натисніть тут, щоб побачити."
