@@ -1,12 +1,12 @@
 {
   "data": {
-    "cards-stack-designer-settings-title": "Налаштування",
-    "cards-stack-designer-settings-subtitle": "Керуйте обліковим записом, виглядом та поведінкою додатку",
-    "cards-stack-designer-settings-locale": "Мова",
-    "cards-stack-designer-settings-support": "Підтримка",
-    "cards-stack-designer-settings-general": "Загальні",
-    "cards-stack-designer-settings-sign-in": "Автентифікація",
-    "cards-stack-designer-settings-sign-out": "Вийти з системи",
-    "cards-stack-designer-settings-account": "Обліковий запис"
+    "cards-stack-designer-settings-title": "Настройки",
+    "cards-stack-designer-settings-subtitle": "Управляйте учетной записью, видом и работой приложения",
+    "cards-stack-designer-settings-locale": "Язык",
+    "cards-stack-designer-settings-support": "Поддержка",
+    "cards-stack-designer-settings-general": "Общие",
+    "cards-stack-designer-settings-sign-in": "Автентификация",
+    "cards-stack-designer-settings-sign-out": "Выйти из системы",
+    "cards-stack-designer-settings-account": "Учетная запись"
   }
 }
