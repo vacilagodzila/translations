@@ -1,21 +1,21 @@
 {
   "data": {
-    "cards-stack-my-cards-title": "Мої картки",
-    "cards-stack-my-cards-subtitle": "Особисті живі картки — діліться з іншими та не втрачайте зв'язок",
-    "cards-stack-my-cards-edit-card": "Редагувати",
-    "cards-stack-my-cards-delete-card": "Видалити",
-    "cards-stack-my-cards-share": "Поділитися",
-    "cards-stack-my-cards-more": "Інші функції",
-    "cards-stack-my-cards-create": "Створити картку",
-    "cards-stack-my-cards-share-card": "Поділитися",
-    "cards-stack-my-cards-share-temp-code": "Тимчасовий код",
+    "cards-stack-my-cards-title": "Мои визитки",
+    "cards-stack-my-cards-subtitle": "Личные живые визитки — делитесь с другими и не теряйте связь",
+    "cards-stack-my-cards-edit-card": "Редактировать",
+    "cards-stack-my-cards-delete-card": "Удалить",
+    "cards-stack-my-cards-share": "Поделиться",
+    "cards-stack-my-cards-more": "Другие функции",
+    "cards-stack-my-cards-create": "Создать визитку",
+    "cards-stack-my-cards-share-card": "Поделиться",
+    "cards-stack-my-cards-share-temp-code": "Временный код",
     "cards-stack-my-cards-done": "Готово",
-    "cards-stack-my-cards-received-cards": "Вхідні картки",
-    "cards-stack-my-cards-exchange-successful": "Обмін живими картками успішний.",
-    "cards-stack-my-cards-tutorial-swipe": "Посувайте для навігації",
-    "cards-stack-my-cards-tutorial-pinch": "Зводьте для зміни інтерфейсу",
+    "cards-stack-my-cards-received-cards": "Входящие визитки",
+    "cards-stack-my-cards-exchange-successful": "Обмен живыми визитками состоялся.",
+    "cards-stack-my-cards-tutorial-swipe": "Подвигайте для навигации",
+    "cards-stack-my-cards-tutorial-pinch": "Сведите для смены интерфейса",
     "cards-stack-my-cards-create-new": "Create a new live card",
     "cards-stack-my-cards-share-or-edit": "Share or edit your card",
-    "cards-stack-my-cards-update": "Оновити живу картку"
+    "cards-stack-my-cards-update": "Обновить живую визитку"
   }
 }
