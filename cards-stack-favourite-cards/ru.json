@@ -1,14 +1,14 @@
 {
   "data": {
-    "cards-stack-favourite-cards-title": "Улюблені",
-    "cards-stack-favourite-cards-subtitle": "Додавайте картки для швидкого доступу",
-    "cards-stack-favourite-cards-add": "Додати до улюблених",
-    "cards-stack-favourite-cards-more": "Інші функції",
-    "cards-stack-favourite-cards-edit-card": "Редагувати",
-    "cards-stack-favourite-cards-delete-card": "Видалити",
-    "cards-stack-favourite-cards-remove-from-favourites": "Прибрати з улюблених",
-    "cards-stack-favourite-cards-empty-heading": "Тут поки пусто",
-    "cards-stack-favourite-cards-empty-text-add": "Додайте картки для швидкого доступу.",
-    "cards-stack-favourite-cards-empty-facebook-button": "Додати картки"
+    "cards-stack-favourite-cards-title": "Избранные",
+    "cards-stack-favourite-cards-subtitle": "Добавляйте визитки для быстрого доступа",
+    "cards-stack-favourite-cards-add": "Добавить к избранным",
+    "cards-stack-favourite-cards-more": "Другие функции",
+    "cards-stack-favourite-cards-edit-card": "Редактировать",
+    "cards-stack-favourite-cards-delete-card": "Удалить",
+    "cards-stack-favourite-cards-remove-from-favourites": "Убрать из избранных",
+    "cards-stack-favourite-cards-empty-heading": "Здесь пока ничего нет",
+    "cards-stack-favourite-cards-empty-text-add": "Добавьте визитки для быстрого доступа.",
+    "cards-stack-favourite-cards-empty-facebook-button": "Добавить визитки"
   }
 }
