@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-page-sessions-title": "Активні сеанси",
-    "cards-page-sessions-current": "Активні сеанси",
-    "cards-page-sessions-description": "Нижче наведений список пристроїв на яких ви увійшли в Cards. Якщо ви не впізнаєте один з активних сеансів, натисніть ··· і видаліть його.",
-    "cards-page-sessions-info": "Про цей розділ",
-    "cards-page-sessions-remove": "Видалити сеанс"
+    "cards-page-sessions-title": "Активные сеансы",
+    "cards-page-sessions-current": "Активные сеансы",
+    "cards-page-sessions-description": "Список устройств, на которых вы вошли в Cards. Если вы не узнаете один из активных сеансов, нажмите ··· и удалите его.",
+    "cards-page-sessions-info": "О разделе",
+    "cards-page-sessions-remove": "Удалить сеанс"
   }
 }

@@ -1,16 +1,16 @@
 {
   "data": {
-    "cards-stack-custom-cards-title": "Новий стек",
-    "cards-stack-custom-cards-subtitle": "Власна група карток",
-    "cards-stack-custom-cards-more": "Інші функції",
-    "cards-stack-custom-cards-type-here": "Уведіть назву",
-    "cards-stack-custom-cards-add-cards": "Додати картки",
-    "cards-stack-custom-cards-edit-card": "Редагувати",
-    "cards-stack-custom-cards-delete-card": "Видалити",
-    "cards-stack-custom-cards-add-to-favourites": "Додати до улюблених",
-    "cards-stack-custom-cards-remove-from-stack": "Прибрати зі стеку",
-    "cards-stack-custom-cards-empty-heading": "Почнемо додавати картки",
-    "cards-stack-custom-cards-empty-text-add": "В цей стек можна додавати як живі картки, так і звичайні.",
-    "cards-stack-custom-cards-empty-button": "Додати картки"
+    "cards-stack-custom-cards-title": "Новый стек",
+    "cards-stack-custom-cards-subtitle": "Личная группа визиток",
+    "cards-stack-custom-cards-more": "Другие функции",
+    "cards-stack-custom-cards-type-here": "Введите название",
+    "cards-stack-custom-cards-add-cards": "Добавить визитку",
+    "cards-stack-custom-cards-edit-card": "Редактировать",
+    "cards-stack-custom-cards-delete-card": "Удалить",
+    "cards-stack-custom-cards-add-to-favourites": "Добавить в избранные",
+    "cards-stack-custom-cards-remove-from-stack": "Убрать из стека",
+    "cards-stack-custom-cards-empty-heading": "Начнем добавлять визитки",
+    "cards-stack-custom-cards-empty-text-add": "В этот стек можно добавлять живые визитки и обычные.",
+    "cards-stack-custom-cards-empty-button": "Добавить визитки"
   }
 }

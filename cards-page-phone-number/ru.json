@@ -1,15 +1,15 @@
 {
   "data": {
-    "cards-page-phone-number-title": "Номер телефону",
-    "cards-page-phone-number-add": "Додати номер",
-    "cards-page-phone-number-added": "Додані номери",
-    "cards-page-phone-number-delete-account": "Видалити обліковий запис",
-    "cards-page-phone-number-delete-account-button": "Видалити все і вийти",
-    "cards-page-phone-number-delete-account-confirm": "Підтвердіть видалення",
-    "cards-page-phone-number-important": "Важлива інформація",
-    "cards-page-phone-number-info": "Додайте декілька номерів телефону для синхронізації та доступу до Cards на всіх пристроях. Альтернативного способу залогуватися не існує. Переконайтесь, що ви можете отримувати СМС з паролем на телефон.",
-    "cards-page-phone-number-info-add": "Щоб додати номер, натисніть",
-    "cards-page-phone-number-info-modify": "Щоб замінити чи видалити номер, натисніть",
+    "cards-page-phone-number-title": "Номер телефона",
+    "cards-page-phone-number-add": "Добавить номер",
+    "cards-page-phone-number-added": "Сохраненные номера",
+    "cards-page-phone-number-delete-account": "Удалить учетную запись",
+    "cards-page-phone-number-delete-account-button": "Удалить все и выйти",
+    "cards-page-phone-number-delete-account-confirm": "Подтвердите удаление",
+    "cards-page-phone-number-important": "Важно",
+    "cards-page-phone-number-info": "Добавьте несколько номеров телефона для синхронизации и доступа к Cards на всех устройствах. Альтернативного способу залогуватися не існує. Переконайтесь, що ви можете отримувати СМС з паролем на телефон.",
+    "cards-page-phone-number-info-add": "Чтобы добавить номер, нажмите",
+    "cards-page-phone-number-info-modify": "Чтобы изменить или удалить номер, нажмите",
     "cards-page-phone-number-remove": ""
   }
 }

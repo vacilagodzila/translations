@@ -1,12 +1,12 @@
 {
   "data": {
     "cards-stack-linkedin-cards-title": "LinkedIn",
-    "cards-stack-linkedin-cards-subtitle": "Ваші професійні контакти",
-    "cards-stack-linkedin-cards-more": "Інші функції",
-    "cards-stack-linkedin-cards-empty-heading":"Під'єднайте мережу LinkedIn",
-    "cards-stack-linkedin-cards-empty-text-add":"Отримайте цифрові візитівки всіх контактів з LinkedIn. Cards не дописує до вашої стрічки.",
-    "cards-stack-linkedin-cards-empty-linkedin-button": "Увійти до LinkedIn",
-    "cards-stack-linkedin-cards-connection-expired-heading": "З'єднання втрачено",
-    "cards-stack-linkedin-cards-connection-expired-text": "Увійдіть в свій обліковий запис знову."
+    "cards-stack-linkedin-cards-subtitle": "Ваши профессиональные контакты",
+    "cards-stack-linkedin-cards-more": "Другие функции",
+    "cards-stack-linkedin-cards-empty-heading":"Подключите LinkedIn",
+    "cards-stack-linkedin-cards-empty-text-add":"Получите цифровые визитки ваших контактов из LinkedIn. Cards не дописывает на вашей странице.",
+    "cards-stack-linkedin-cards-empty-linkedin-button": "Войти в LinkedIn",
+    "cards-stack-linkedin-cards-connection-expired-heading": "Соединение утеряно",
+    "cards-stack-linkedin-cards-connection-expired-text": "Войдите в свою учетную запись снова."
   }
 }

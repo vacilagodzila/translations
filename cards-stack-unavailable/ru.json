@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-stack-unavailable-title": "Недоступний стек",
-    "cards-stack-unavailable-subtitle": "Зміст цього стеку недоступний. Оновіть Cards.",
-    "cards-stack-unavailable-not-available": "Недоступний",
-    "cards-stack-unavailable-not-available-description": "Неможливо показати вміст.",
-    "cards-stack-unavailable-not-available-action": "Оновити додаток"
+    "cards-stack-unavailable-title": "Недоступный стек",
+    "cards-stack-unavailable-subtitle": "Содержимое этого стека недоступно. Обновите Cards.",
+    "cards-stack-unavailable-not-available": "Недоступно",
+    "cards-stack-unavailable-not-available-description": "Невозможно показать содержимое.",
+    "cards-stack-unavailable-not-available-action": "Обновить приложение"
   }
 }
