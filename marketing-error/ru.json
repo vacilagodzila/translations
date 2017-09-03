@@ -2,7 +2,7 @@
   "data": {
     "marketing-error-title": "Ошибка {errorCode}",
     "marketing-error-something-is-missing": "Что-то пошло не так",
-    "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Перейдите {supportPageFormatMessage} или {twitterFormatMessage} для помощи, либо вернитесь на {homeFormatMessage}",
+    "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Перейдите {supportPageFormatMessage} для помощи, либо вернитесь на {homeFormatMessage}",
     "marketing-error-support-page": "страницу поддержки",
     "marketing-error-twitter": "Твиттер",
     "marketing-error-home": "домой"
