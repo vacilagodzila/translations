@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-stack-microsoft-cards-title": "LinkedIn",
+    "cards-stack-microsoft-cards-subtitle": "Business cards of your professional network",
+    "cards-stack-microsoft-cards-more": "More options",
+    "cards-stack-microsoft-cards-empty-heading":"Connect to LinkedIn network",
+    "cards-stack-microsoft-cards-empty-text-add":"You will be able to get digital cards of all connections who also use this app. We will not post anything to your feed.",
+    "cards-stack-microsoft-cards-empty-linkedin-button": "Sign in with LinkedIn",
+    "cards-stack-microsoft-cards-connection-expired-heading": "Connection expired",
+    "cards-stack-microsoft-cards-connection-expired-text": "Reconnect social account by clicking the button below."
+  }
+}
