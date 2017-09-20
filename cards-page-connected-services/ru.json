@@ -1,8 +1,8 @@
 {
   "data": {
     "cards-page-connected-services-title": "Подключить сайты",
-    "cards-page-connected-services-facebook": "Facebook",
-    "cards-page-connected-services-linkedin": "LinkedIn",
+    "cards-page-connected-services-yahoo": "Yahoo",
+    "cards-page-connected-services-microsoft": "Microsoft",
     "cards-page-connected-services-google": "Google+",
     "cards-page-connected-services-icloud": "Apple iCloud",
     "cards-page-connected-services-icloud-credentials": "Данные для входа",
@@ -10,7 +10,6 @@
     "cards-page-connected-services-icloud-credentials-password": "Пароль",
     "cards-page-connected-services-icloud-account-actions": "Управление записью",
     "cards-page-connected-services-icloud-delete": "Отключить",
-    "cards-page-connected-services-twitter": "Twitter",
     "cards-page-connected-services-social-networks": "Социальные сети",
     "cards-page-connected-services-services": "Импорт контактов",
     "cards-page-connected-services-save-and-close": "Сохранить и закрыть"
