@@ -10,6 +10,8 @@
     "cards-page-connected-services-icloud-credentials-password": "Пароль",
     "cards-page-connected-services-icloud-account-actions": "Керування записом",
     "cards-page-connected-services-icloud-delete": "Від'єднати",
+    "cards-page-connected-services-icloud-app-password": "Пароль додатку",
+    "cards-page-connected-services-icloud-notice": "Якщо ви використовуєте двокрокову автентифікацію для iCloud, отримайте пароль додатку для свого облікового запису Apple на сайті appleid.apple.com",
     "cards-page-connected-services-social-networks": "Соціальні мережі",
     "cards-page-connected-services-services": "Сервіси контактів",
     "cards-page-connected-services-save-and-close": "Зберегти і закрити"
