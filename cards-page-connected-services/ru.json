@@ -8,6 +8,8 @@
     "cards-page-connected-services-icloud-credentials": "Данные для входа",
     "cards-page-connected-services-icloud-credentials-email": "Логин",
     "cards-page-connected-services-icloud-credentials-password": "Пароль",
+    "cards-page-connected-services-icloud-app-password": "Пароль приложения",
+    "cards-page-connected-services-icloud-notice": "Если вы используете двухфакторную аутентификацию в iCloud, получите пароль приложения для вашей учетной записи Apple на сайте appleid.apple.com",
     "cards-page-connected-services-icloud-account-actions": "Управление записью",
     "cards-page-connected-services-icloud-delete": "Отключить",
     "cards-page-connected-services-social-networks": "Социальные сети",
