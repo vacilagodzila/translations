@@ -1,5 +1,8 @@
 {
   "data": {
-    "cards-page-storyline-title": "Сторилайн"
+    "cards-page-storyline-title": "Сторилайн",
+    "cards-page-storyline-story": "The Kingdom of Cards",
+    "cards-page-storyline-unavailable": "Couldn't load storyline.",
+    "cards-page-storyline-unavailable-action": "Try again"
   }
 }
