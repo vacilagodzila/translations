@@ -5,6 +5,7 @@
     "cards-stack-phone-cards-edit-card": "편집",
     "cards-stack-phone-cards-delete-card": "삭제",
     "cards-stack-phone-cards-add-to-favourites": "즐겨찾기에 추가",
+    "cards-stack-phone-cards-add-to-group": "Add to group",
     "cards-stack-phone-cards-more-button-label": "기타 기능",
     "cards-stack-phone-cards-empty-heading": "About phone cards",
     "cards-stack-phone-cards-empty-text-add": "Phone cards can be imported from your phone's local contacts or manually created. They don't auto-update.",
