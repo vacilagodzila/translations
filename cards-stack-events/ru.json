@@ -1,6 +1,11 @@
 {
   "data": {
-    "cards-stack-events-stack-title": "Events",
-    "cards-stack-events-stack-subtitle": "A stack of events"
+    "cards-stack-events-stack-title": "События",
+    "cards-stack-events-stack-subtitle": "Присоединяйтесь к событиям, чтобы находить новые контакты и расширять круг общения.",
+    "cards-stack-events-add-cards-page-title": "Выбрать визитку",
+    "cards-stack-events-share-card-action-sheet": "Добавить себе",
+    "cards-stack-events-alert-event-missing": "НЛО прилетело и забрало это событие",
+    "cards-stack-events-alert-event-not-started": "Регистрация на событие еще не началась",
+    "cards-stack-events-alert-event-ended": "Событие уже закончилось"
   }
 }

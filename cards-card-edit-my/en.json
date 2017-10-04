@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-card-edit-my-shared-information": "Information",
-    "cards-card-edit-my-shared-notes": "Public notes",
-    "cards-card-edit-my-private-notes": "Private notes"
+    "cards-card-edit-my-shared-notes": "Notes for everyone",
+    "cards-card-edit-my-private-notes": "Notes for me"
   }
 }

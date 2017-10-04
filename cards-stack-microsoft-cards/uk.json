@@ -1,12 +1,12 @@
 {
   "data": {
     "cards-stack-microsoft-cards-title": "Microsoft",
-    "cards-stack-microsoft-cards-subtitle": "Ваші професійні контакти",
-    "cards-stack-microsoft-cards-more": "Інші функції",
-    "cards-stack-microsoft-cards-empty-heading":"Під'єднайте мережу Microsoft",
-    "cards-stack-microsoft-cards-empty-text-add":"Отримайте цифрові візитівки всіх контактів з Microsoft. Cards не дописує до вашої стрічки.",
+    "cards-stack-microsoft-cards-subtitle": "Контакти з Microsoft Outlook або Office 365",
+    "cards-stack-microsoft-cards-more": "Більше функцій",
+    "cards-stack-microsoft-cards-empty-heading":"Імпортувати контакти",
+    "cards-stack-microsoft-cards-empty-text-add":"Імпортувати контакти з облікового запису Microsoft (Outlook, Office 365)",
     "cards-stack-microsoft-cards-empty-microsoft-button": "Увійти до Microsoft",
     "cards-stack-microsoft-cards-connection-expired-heading": "З'єднання втрачено",
-    "cards-stack-microsoft-cards-connection-expired-text": "Увійдіть в свій обліковий запис знову."
+    "cards-stack-microsoft-cards-connection-expired-text": "Відновіть з'єднання з обліковим записом Microsoft."
   }
 }

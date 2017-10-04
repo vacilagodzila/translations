@@ -1,14 +1,15 @@
 {
   "data": {
-    "cards-stack-phone-cards-title": "Phone cards",
-    "cards-stack-phone-cards-subtitle": "Cards of people who didn't get invite to Cards",
+    "cards-stack-phone-cards-title": "Imported from Phone",
+    "cards-stack-phone-cards-subtitle": "Cards imported from your phone's old address book",
     "cards-stack-phone-cards-edit-card": "Edit card",
     "cards-stack-phone-cards-delete-card": "Delete card",
     "cards-stack-phone-cards-add-to-favourites": "Add to favorites",
     "cards-stack-phone-cards-more-button-label": "More options",
     "cards-stack-phone-cards-empty-heading": "About phone cards",
     "cards-stack-phone-cards-empty-text-add": "Phone cards can be imported from your phone's local contacts or manually created. They don't auto-update.",
-    "cards-stack-phone-cards-empty-button": "Create phone card",
+    "cards-stack-phone-cards-empty-button-add": "Create phone card",
+    "cards-stack-phone-cards-empty-button-import": "Import from phone",
     "cards-stack-phone-cards-create-card": "Create card",
     "cards-stack-phone-cards-update-card": "Update card",
     "cards-stack-phone-cards-my-information": "Information",

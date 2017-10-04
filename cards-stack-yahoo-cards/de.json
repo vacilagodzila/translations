@@ -1,12 +1,12 @@
 {
   "data": {
     "cards-stack-yahoo-cards-title": "Yahoo",
-    "cards-stack-yahoo-cards-subtitle": "Yahoo friends that also use Cards",
+    "cards-stack-yahoo-cards-subtitle": "Get contact information from your Yahoo address book",
     "cards-stack-yahoo-cards-more": "More options",
-    "cards-stack-yahoo-cards-empty-heading": "Connect to your Yahoo friends",
-    "cards-stack-yahoo-cards-empty-text-add": "You will be able to see contact information of friends who also use this app. We will not post anything to your wall.",
-    "cards-stack-yahoo-cards-empty-yahoo-button": "Continue with Yahoo",
+    "cards-stack-yahoo-cards-empty-heading": "Import Yahoo contacts",
+    "cards-stack-yahoo-cards-empty-text-add": "You will see contact information from your Yahoo address book.",
+    "cards-stack-yahoo-cards-empty-yahoo-button": "Connect to Yahoo",
     "cards-stack-yahoo-cards-connection-expired-heading": "Connection expired",
-    "cards-stack-yahoo-cards-connection-expired-text": "Reconnect social account by clicking the button below."
+    "cards-stack-yahoo-cards-connection-expired-text": "Reconnect Yahoo account by clicking the button below."
   }
 }

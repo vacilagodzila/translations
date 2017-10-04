@@ -1,12 +1,12 @@
 {
   "data": {
     "cards-stack-microsoft-cards-title": "Microsoft",
-    "cards-stack-microsoft-cards-subtitle": "Ваши профессиональные контакты",
-    "cards-stack-microsoft-cards-more": "Другие функции",
-    "cards-stack-microsoft-cards-empty-heading":"Подключите Microsoft",
-    "cards-stack-microsoft-cards-empty-text-add":"Получите цифровые визитки ваших контактов из Microsoft. Cards не дописывает на вашей странице.",
+    "cards-stack-microsoft-cards-subtitle": "Контакты из Microsoft Outlook или Office 365",
+    "cards-stack-microsoft-cards-more": "Больше функций",
+    "cards-stack-microsoft-cards-empty-heading":"Импортировать контакты",
+    "cards-stack-microsoft-cards-empty-text-add":"Импортируйте контакты из учетной записи Microsoft (Outlook, Office 365)",
     "cards-stack-microsoft-cards-empty-microsoft-button": "Войти в Microsoft",
     "cards-stack-microsoft-cards-connection-expired-heading": "Соединение утеряно",
-    "cards-stack-microsoft-cards-connection-expired-text": "Войдите в свою учетную запись снова."
+    "cards-stack-microsoft-cards-connection-expired-text": "Восстановите соединение с Microsoft."
   }
 }

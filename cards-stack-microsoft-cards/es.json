@@ -1,12 +1,12 @@
 {
   "data": {
     "cards-stack-microsoft-cards-title": "Microsoft",
-    "cards-stack-microsoft-cards-subtitle": "Business cards of your professional network",
+    "cards-stack-microsoft-cards-subtitle": "Contacts imported from Microsoft Account",
     "cards-stack-microsoft-cards-more": "More options",
-    "cards-stack-microsoft-cards-empty-heading":"Connect to Microsoft network",
-    "cards-stack-microsoft-cards-empty-text-add":"You will be able to get digital cards of all connections who also use this app. We will not post anything to your feed.",
+    "cards-stack-microsoft-cards-empty-heading":"Import Microsoft contacts",
+    "cards-stack-microsoft-cards-empty-text-add":"Import your Microsoft (Outlook, Office 365) contacts.",
     "cards-stack-microsoft-cards-empty-microsoft-button": "Sign in to Microsoft",
     "cards-stack-microsoft-cards-connection-expired-heading": "Connection expired",
-    "cards-stack-microsoft-cards-connection-expired-text": "Reconnect social account by clicking the button below."
+    "cards-stack-microsoft-cards-connection-expired-text": "Reconnect Microsoft account by clicking the button below."
   }
 }
