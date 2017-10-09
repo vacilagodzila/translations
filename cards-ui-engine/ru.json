@@ -1,9 +1,0 @@
-{
-  "data": {
-    "cards-ui-engine-drag-up-to-delete": "Подвиньте вверх чтобы удалить",
-    "cards-ui-engine-drag-down-to-deactivate": "Подвиньте вниз чтобы выключить",
-    "cards-ui-engine-drag-to-top-to-delete": "Подвиньте вверх чтобы удалить",
-    "cards-ui-engine-drag-to-center-to-activate": "Подвиньте в центр чтобы включить",
-    "android-back-button-action": "Нажмите еще раз, чтобы закрыть приложение"
-  }
-}
