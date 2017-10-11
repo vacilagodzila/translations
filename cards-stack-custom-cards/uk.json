@@ -12,6 +12,10 @@
     "cards-stack-custom-cards-remove-from-stack": "Прибрати зі стеку",
     "cards-stack-custom-cards-empty-heading": "Почнемо додавати картки",
     "cards-stack-custom-cards-empty-text-add": "В цей стек можна додавати як живі картки, так і звичайні.",
-    "cards-stack-custom-cards-empty-button": "Додати картки"
+    "cards-stack-custom-cards-empty-button": "Додати картки",
+    "cards-stack-custom-rename-settings": "Перейменувати",
+    "cards-stack-custom-stack-title-input": "Назва",
+    "cards-stack-custom-details-page-title": "Перейменувати",
+    "cards-stack-custom-details-page-save": "Зберегти"
   }
 }

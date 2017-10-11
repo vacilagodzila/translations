@@ -12,6 +12,10 @@
     "cards-stack-custom-cards-remove-from-stack": "Убрать из стека",
     "cards-stack-custom-cards-empty-heading": "Начнем добавлять визитки",
     "cards-stack-custom-cards-empty-text-add": "В этот стек можно добавлять живые визитки и обычные.",
-    "cards-stack-custom-cards-empty-button": "Добавить визитки"
+    "cards-stack-custom-cards-empty-button": "Добавить визитки",
+    "cards-stack-custom-rename-settings": "Переименовать",
+    "cards-stack-custom-stack-title-input": "Название",
+    "cards-stack-custom-details-page-title": "Переименовать",
+    "cards-stack-custom-details-page-save": "Сохранить"
   }
 }
