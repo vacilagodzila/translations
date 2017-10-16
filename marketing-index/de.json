@@ -1,0 +1,42 @@
+{
+  "data": {
+    "cards-title": "Cards — meeting people",
+
+    "marketing-index-highlight-main-heading": "Cards — meeting people",
+    "marketing-index-highlight-main-get-started-paragraph": "Connect easily, build your network, and stay in touch no matter what.",
+    "marketing-index-highlight-main-app-open": "Open web app",
+    "marketing-index-highlight-main-app-downloads": "Other platforms",
+
+    "marketing-index-messenger-to" : "To:",
+    "marketing-index-messenger-to-people": "You and 134 others",
+    "marketing-index-message-lost-contacts": "I lost my phone and all contacts 😭",
+    "marketing-index-message-send-me": "Please send me your phone numbers here!! 🙏",
+    "marketing-index-message-get-cards": "What, again? Just get on Cards",
+    "marketing-index-message-delivered": "Delivered",
+    "marketing-index-contacts-alive": "Contacts come alive",
+    "marketing-index-more-than-backup": "Cards is more that just contacts back up. With live cards and auto-connect we reinvent modern contacts app.",
+    "marketing-index-about-cards": "See all features",
+    "marketing-index-download-cards": "Downloads",
+
+    "marketing-index-highlight-networking-title": "Networking reimagined",
+    "marketing-index-highlight-networking-description": "Connect with people at events, exchange contacts in seconds.",
+    "marketing-index-highlight-networking-link": "Build network",
+    "marketing-index-highlight-networking-events": "Events",
+    "marketing-index-highlight-networking-partners-title": "We work with:",
+
+    "marketing-index-highlight-download-app": "Get betas today",
+    "marketing-index-highlight-download-paragraph": "Free on all platforms",
+    "marketing-index-highlight-download-smartphone": "Smartphone",
+    "marketing-index-highlight-download-desktop": "Desktop",
+    "marketing-index-highlight-download-all-platforms": "All platforms",
+    "marketing-index-highlight-download-web-app": "Web app",
+    "marketing-index-highlight-download-open-web-app": "Open web app",
+    "marketing-index-highlight-download-ios":"Download for iOS",
+    "marketing-index-highlight-download-android":"Download for Android",
+    "marketing-index-highlight-download-windows-mobile":"Download for Windows Mobile",
+    "marketing-index-highlight-download-mac-os": "Download for macOS",
+    "marketing-index-highlight-download-windows": "Download for Windows",
+    "marketing-index-highlight-download-fedora": "Download for Fedora",
+    "marketing-index-highlight-download-ubuntu": "Download for Ubuntu"
+  }
+}

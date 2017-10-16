@@ -1,0 +1,42 @@
+{
+  "data": {
+    "cards-title": "Cards – 인맥을 만드세요",
+
+    "marketing-index-highlight-main-heading": "Cards – 인맥을 만드세요",
+    "marketing-index-highlight-main-get-started-paragraph": "Connect easily, build your network, and stay in touch no matter what.",
+    "marketing-index-highlight-main-app-open": "웹앱 바로가기",
+    "marketing-index-highlight-main-app-downloads": "기타 플렛폼",
+
+    "marketing-index-messenger-to" : "To:",
+    "marketing-index-messenger-to-people": "내 및 134명",
+    "marketing-index-message-lost-contacts": "얘들아 나 핸드폰 잃어버려서 😭",
+    "marketing-index-message-send-me": "전화번호 다 없어졌어ㅠ 전화번호 좀 보내줄래? 🙏",
+    "marketing-index-message-get-cards": "카드스 써봐! 이제 그럴일이 없을꺼야!",
+    "marketing-index-message-delivered": "읽음",
+    "marketing-index-contacts-alive": "Contacts come alive",
+    "marketing-index-more-than-backup": "카드는 단지 다시 연락하는 것입니다. 라이브 카드와 자동 연결 기능을 통해 우리는 최신 연락처 응용 프로그램을 재발 명합니다.",
+    "marketing-index-about-cards": "모든 특징 살펴보기",
+    "marketing-index-download-cards": "다운로드",
+
+    "marketing-index-highlight-networking-title": "Networking reimagined",
+    "marketing-index-highlight-networking-description": "이벤트에서 사람들과 만나고 몇 초 만에 연락처를 교환하세요.",
+    "marketing-index-highlight-networking-link": "인맥을 만들기",
+    "marketing-index-highlight-networking-events": "행사",
+    "marketing-index-highlight-networking-partners-title": "Cards의 파트너 기관 :",
+
+    "marketing-index-highlight-download-app": "베타 버전 사용하세요",
+    "marketing-index-highlight-download-paragraph": "무료로 사용하세요",
+    "marketing-index-highlight-download-smartphone": "스마트폰",
+    "marketing-index-highlight-download-desktop": "데스탑 PC",
+    "marketing-index-highlight-download-all-platforms": "모든 플렛폼",
+    "marketing-index-highlight-download-web-app": "웹앱",
+    "marketing-index-highlight-download-open-web-app": "웹앱 바로가기",
+    "marketing-index-highlight-download-ios":"iOS용 다운로드",
+    "marketing-index-highlight-download-android":"Android용 다운로드",
+    "marketing-index-highlight-download-windows-mobile":"Windows Mobile용 다운로드",
+    "marketing-index-highlight-download-mac-os": "macOS용 다운로드",
+    "marketing-index-highlight-download-windows": "Windows용 다운로드",
+    "marketing-index-highlight-download-fedora": "Fedora용 다운로드",
+    "marketing-index-highlight-download-ubuntu": "Ubuntu용 다운로드"
+  }
+}

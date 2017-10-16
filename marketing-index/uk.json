@@ -1,0 +1,42 @@
+{
+  "data": {
+    "cards-title": "Cards — назустріч людям",
+
+    "marketing-index-highlight-main-heading": "Cards — назустріч людям",
+    "marketing-index-highlight-main-get-started-paragraph": "Обмінюйтесь контактами, розширюйте коло спілкування, та залишайтесь на зв'язку.",
+    "marketing-index-highlight-main-app-open": "Відкрити веб-додаток",
+    "marketing-index-highlight-main-app-downloads": "Інші завантаження",
+
+    "marketing-index-messenger-to" : "До:",
+    "marketing-index-messenger-to-people": "Вас та 134 інших",
+    "marketing-index-message-lost-contacts": "Блііін, я загубила телефон 😭",
+    "marketing-index-message-send-me": "... з усіма контактами! Напишіть мені свої номери! 🙏",
+    "marketing-index-message-get-cards": "Знову? Просто завантаж Cards",
+    "marketing-index-message-delivered": "Прочитано",
+    "marketing-index-contacts-alive": "Абсолютно нові контакти",
+    "marketing-index-more-than-backup": "Cards – не просто резервна копія контактів. Завдяки живим карткам та автоконекту, ваші контакти будуть завжди актуальні.",
+    "marketing-index-about-cards": "Всі функції",
+    "marketing-index-download-cards": "Завантаження",
+
+    "marketing-index-highlight-networking-title": "Розширюйте коло спілкування",
+    "marketing-index-highlight-networking-description": "Знайомтесь з людьми на подіях та миттєво обмінюйтесь контактами.",
+    "marketing-index-highlight-networking-link": "Розпочати",
+    "marketing-index-highlight-networking-events": "Події",
+    "marketing-index-highlight-networking-partners-title": "Наші партнери",
+
+    "marketing-index-highlight-download-app": "Спробуйте бета-версії",
+    "marketing-index-highlight-download-paragraph": "Безкоштовно на всіх платформах",
+    "marketing-index-highlight-download-smartphone": "Смартфон",
+    "marketing-index-highlight-download-desktop": "ПК",
+    "marketing-index-highlight-download-all-platforms": "Всі платформи",
+    "marketing-index-highlight-download-web-app": "Веб-додаток",
+    "marketing-index-highlight-download-open-web-app": "Відкрити веб-додаток",
+    "marketing-index-highlight-download-ios":"Завантажити для iOS",
+    "marketing-index-highlight-download-android":"Завантажити для Android",
+    "marketing-index-highlight-download-windows-mobile":"Завантажити для Windows Mobile",
+    "marketing-index-highlight-download-mac-os": "Завантажити для macOS",
+    "marketing-index-highlight-download-windows": "Завантажити для Windows",
+    "marketing-index-highlight-download-fedora": "Завантажити для Fedora",
+    "marketing-index-highlight-download-ubuntu": "Завантажити для Ubuntu"
+  }
+}
