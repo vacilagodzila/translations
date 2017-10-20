@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-stack-phone-cards-title": "Обычные визитки",
+    "cards-stack-phone-cards-title": "Контакты с телефона",
     "cards-stack-phone-cards-subtitle": "Контакты людей, у которых пока нет Cards",
     "cards-stack-phone-cards-edit-card": "Редактировать",
     "cards-stack-phone-cards-delete-card": "Удалить",
@@ -8,14 +8,14 @@
     "cards-stack-phone-cards-add-to-group": "Add to group",
     "cards-stack-phone-cards-more-button-label": "Другие функции",
     "cards-stack-phone-cards-empty-heading": "Об обычных визитках",
-    "cards-stack-phone-cards-empty-text-add": "Обычные визитки импортируются из контактов телефона или создаются вручную. Они не обновляются автоматически.",
-    "cards-stack-phone-cards-empty-button-add": "Создать обычную визитку",
+    "cards-stack-phone-cards-empty-text-add": "Контакты с телефона импортируются из адресной книги или создаются вручную. Они не обновляются автоматически.",
+    "cards-stack-phone-cards-empty-button-add": "Создать обычный контакт",
     "cards-stack-phone-cards-empty-button-import": "Импортировать с телефона",
-    "cards-stack-phone-cards-create-card": "Создать визитку",
-    "cards-stack-phone-cards-update-card": "Обновить визитку",
+    "cards-stack-phone-cards-create-card": "Создать контакт",
+    "cards-stack-phone-cards-update-card": "Обновить контакт",
     "cards-stack-phone-cards-my-information" : "Информация",
     "cards-stack-phone-cards-my-notes" : "Заметки",
-    "cards-stack-phone-cards-create": "Новая визитка",
-    "cards-stack-phone-cards-update": "Обновить визитку"
+    "cards-stack-phone-cards-create": "Новый контакт",
+    "cards-stack-phone-cards-update": "Обновить контакт"
   }
 }
