@@ -1,9 +1,0 @@
-{
-  "data": {
-    "cards-stack-unavailable-title": "Unavailable stack",
-    "cards-stack-unavailable-subtitle": "The contents of this stack can not be displayed. Try updating Cards.",
-    "cards-stack-unavailable-not-available": "Not available",
-    "cards-stack-unavailable-not-available-description": "This stack is not available.",
-    "cards-stack-unavailable-not-available-action": "Update app"
-  }
-}

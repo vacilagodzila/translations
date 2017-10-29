@@ -1,9 +1,0 @@
-{
-  "data": {
-    "cards-stack-unavailable-title": "Недоступный стек",
-    "cards-stack-unavailable-subtitle": "Содержимое этого стека недоступно. Обновите Cards.",
-    "cards-stack-unavailable-not-available": "Недоступно",
-    "cards-stack-unavailable-not-available-description": "Невозможно показать содержимое.",
-    "cards-stack-unavailable-not-available-action": "Обновить приложение"
-  }
-}
