@@ -3,6 +3,20 @@
     "cards-card-edit-my-shared-information": "정보",
     "cards-card-edit-my-shared-notes": "공공 메모",
     "cards-card-edit-my-private-notes": "사유 메모",
-    "cards-card-edit-use-default-color": "Use default color"
+    "cards-card-edit-my-color-use-default": "Use default color",
+    "cards-card-edit-my-logo-crop": "Crop logo",
+    "cards-card-edit-my-logos": "회사 로고",
+    "cards-card-edit-my-photo-crop": "Crop photo",
+    "cards-card-edit-my-photo-delete": "삭제하기",
+    "cards-card-edit-my-photo-delete-select": "선택하기",
+    "cards-card-edit-my-photo-deselect": "Deselect",
+    "cards-card-edit-my-photo-edit": "편집",
+    "cards-card-edit-my-photos": "프로필 사진",
+    "cards-card-edit-my-public": "공개 카드",
+    "cards-card-edit-my-public-link": "공개 링크",
+    "cards-card-edit-my-public-embed-code": "소스 코드",
+    "cards-card-edit-my-design-mappings": "디자인 및 레이아웃",
+    "cards-card-edit-my-privacy-settings": "정보 보호 설정",
+    "cards-card-edit-my-autoconnect": "자동 연결"
   }
 }
