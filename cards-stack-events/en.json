@@ -6,6 +6,6 @@
     "cards-stack-events-share-card-action-sheet": "Add to Live Cards",
     "cards-stack-events-alert-event-missing": "It seems the event disappeared",
     "cards-stack-events-alert-event-not-started": "The event has not started yet",
-    "cards-stack-events-alert-event-ended": "The event has already ended"
+    "cards-stack-events-alert-event-registration-ended": "Event registration already closed"
   }
 }
