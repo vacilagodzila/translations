@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-title": "Cards",
+    "cards-group-quick-actions": "Quick Actions",
     "cards-group-import": "Import",
     "cards-group-extras": "Extras",
     "cards-group-create": "Create New Group"
