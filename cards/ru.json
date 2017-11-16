@@ -5,6 +5,7 @@
     "cards-group-import": "Импорт",
     "cards-group-extras": "Больше",
     "cards-group-create": "Новая группа",
-    "cards-group-receive-cards": "Receive Cards"
+    "cards-group-receive-cards": "Receive Cards",
+    "cards-notification-autoconnect": "Hey! {name} is on Cards. Check out the live cards!"
   }
 }
