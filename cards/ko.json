@@ -6,6 +6,7 @@
     "cards-group-extras": "Extras",
     "cards-group-create": "New Group",
     "cards-group-receive-cards": "Receive Cards",
-    "cards-notification-autoconnect": "Hey! {name} is on Cards. Check out the live cards!"
+    "cards-notification-autoconnect-one": "Hey! {name} is on Cards. Check out the live cards!",
+    "cards-notification-autoconnect-many": "Hey! Some of your friends are now on Cards. Check our their live cards!"
   }
 }
