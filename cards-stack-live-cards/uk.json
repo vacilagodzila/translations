@@ -21,12 +21,11 @@
     "cards-stack-live-cards-exchange-successful": "Обмін живими картками успішний.",
     "cards-stack-live-cards-receive-or-exchange-cards": "Обмінятися картками",
     "cards-stack-live-cards-connect-to-internet-and-try-again": "Під'єднайтесь до інтернету і спробуйте знову.",
-    "cards-stack-live-cards-information": "Information",
     "cards-stack-live-cards-basic-information": "Basic information",
     "cards-stack-live-cards-phone-numbers-information": "Phone numbers",
     "cards-stack-live-cards-emails-information": "Emails",
     "cards-stack-live-cards-information": "Social",
-    "cards-stack-live-cards-my-information": "Display name",
+    "cards-stack-live-cards-display-name": "Display name",
     "cards-stack-live-cards-update": "Оновити живу картку",
     "cards-stack-live-cards-shared-notes": "Нотатки для всіх",
     "cards-stack-live-cards-my-notes": "Приватні нотатки"

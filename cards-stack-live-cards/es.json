@@ -21,12 +21,11 @@
     "cards-stack-live-cards-exchange-successful": "Live card exchange successful.",
     "cards-stack-live-cards-receive-or-exchange-cards": "Receive or exchange cards",
     "cards-stack-live-cards-connect-to-internet-and-try-again": "Connect to internet and try again.",
-    "cards-stack-live-cards-information": "Information",
     "cards-stack-live-cards-basic-information": "Basic information",
     "cards-stack-live-cards-phone-numbers-information": "Phone numbers",
     "cards-stack-live-cards-emails-information": "Emails",
     "cards-stack-live-cards-information": "Social",
-    "cards-stack-live-cards-my-information": "Display name",
+    "cards-stack-live-cards-display-name": "Display name",
     "cards-stack-live-cards-update": "Update live card",
     "cards-stack-live-cards-shared-notes": "Shared Notes",
     "cards-stack-live-cards-my-notes": "Private Notes"
