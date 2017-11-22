@@ -1,6 +1,10 @@
 {
   "data": {
     "cards-card-edit-my-shared-information": "Информация",
+    "cards-card-edit-my-shared-basic-information": "Basic Information",
+    "cards-card-edit-my-shared-phone-numbers-information": "Phone numbers",
+    "cards-card-edit-my-shared-emails-information": "Emails",
+    "cards-card-edit-my-shared-social-information": "Social",
     "cards-card-edit-my-shared-notes": "Публичные заметки",
     "cards-card-edit-my-private-notes": "Личные заметки",
     "cards-card-edit-my-color-reset": "Reset color",

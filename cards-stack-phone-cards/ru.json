@@ -14,6 +14,10 @@
     "cards-stack-phone-cards-create-card": "Создать контакт",
     "cards-stack-phone-cards-update-card": "Обновить контакт",
     "cards-stack-phone-cards-my-information" : "Информация",
+    "cards-stack-phone-cards-my-basic-information": "Basic information",
+    "cards-stack-phone-cards-my-phone-numbers-information": "Phone numbers",
+    "cards-stack-phone-cards-my-emails-information": "Emails",
+    "cards-stack-phone-cards-my-social-information": "Social",
     "cards-stack-phone-cards-my-notes" : "Заметки",
     "cards-stack-phone-cards-create": "Новый контакт",
     "cards-stack-phone-cards-update": "Обновить контакт"

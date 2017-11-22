@@ -1,6 +1,10 @@
 {
   "data": {
     "cards-card-edit-my-shared-information": "정보",
+    "cards-card-edit-my-shared-basic-information": "Basic Information",
+    "cards-card-edit-my-shared-phone-numbers-information": "Phone numbers",
+    "cards-card-edit-my-shared-emails-information": "Emails",
+    "cards-card-edit-my-shared-social-information": "Social",
     "cards-card-edit-my-shared-notes": "공공 메모",
     "cards-card-edit-my-private-notes": "사유 메모",
     "cards-card-edit-my-color-reset": "Reset color",
