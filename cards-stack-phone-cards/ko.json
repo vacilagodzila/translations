@@ -13,7 +13,10 @@
     "cards-stack-phone-cards-empty-button-import": "휴대폰 연락처 동기화",
     "cards-stack-phone-cards-create-card": "기본 카드 만들기",
     "cards-stack-phone-cards-update-card": "기본 카드 업데이트",
-    "cards-stack-phone-cards-my-information": "정보",
+    "cards-stack-phone-cards-my-basic-information": "Basic information",
+    "cards-stack-phone-cards-my-phone-numbers-information": "Phone numbers",
+    "cards-stack-phone-cards-my-emails-information": "Emails",
+    "cards-stack-phone-cards-my-social-information": "Social",
     "cards-stack-phone-cards-my-notes": "메모",
     "cards-stack-phone-cards-create": "새로운 카드",
     "cards-stack-phone-cards-update": "갱신 카드"

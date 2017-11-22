@@ -13,7 +13,10 @@
     "cards-stack-phone-cards-empty-button-import": "Імпортувати з телефону",
     "cards-stack-phone-cards-create-card": "Створити картку",
     "cards-stack-phone-cards-update-card": "Оновити картку",
-    "cards-stack-phone-cards-my-information" : "Інформація",
+    "cards-stack-phone-cards-my-basic-information": "Basic information",
+    "cards-stack-phone-cards-my-phone-numbers-information": "Phone numbers",
+    "cards-stack-phone-cards-my-emails-information": "Emails",
+    "cards-stack-phone-cards-my-social-information": "Social",
     "cards-stack-phone-cards-my-notes" : "Нотатки",
     "cards-stack-phone-cards-create": "Нова картка",
     "cards-stack-phone-cards-update": "Оновити картку"

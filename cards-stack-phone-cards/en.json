@@ -13,7 +13,10 @@
     "cards-stack-phone-cards-empty-button-import": "Import from phone",
     "cards-stack-phone-cards-create-card": "Create card",
     "cards-stack-phone-cards-update-card": "Update card",
-    "cards-stack-phone-cards-my-information": "Information",
+    "cards-stack-phone-cards-my-basic-information": "Basic information",
+    "cards-stack-phone-cards-my-phone-numbers-information": "Phone numbers",
+    "cards-stack-phone-cards-my-emails-information": "Emails",
+    "cards-stack-phone-cards-my-social-information": "Social",
     "cards-stack-phone-cards-my-notes": "Notes",
     "cards-stack-phone-cards-create": "New card",
     "cards-stack-phone-cards-update": "Update card"
