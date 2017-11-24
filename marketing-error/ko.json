@@ -3,7 +3,7 @@
     "marketing-error-title": "에러 {errorCode}",
     "marketing-error-something-is-missing": " ",
     "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "{supportPageFormatMessage}이나 방문하십시오. {homeFormatMessage}",
-    "marketing-error-support-page": "사용자 지원",
+    "marketing-error-faq-page": "사용자 지원",
     "marketing-error-twitter": "트위터",
     "marketing-error-home": "메인으로 돌아가기"
   }

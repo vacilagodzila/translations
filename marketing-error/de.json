@@ -3,7 +3,7 @@
     "marketing-error-title": "Error {errorCode}",
     "marketing-error-something-is-missing": "Something is missing",
     "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Visit our {supportPageFormatMessage} for help or return {homeFormatMessage}",
-    "marketing-error-support-page": "support page",
+    "marketing-error-faq-page": "faq page",
     "marketing-error-twitter": "Twitter",
     "marketing-error-home": "home"
   }
