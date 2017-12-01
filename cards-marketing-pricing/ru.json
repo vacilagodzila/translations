@@ -1,9 +1,19 @@
 {
   "data": {
-    "marketing-pricing-title": "Cards для бизнеса",
-    "marketing-pricing-category": "Предприятие",
-    "marketing-pricing-heading": "Укрепите свой бизнес",
-    "marketing-pricing-paragraph": "Информация о всех сотрудниках в вашем кармане",
-    "marketing-pricing-coming-soon": "Скоро"
+    "marketing-pricing-title": "Цены на andCards",
+    "marketing-pricing-heading": "Сильное сообщество — это бесценно",
+    "marketing-pricing-paragraph": "Развивайте свое сообщество с помощью сервисов andCards.",
+    "marketing-pricing-personal-title": "Личный",
+    "marketing-pricing-personal-description": "Управляйте всегда актуальными контактами, присоединяйтесь к сообществам и посещайте мероприятия",
+    "marketing-pricing-personal-condition": "навсегда",
+    "marketing-pricing-personal-action": "Зарегистрироваться",
+    "marketing-pricing-community-title": "Сообщество",
+    "marketing-pricing-community-description": "Создавайте каталог сообщества, организовывайте и продвигайте события",
+    "marketing-pricing-community-condition": "за 100 пользователей в месяц",
+    "marketing-pricing-community-action": "Попробовать бесплатно",
+    "marketing-pricing-enterprise-title": "Компания",
+    "marketing-pricing-enterprise-description": "Мощное решение для больших компаний: интеграции, SSO, премиум поддержка",
+    "marketing-pricing-enterprise-condition": "за 100 пользователей в месяц",
+    "marketing-pricing-enterprise-action": "Свяжитесь с нами"
   }
 }

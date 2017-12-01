@@ -1,9 +1,19 @@
 {
   "data": {
-    "marketing-pricing-title": "Cards for Companies",
-    "marketing-pricing-category": "Enterprise",
-    "marketing-pricing-heading": "Empower your business",
-    "marketing-pricing-paragraph": "World's most powerful employee directory service.",
-    "marketing-pricing-coming-soon": "Coming soon"
+    "marketing-pricing-title": "andCards Pricing",
+    "marketing-pricing-heading": "Networking culture, delivered.",
+    "marketing-pricing-paragraph": "Simple pricing plans to grow your community.",
+    "marketing-pricing-personal-title": "Personal",
+    "marketing-pricing-personal-description": "Keep your contacts up-to-date, join communities and network at events",
+    "marketing-pricing-personal-condition": "forever",
+    "marketing-pricing-personal-action": "Sign up now",
+    "marketing-pricing-community-title": "Community",
+    "marketing-pricing-community-description": "Create community directory, organize and promote events",
+    "marketing-pricing-community-condition": "100 users, monthly",
+    "marketing-pricing-community-action": "Request free trial",
+    "marketing-pricing-enterprise-title": "Enterprise",
+    "marketing-pricing-enterprise-description": "Custom solution for large companies: integrations, SSO, priority support",
+    "marketing-pricing-enterprise-condition": "100 users, monthly",
+    "marketing-pricing-enterprise-action": "Contact us"
   }
 }

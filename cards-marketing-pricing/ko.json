@@ -1,9 +1,19 @@
 {
   "data": {
-    "marketing-pricing-title": "기업용 Cards",
-    "marketing-pricing-category": "엔터프라이즈",
-    "marketing-pricing-heading": "비즈니스 역량 강화",
-    "marketing-pricing-paragraph": "전 세계에서 가장 강력한 비즈니스 연락처 서비스",
-    "marketing-pricing-coming-soon": "출시 예정"
+    "marketing-pricing-title": "andCards 가격 정책",
+    "marketing-pricing-heading": "Networking culture, delivered.",
+    "marketing-pricing-paragraph": "Simple pricing plans to grow your community.",
+    "marketing-pricing-personal-title": "개인",
+    "marketing-pricing-personal-description": "Keep your contacts up-to-date, join communities and network at events",
+    "marketing-pricing-personal-condition": "약정 없음",
+    "marketing-pricing-personal-action": "바로 사용 가능",
+    "marketing-pricing-community-title": "커뮤니티",
+    "marketing-pricing-community-description": "Create community directory, organize and promote events",
+    "marketing-pricing-community-condition": "사용자 100명 월당",
+    "marketing-pricing-community-action": "무료 체험 요청하기",
+    "marketing-pricing-enterprise-title": "비즈니스",
+    "marketing-pricing-enterprise-description": "대기업을 위한 구매 솔루션 : 추가 보안, SSO, 우선 지원",
+    "marketing-pricing-enterprise-condition": "사용자 100명 월당",
+    "marketing-pricing-enterprise-action": "연락하기"
   }
 }
