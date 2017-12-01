@@ -1,27 +1,22 @@
 {
   "data": {
-    "cards-title": "Cards — Навстречу людям",
+    "cards-title": "andCards — сервис для успешных сообществ от Cards Corp.",
+    
+    "marketing-index-highlight-main-heading-1": "Развивайте свое",
+    "marketing-index-highlight-main-heading-2": "сообщество",
+    "marketing-index-highlight-main-app-open": "Вход или регистрация",
+    "marketing-index-highlight-main-app-downloads": "Загрузки",
 
-    "marketing-index-highlight-main-heading": "Cards — Навстречу людям",
-    "marketing-index-highlight-main-get-started-paragraph": "Обменивайтесь контактами, расширяйте круг общения, и всегда будьте на связи.",
-    "marketing-index-highlight-main-app-open": "Открыть веб-приложение",
-    "marketing-index-highlight-main-app-downloads": "Другие версии",
+    "marketing-index-feature-discovery-title": "Находите",
+    "marketing-index-feature-discovery-info": "В сообществе andCards людям легко найти друг друга в каталоге или поиске.",
+    "marketing-index-feature-discovery-action": "Начать",
+    "marketing-index-feature-networking-title": "Знакомьтесь",
+    "marketing-index-feature-networking-info": "Развивайте культуру нетворкинга в вашем сообществе. Организовуйте, продвигайте и присоединяйтесь к событиям.",
+    "marketing-index-feature-networking-action": "Смотреть события",
+    "marketing-index-feature-contacts-title": "Общайтесь",
+    "marketing-index-feature-contacts-info": "Приложение andCards полезно даже в личной жизни — благодаря ему контакты всегда актуальны.",
+    "marketing-index-feature-contacts-action": "Загрузить",
 
-    "marketing-index-messenger-to" : "To:",
-    "marketing-index-messenger-to-people": "Вы и 134 других",
-    "marketing-index-message-lost-contacts": "Блииин, я потеряла телефон 😭",
-    "marketing-index-message-send-me": "... и все номера! Напишете сюда свои? 🙏",
-    "marketing-index-message-get-cards": "Опять? Просто загрузи Cards",
-    "marketing-index-message-delivered": "Прочитано",
-    "marketing-index-contacts-alive": "Совершенно новые контакты",
-    "marketing-index-more-than-backup": "Cards – не просто резервное копирование контактов. Благодаря живым визиткам и автоконекту, ваши контакты будут всегда актуальны.",
-    "marketing-index-about-cards": "Почитать о функциях",
-    "marketing-index-download-cards": "Загрузки",
-
-    "marketing-index-highlight-networking-title": "Расширяйте круг общения",
-    "marketing-index-highlight-networking-description": "Знакомьтесь с людьми на событиях, и мгновенно обменивайтесь контактами.",
-    "marketing-index-highlight-networking-link": "Начать",
-    "marketing-index-highlight-networking-events": "События",
     "marketing-index-highlight-networking-partners-title": "Наши партнеры",
 
     "marketing-index-highlight-download-app": "Попробуйте бета-версии",
