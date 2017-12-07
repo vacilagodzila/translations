@@ -1,12 +1,11 @@
 {
   "data": {
     "cards-stack-live-cards-title": "Live Cards",
-    "cards-stack-live-cards-subtitle": "Auto-updating contact cards of Cards users",
     "cards-stack-live-cards-enter-code-here": "Enter code",
     "cards-stack-live-cards-edit-card": "Edit",
     "cards-stack-live-cards-delete-card": "Delete",
     "cards-stack-live-cards-add-to-favourites": "Add to favorites",
-    "cards-stack-live-cards-add-to-group": "Add to group",
+    "cards-stack-live-cards-add-to-group": "Add to group...",
     "cards-stack-live-cards-cancel-and-return": "Cancel and return",
     "cards-stack-live-cards-add-live-cards": "Add live cards",
     "cards-stack-live-cards-sharing-code": "Sharing code",
@@ -21,13 +20,13 @@
     "cards-stack-live-cards-exchange-successful": "Live card exchange successful.",
     "cards-stack-live-cards-receive-or-exchange-cards": "Receive or exchange cards",
     "cards-stack-live-cards-connect-to-internet-and-try-again": "Connect to internet and try again.",
-    "cards-stack-live-cards-basic-information": "Basic information",
-    "cards-stack-live-cards-phone-numbers-information": "Phone numbers",
-    "cards-stack-live-cards-emails-information": "Emails",
-    "cards-stack-live-cards-information": "Social",
+    "cards-stack-live-cards-basic-information": "Basic Information",
+    "cards-stack-live-cards-phone-numbers-information": "Phone Numbers",
+    "cards-stack-live-cards-emails-information": "E-mail Addresses",
+    "cards-stack-live-cards-information": "Social Accounts",
     "cards-stack-live-cards-display-name": "Display name",
     "cards-stack-live-cards-update": "Update live card",
-    "cards-stack-live-cards-shared-notes": "Shared Notes",
-    "cards-stack-live-cards-my-notes": "Private Notes"
+    "cards-stack-live-cards-shared-notes": "Notes for everyone",
+    "cards-stack-live-cards-my-notes": "Notes for me only"
   }
 }

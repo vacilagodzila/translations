@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-error-no-internet-description": "No internet.",
-    "cards-page-error-no-internet-action": "Reload"
+    "cards-page-error-no-internet-description": "Проверьте соединение с интернетом.",
+    "cards-page-error-no-internet-action": "Перезагрузить"
   }
 }

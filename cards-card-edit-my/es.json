@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-card-edit-my-automapping-switch": "Auto mapping",
+    "cards-card-edit-my-automapping-switch": "Auto-map data on my card",
     "cards-card-edit-my-shared-basic-information": "Basic Information",
-    "cards-card-edit-my-shared-phone-numbers-information": "Phone numbers",
-    "cards-card-edit-my-shared-emails-information": "Emails",
-    "cards-card-edit-my-shared-social-information": "Social",
+    "cards-card-edit-my-shared-phone-numbers-information": "Phone Numbers",
+    "cards-card-edit-my-shared-emails-information": "E-mail Addresses",
+    "cards-card-edit-my-shared-social-information": "Social Accounts",
     "cards-card-edit-my-shared-notes": "Notes for everyone",
-    "cards-card-edit-my-private-notes": "Notes for me",
-    "cards-card-edit-my-color-reset": "Reset color",
+    "cards-card-edit-my-private-notes": "Notes for me only",
+    "cards-card-edit-my-color-reset": "Reset color to default",
     "cards-card-edit-my-logo-crop": "Crop logo",
     "cards-card-edit-my-logos": "Logos",
     "cards-card-edit-my-photo-crop": "Crop photo",
@@ -21,6 +21,6 @@
     "cards-card-edit-my-public-embed-code": "Embed code",
     "cards-card-edit-my-design-mappings": "Design & Mappings",
     "cards-card-edit-my-privacy-settings": "Privacy settings",
-    "cards-card-edit-my-autoconnect": "Autoconnect"
+    "cards-card-edit-my-autoconnect": "Auto-connect"
   }
 }

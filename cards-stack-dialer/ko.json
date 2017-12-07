@@ -1,8 +1,6 @@
 {
   "data": {
-    "cards-stack-dialer-phone": "전화",
-    "cards-stack-dialer-title": "전화",
-    "cards-stack-dialer-subtitle": "누구나 전화함",
+    "cards-stack-dialer-title": "키패드",
     "cards-stack-dialer-erase-all": "모든 숫자 삭제",
     "cards-stack-dialer-erase-last": "숮자 삭제"
   }

@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-error-title": "Error",
-    "cards-page-error-description": "This page is not available.",
-    "cards-page-error-action": "Update app"
+    "cards-page-error-title": "Ошибка",
+    "cards-page-error-description": "Невозможно открыть страницу.",
+    "cards-page-error-action": "Перезагрузить"
   }
 }

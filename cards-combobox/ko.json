@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-combobox-no-matching-input-options": "There are no options matching your input",
+    "cards-combobox-no-matching-input-options": "올바른 내용이 없습니다",
     "cards-combobox-save-as-custom-field-name": "사용자 정의 필드 이름으로 저장",
     "cards-combobox-type-here": "입력하기"
   }

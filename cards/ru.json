@@ -1,14 +1,14 @@
 {
   "data": {
     "cards-title": "andCards",
-    "cards-group-quick-actions": "Quick Actions",
+    "cards-group-quick-actions": "Действия",
     "cards-group-import": "Импорт",
     "cards-group-extras": "Больше",
     "cards-group-create": "Новая группа",
-    "cards-group-receive-cards": "Receive Cards",
-    "cards-notification-autoconnect-one": "Hey! {name} is on Cards. Check out the live cards!",
-    "cards-notification-autoconnect-many": "Hey! Some of your friends are now on Cards. Check our their live cards!",
-    "cards-notification-received-cards-updates-one": "Did you know that {name} changed the card?",
-    "cards-notification-received-cards-updates-mane": "We've updated {number} cards to live cards with new information!"
+    "cards-group-receive-cards": "Обмен визитками",
+    "cards-notification-autoconnect-one": "{name} теперь есть в andCards! Полюбуйтесь новой живой визиткой.",
+    "cards-notification-autoconnect-many": "Ваши контакты оживают! Полистайте новые живые визитки.",
+    "cards-notification-received-cards-updates-one": "Кстати, у {name} теперь новая контактная информация.",
+    "cards-notification-received-cards-updates-mane": "{number} живых визиток обновились автоматически! Давайте их найде."
   }
 }

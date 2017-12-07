@@ -1,23 +1,22 @@
 {
   "data": {
-    "cards-stack-custom-cards-title": "New stack",
-    "cards-stack-custom-cards-subtitle": "A custom stack of cards",
+    "cards-stack-custom-cards-title": "New group",
     "cards-stack-custom-cards-more" : "More options",
     "cards-stack-custom-cards-type-here": "Type here",
     "cards-stack-custom-cards-add-cards": "Add cards",
     "cards-stack-custom-cards-edit-card": "Edit",
     "cards-stack-custom-cards-delete-card": "Delete",
     "cards-stack-custom-cards-add-to-favourites": "Add to favorites",
-    "cards-stack-custom-cards-add-to-group": "Add to group",
-    "cards-stack-custom-cards-add-to-stack": "Add to stack",
-    "cards-stack-custom-cards-remove-from-stack": "Remove from stack",
+    "cards-stack-custom-cards-add-to-group": "Add to group...",
+    "cards-stack-custom-cards-add-to-stack": "Add to group",
+    "cards-stack-custom-cards-remove-from-stack": "Remove from group",
     "cards-stack-custom-cards-empty-heading": "Let's add some cards",
-    "cards-stack-custom-cards-empty-text-add": "You can add live or phone cards to this stack.",
+    "cards-stack-custom-cards-empty-text-add": "You can add live or phone cards to this group.",
     "cards-stack-custom-cards-empty-button": "Add cards",
     "cards-stack-custom-rename-settings": "Rename Group",
     "cards-stack-custom-remove": "Remove",
     "cards-stack-custom-stack-title-input": "Title",
-    "cards-stack-custom-details-page-title": "Rename group",
+    "cards-stack-custom-details-page-title": "Rename Group",
     "cards-stack-custom-details-page-save": "Save"
   }
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-alert-authenticate-to-backup-data": "Авторизуйтесь, щоб не втратити дані",
-    "cards-alert-autoconnect-notice": "Цю картку буде автоматично синхронізувано з тими користувачами Cards, які вже мали ваш номер телефону в своїх контактах, і чий номер ви також вже мали у власному списку контактів.",
+    "cards-alert-autoconnect-notice": "Цю картку буде автоматично синхронізувано з тими користувачами andCards, які вже мали ваш номер телефону в своїх контактах, і чий номер ви також вже мали у власному списку контактів.",
     "cards-alert-icloud-login-fail": "Ваш Apple ID або пароль невірний",
     "cards-alert-storyline-chapter-unlocked": "Доступний новий епізод сторілайну!",
     "cards-alert-navigate-to-settings-to-give-access-to-contacts": "Відкрийте налаштування та надайте доступ до контактів."

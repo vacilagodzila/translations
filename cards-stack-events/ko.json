@@ -1,9 +1,8 @@
 {
   "data": {
-    "cards-stack-events-stack-title": "행사",
-    "cards-stack-events-stack-subtitle": "Join events to find new connections and build your network.",
+    "cards-stack-events-stack-title": "행사 및 네트워킹",
     "cards-stack-events-add-cards-page-title": "카드를 선택하기",
-    "cards-stack-events-share-card-action-sheet": "Cards에 추가",
+    "cards-stack-events-share-card-action-sheet": "내 라이브 카드에 추가",
     "cards-stack-events-alert-event-missing": "행사가 갑자기 없어젔다",
     "cards-stack-events-alert-event-not-started": "행사 등록은 시작 안 됩니다",
     "cards-stack-events-alert-event-registration-ended": "행사 등록 기간이 아닙니다"

@@ -7,9 +7,9 @@
     "cards-page-phone-number-delete-account-button": "Удалить все и выйти",
     "cards-page-phone-number-delete-account-confirm": "Подтвердите удаление",
     "cards-page-phone-number-important": "Важно",
-    "cards-page-phone-number-info": "Добавьте несколько номеров телефона для синхронизации и доступа к Cards на всех устройствах. Альтернативного способу залогуватися не існує. Переконайтесь, що ви можете отримувати СМС з паролем на телефон.",
+    "cards-page-phone-number-info": "Добавьте несколько номеров телефона для синхронизации и доступа к andCards на всех устройствах. Альтернативного способу залогуватися не існує. Переконайтесь, що ви можете отримувати СМС з паролем на телефон.",
     "cards-page-phone-number-info-add": "Чтобы добавить номер, нажмите",
     "cards-page-phone-number-info-modify": "Чтобы изменить или удалить номер, нажмите",
-    "cards-page-phone-number-remove": "Remove phone number"
+    "cards-page-phone-number-remove": "Удалить номер телефона"
   }
 }

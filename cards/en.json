@@ -6,9 +6,9 @@
     "cards-group-extras": "Extras",
     "cards-group-create": "New Group",
     "cards-group-receive-cards": "Receive Cards",
-    "cards-notification-autoconnect-one": "Hey! {name} is on Cards. Check out the live cards!",
-    "cards-notification-autoconnect-many": "Hey! Some of your friends are now on Cards. Check our their live cards!",
-    "cards-notification-received-cards-updates-one": "Did you know that {name} changed the card?",
-    "cards-notification-received-cards-updates-mane": "We've updated {number} cards to live cards with new information!"
+    "cards-notification-autoconnect-one": "{name} is on andCards. Check out the live card!",
+    "cards-notification-autoconnect-many": "Some of your friends are now on andCards. Check them out right now!",
+    "cards-notification-received-cards-updates-one": "Did you know that {name} changed their card?",
+    "cards-notification-received-cards-updates-mane": "We've updated {number} live cards with new information!"
   }
 }

@@ -1,11 +1,10 @@
 {
   "data": {
-    "cards-stack-events-stack-title": "Events",
-    "cards-stack-events-stack-subtitle": "Join events to find new connections and build your network.",
+    "cards-stack-events-stack-title": "Events & Networking",
     "cards-stack-events-add-cards-page-title": "Select card to join",
-    "cards-stack-events-share-card-action-sheet": "Add to my cards",
-    "cards-stack-events-alert-event-missing": "It seems the event disappeared",
-    "cards-stack-events-alert-event-not-started": "The event has not started yet",
-    "cards-stack-events-alert-event-registration-ended": "Event registration already closed"
+    "cards-stack-events-share-card-action-sheet": "Add to Live Cards",
+    "cards-stack-events-alert-event-missing": "It seems the event has disappeared.",
+    "cards-stack-events-alert-event-not-started": "The event has not started yet.",
+    "cards-stack-events-alert-event-registration-ended": "Event registration period is over."
   }
 }

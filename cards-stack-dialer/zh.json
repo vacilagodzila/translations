@@ -1,8 +1,6 @@
 {
   "data": {
-    "cards-stack-dialer-phone": "Phone",
-    "cards-stack-dialer-title": "Dialer",
-    "cards-stack-dialer-subtitle": "Dial and call any number not in your contact cards",
+    "cards-stack-dialer-title": "Keypad",
     "cards-stack-dialer-erase-all": "Erase all characters",
     "cards-stack-dialer-erase-last": "Erase last character"
   }
