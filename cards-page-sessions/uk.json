@@ -5,8 +5,8 @@
     "cards-page-sessions-description": "Нижче наведений список пристроїв, на яких ви увійшли в Cards. Якщо ви не впізнаєте жодного з активних сеансів, натисніть ··· та видаліть його.",
     "cards-page-sessions-info": "Про цей розділ",
     "cards-page-sessions-remove": "Видалити сеанс",
-    "cards-page-sessions-current-cannot-load": "Cannot load current session details. Please check the internet connection.",
-    "cards-page-sessions-active-cannot-load": "Cannot load active sessions details. Please check the internet connection.",
-    "cards-page-sessions-active-empty": "No active sessions."
+    "cards-page-sessions-current-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
+    "cards-page-sessions-active-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
+    "cards-page-sessions-active-empty": "Немає активних сеансів."
   }
 }
