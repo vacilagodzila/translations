@@ -4,6 +4,9 @@
     "cards-page-sessions-current": "Активные сеансы",
     "cards-page-sessions-description": "Список устройств, на которых вы вошли в Cards. Если вы не узнаете один из активных сеансов, нажмите ··· и удалите его.",
     "cards-page-sessions-info": "О разделе",
-    "cards-page-sessions-remove": "Удалить сеанс"
+    "cards-page-sessions-remove": "Удалить сеанс",
+    "cards-page-sessions-current-cannot-load": "Cannot load current session details. Please check the internet connection.",
+    "cards-page-sessions-active-cannot-load": "Cannot load active sessions details. Please check the internet connection.",
+    "cards-page-sessions-active-empty": "No active sessions."
   }
 }
