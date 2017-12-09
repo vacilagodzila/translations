@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-title": "andCards",
+    "cards-keywords": "endcards,제작,키패드,동기화,전자,비즈니스,회의,편집,백업,인사,인쇄,온라인,만들기,업무,간단한,사회,개인,명함,디자인,신분증,이벤트,셀프,이메일,주소록,연락처,휴대폰,백업",
+    "cards-description": "당신만의 커뮤니티를 만들어보세요 : 사람들의 연락처를 찾고, 이벤트를 조직하고 홍보하세요",
     "cards-group-quick-actions": "퀵액션",
     "cards-group-import": "불러오기",
     "cards-group-extras": "더보기",
