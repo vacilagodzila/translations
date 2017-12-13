@@ -8,6 +8,10 @@
     "cards-stack-events-alert-event-registration-ended": "Реєстрація на подію вже завершилася",
     "cards-stack-events-add-cards-page-address": "Місце",
     "cards-stack-events-add-cards-page-atendees": "Відвідувачів",
-    "cards-stack-events-add-cards-page-people-i-know": "Знайомих"
+    "cards-stack-events-add-cards-page-people-i-know": "Знайомих",
+    "cards-stack-events-add-cards-page-start-date": "Початок",
+    "cards-stack-events-add-cards-page-end-date": "Кінець",
+    "cards-stack-events-add-cards-page-join-title": "Приєднатися до події",
+    "cards-stack-events-add-cards-page-info-title": "Інформація про подію"
   }
 }
