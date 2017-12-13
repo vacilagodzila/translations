@@ -5,6 +5,9 @@
     "cards-stack-events-share-card-action-sheet": "Добавить себе",
     "cards-stack-events-alert-event-missing": "НЛО прилетело и забрало это событие",
     "cards-stack-events-alert-event-not-started": "Регистрация на событие еще не началась",
-    "cards-stack-events-alert-event-registration-ended": "Регистрация на событие уже закончилось"
+    "cards-stack-events-alert-event-registration-ended": "Регистрация на событие уже закончилось",
+    "cards-stack-events-add-cards-page-address": "Место",
+    "cards-stack-events-add-cards-page-atendees": "Посетителей",
+    "cards-stack-events-add-cards-page-people-i-know": "Знакомых"
   }
 }

@@ -5,6 +5,9 @@
     "cards-stack-events-share-card-action-sheet": "Додати собі",
     "cards-stack-events-alert-event-missing": "Виглядає так, що подія зникла",
     "cards-stack-events-alert-event-not-started": "Реєстрація на подію ще не почалася",
-    "cards-stack-events-alert-event-registration-ended": "Реєстрація на подію вже завершилася"
+    "cards-stack-events-alert-event-registration-ended": "Реєстрація на подію вже завершилася",
+    "cards-stack-events-add-cards-page-address": "Місце",
+    "cards-stack-events-add-cards-page-atendees": "Відвідувачів",
+    "cards-stack-events-add-cards-page-people-i-know": "Знайомих"
   }
 }

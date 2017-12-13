@@ -5,6 +5,9 @@
     "cards-stack-events-share-card-action-sheet": "Add to Live Cards",
     "cards-stack-events-alert-event-missing": "It seems the event has disappeared.",
     "cards-stack-events-alert-event-not-started": "The event has not started yet.",
-    "cards-stack-events-alert-event-registration-ended": "Event registration period is over."
+    "cards-stack-events-alert-event-registration-ended": "Event registration period is over.",
+    "cards-stack-events-add-cards-page-address": "Venue",
+    "cards-stack-events-add-cards-page-atendees": "Atendees",
+    "cards-stack-events-add-cards-page-people-i-know": "People I know"
   }
 }

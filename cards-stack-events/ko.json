@@ -5,6 +5,9 @@
     "cards-stack-events-share-card-action-sheet": "내 라이브 카드에 추가",
     "cards-stack-events-alert-event-missing": "행사가 갑자기 없어젔다",
     "cards-stack-events-alert-event-not-started": "행사 등록은 시작 안 됩니다",
-    "cards-stack-events-alert-event-registration-ended": "행사 등록 기간이 아닙니다"
+    "cards-stack-events-alert-event-registration-ended": "행사 등록 기간이 아닙니다",
+    "cards-stack-events-add-cards-page-address": "주소",
+    "cards-stack-events-add-cards-page-atendees": "명이 참가",
+    "cards-stack-events-add-cards-page-people-i-know": "명이 내 친분"
   }
 }
