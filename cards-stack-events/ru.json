@@ -1,8 +1,9 @@
 {
   "data": {
     "cards-stack-events-stack-title": "События",
-    "cards-stack-events-add-cards-page-title": "Выбрать визитку",
-    "cards-stack-events-share-card-action-sheet": "Добавить себе",
+    "cards-stack-events-card-more": "Другие функции",
+    "cards-stack-events-card-share-action-sheet": "Добавить себе",
+    "cards-stack-events-cards-add-page-title": "Выбрать визитку",
     "cards-stack-events-alert-event-missing": "НЛО прилетело и забрало это событие",
     "cards-stack-events-alert-event-not-started": "Регистрация на событие еще не началась",
     "cards-stack-events-alert-event-registration-ended": "Регистрация на событие уже закончилось",
