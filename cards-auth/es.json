@@ -8,7 +8,6 @@
     "cards-auth-i-agree-to-the": "I agree to the {termsOfServiceFormatMessage}",
     "cards-auth-next-step": "Next step",
     "cards-auth-number": "Number",
-    "cards-auth-skip-login": "Skip login",
     "cards-auth-terms-of-service": "Terms of Service",
     "cards-auth-type-phone-number-here": "Type number",
     "cards-auth-type-sms-code-here": "Type SMS code"
