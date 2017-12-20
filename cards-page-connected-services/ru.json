@@ -1,18 +1,19 @@
 {
   "data": {
     "cards-page-connected-services-title": "Подключить сайты",
-    "cards-page-connected-services-microsoft": "Microsoft",
     "cards-page-connected-services-google": "Google",
+    "cards-page-connected-services-microsoft": "Microsoft",
     "cards-page-connected-services-icloud": "iCloud",
+    "cards-page-connected-services-icloud-account-actions": "Управление записью",
+    "cards-page-connected-services-icloud-app-password": "Пароль приложения",
     "cards-page-connected-services-icloud-credentials": "Данные для входа",
     "cards-page-connected-services-icloud-credentials-email": "Логин",
     "cards-page-connected-services-icloud-credentials-password": "Пароль",
-    "cards-page-connected-services-icloud-app-password": "Пароль приложения",
-    "cards-page-connected-services-icloud-notice": "Если вы используете двухфакторную аутентификацию в iCloud, получите пароль приложения для вашей учетной записи Apple на сайте appleid.apple.com",
-    "cards-page-connected-services-icloud-account-actions": "Управление записью",
     "cards-page-connected-services-icloud-delete": "Отключить",
+    "cards-page-connected-services-icloud-notice": "Если вы используете двухфакторную аутентификацию в iCloud, получите пароль приложения для вашей учетной записи Apple на сайте appleid.apple.com",
+    "cards-page-connected-services-phone-contacts": "Phone contacts",
+    "cards-page-connected-services-save-and-close": "Сохранить и закрыть",
     "cards-page-connected-services-social-networks": "Социальные сети",
-    "cards-page-connected-services-services": "Импорт контактов",
-    "cards-page-connected-services-save-and-close": "Сохранить и закрыть"
+    "cards-page-connected-services-sync-for-autoconnect": "Sync for auto-connect"
   }
 }

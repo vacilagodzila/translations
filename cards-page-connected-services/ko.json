@@ -1,18 +1,19 @@
 {
   "data": {
     "cards-page-connected-services-title": "추가된 계정",
+    "cards-page-connected-services-google": "Google",
     "cards-page-connected-services-microsoft": "Microsoft",
-    "cards-page-connected-services-google": "Google+",
-    "cards-page-connected-services-icloud": "Apple iCloud",
+    "cards-page-connected-services-icloud": "iCloud",
+    "cards-page-connected-services-icloud-account-actions": "계정 액션",
+    "cards-page-connected-services-icloud-app-password": "App password",
     "cards-page-connected-services-icloud-credentials": "로그인",
     "cards-page-connected-services-icloud-credentials-email": "이메일",
     "cards-page-connected-services-icloud-credentials-password": "비밀번호",
-    "cards-page-connected-services-icloud-account-actions": "계정 액션",
-    "cards-page-connected-services-icloud-app-password": "App password",
-    "cards-page-connected-services-icloud-notice": "If you are using 2-step authentication for iCloud, generate app-specific password for your Apple ID at appleid.apple.com",
     "cards-page-connected-services-icloud-delete": "연결 끊기",
+    "cards-page-connected-services-icloud-notice": "If you are using 2-step authentication for iCloud, generate app-specific password for your Apple ID at appleid.apple.com",
+    "cards-page-connected-services-phone-contacts": "Phone contacts",
+    "cards-page-connected-services-save-and-close": "저장 후 닫기",
     "cards-page-connected-services-social-networks": "SNS",
-    "cards-page-connected-services-services": "연락처",
-    "cards-page-connected-services-save-and-close": "저장 후 닫기"
+    "cards-page-connected-services-sync-for-autoconnect": "Sync for auto-connect"
   }
 }

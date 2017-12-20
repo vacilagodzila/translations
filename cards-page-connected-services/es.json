@@ -1,18 +1,19 @@
 {
   "data": {
     "cards-page-connected-services-title": "Connected Services",
+    "cards-page-connected-services-google": "Google",
     "cards-page-connected-services-microsoft": "Microsoft",
-    "cards-page-connected-services-google": "Google+",
-    "cards-page-connected-services-icloud": "Apple iCloud",
+    "cards-page-connected-services-icloud": "iCloud",
+    "cards-page-connected-services-icloud-account-actions": "Account actions",
+    "cards-page-connected-services-icloud-app-password": "App password",
     "cards-page-connected-services-icloud-credentials": "Login credentials",
     "cards-page-connected-services-icloud-credentials-email": "Email",
     "cards-page-connected-services-icloud-credentials-password": "Password",
-    "cards-page-connected-services-icloud-account-actions": "Account actions",
     "cards-page-connected-services-icloud-delete": "Disconnect",
-    "cards-page-connected-services-icloud-app-password": "App password",
     "cards-page-connected-services-icloud-notice": "If you are using 2-step authentication for iCloud, generate app-specific password for your Apple ID at appleid.apple.com",
+    "cards-page-connected-services-phone-contacts": "Phone contacts",
+    "cards-page-connected-services-save-and-close": "Save and close",
     "cards-page-connected-services-social-networks": "Social Networks",
-    "cards-page-connected-services-services": "Contacts Services",
-    "cards-page-connected-services-save-and-close": "Save and close"
+    "cards-page-connected-services-sync-for-autoconnect": "Sync for auto-connect"
   }
 }
