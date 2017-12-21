@@ -3,6 +3,8 @@
     "cards-alert-autoconnect-notice": "Цю картку буде автоматично синхронізувано з тими користувачами andCards, які вже мали ваш номер телефону в своїх контактах, і чий номер ви також вже мали у власному списку контактів.",
     "cards-alert-icloud-login-fail": "Ваш Apple ID або пароль невірний",
     "cards-alert-storyline-chapter-unlocked": "Доступний новий епізод сторілайну!",
-    "cards-alert-navigate-to-settings-to-give-access-to-contacts": "Відкрийте налаштування та надайте доступ до контактів."
+    "cards-alert-navigate-to-settings-to-give-access-to-contacts": "Відкрийте налаштування та надайте доступ до контактів.",
+    "cards-alert-phone-contacts-import-fail-alert": "Import of phone contacts failed",
+    "cards-alert-phone-contacts-import-success-alert": "{added} of {all} successfully imported"
   }
 }
