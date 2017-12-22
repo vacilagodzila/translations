@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-card-edit-my-autoconnect-notice": "Цю картку буде автоматично синхронізувано з тими користувачами andCards, які вже мали ваш номер телефону в своїх контактах, і чий номер ви також вже мали у власному списку контактів.",
     "cards-card-edit-my-automapping-switch": "Відображати мої дані автоматично",
     "cards-card-edit-my-shared-basic-information": "Загальна інформація",
     "cards-card-edit-my-shared-phone-numbers-information": "Номери телефонів",

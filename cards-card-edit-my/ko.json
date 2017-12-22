@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-card-edit-my-autoconnect-notice": "이 카드는 이미 자신의 전화 번호가 이미 연락처에 있고, 전화 번호가 이미 연락처에 있던 카드 사용자와 자동으로 동기화됩니다.",
     "cards-card-edit-my-automapping-switch": "내 카드의 데이터 자동 매핑",
     "cards-card-edit-my-shared-basic-information": "기본 정보",
     "cards-card-edit-my-shared-phone-numbers-information": "연락처",

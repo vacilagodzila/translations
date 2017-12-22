@@ -1,9 +1,6 @@
 {
   "data": {
-    "cards-alert-autoconnect-notice": "Эта визитка автоматически синхронизируется с пользователями andCards, у которых есть ваш номер телефона и чей номер есть в вашем списке контактов.",
     "cards-alert-icloud-login-fail": "Ваш Apple ID или пароль неверны.",
-    "cards-alert-storyline-chapter-unlocked": "Доступен новый эпизод сторилайна!",
-    "cards-alert-navigate-to-settings-to-give-access-to-contacts": "Откройте настройки и дайте доступ к контактам.",
-    "cards-alert-phone-contacts-import-fail-alert": "Предоставьте доступ к контактам в настройках устройства."
+    "cards-alert-storyline-chapter-unlocked": "Доступен новый эпизод сторилайна!"
   }
 }
