@@ -4,7 +4,6 @@
     "cards-alert-icloud-login-fail": "Your Apple ID or password was incorrect.",
     "cards-alert-storyline-chapter-unlocked": "Storyline chapter unlocked! Tap here to read.",
     "cards-alert-navigate-to-settings-to-give-access-to-contacts": "Open settings and give access to your contacts.",
-    "cards-alert-phone-contacts-import-fail-alert": "Import of phone contacts failed",
-    "cards-alert-phone-contacts-import-success-alert": "{added} of {all} successfully imported"
+    "cards-alert-phone-contacts-import-fail-alert": "Enable permission to access contacts in Device Settings."
   }
 }

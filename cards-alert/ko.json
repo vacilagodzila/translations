@@ -4,7 +4,6 @@
     "cards-alert-icloud-login-fail": "Apple ID 또는 암호가 올바르지 않습니다.",
     "cards-alert-storyline-chapter-unlocked": "새로운 이야기가 나왔습니다! 클릭해주세요!",
     "cards-alert-navigate-to-settings-to-give-access-to-contacts": "설정을 열고 연락처에 대한 액세스 권한을 부여하십시오.",
-    "cards-alert-phone-contacts-import-fail-alert": "Import of phone contacts failed",
-    "cards-alert-phone-contacts-import-success-alert": "{added} of {all} successfully imported"
+    "cards-alert-phone-contacts-import-fail-alert": "기기 설정에서 연락처 권한을 설정하세요."
   }
 }
