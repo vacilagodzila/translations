@@ -5,17 +5,21 @@
     "marketing-footer-highlight-directory-pricing": "Цены",
     "marketing-footer-highlight-directory-support": "Поддержка",
     "marketing-footer-highlight-directory-faq": "Вопросы и ответы",
+    "marketing-footer-highlight-directory-cookies": "Политика куки",
     "marketing-footer-highlight-directory-terms": "Условия использования",
-    "marketing-footer-highlight-directory-licenses": "Юридическая информация",
+    "marketing-footer-highlight-directory-licenses": "Лицензии",
     "marketing-footer-highlight-directory-privacy": "Политика конфиденциальности",
     "marketing-footer-highlight-directory-about": "О компании",
     "marketing-footer-highlight-directory-connect": "Связаться",
     "marketing-footer-highlight-directory-facebook": "Facebook",
     "marketing-footer-highlight-directory-telegram": "Telegram",
     "marketing-footer-highlight-directory-instagram": "Instagram",
-    "marketing-footer-highlight-directory-google-plus": "Google+",
     "marketing-footer-highlight-directory-youtube": "YouTube",
     "marketing-footer-highlight-directory-linkedin": "LinkedIn",
+    "marketing-footer-highlight-directory-kakao": "Kakao Plus Friend",
+    "marketing-footer-highlight-directory-twitter": "Cards Engineering",
+    "marketing-footer-highlight-directory-naver": "Naver Блог",
+    "marketing-footer-highlight-directory-medium": "Medium Блог",
     "marketing-footer-copyright-all-rights-reserved": "© Корпорация Cards"
   }
 }

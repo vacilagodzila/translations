@@ -5,6 +5,7 @@
     "marketing-footer-highlight-directory-pricing": "Ціни",
     "marketing-footer-highlight-directory-support": "Підтримка",
     "marketing-footer-highlight-directory-faq": "Питання та відповіді",
+    "marketing-footer-highlight-directory-cookies": "Політика кукі",
     "marketing-footer-highlight-directory-terms": "Умови надання послуг",
     "marketing-footer-highlight-directory-licenses": "Ліцензії",
     "marketing-footer-highlight-directory-privacy": "Політика приватності",
@@ -13,9 +14,12 @@
     "marketing-footer-highlight-directory-facebook": "Фейсбук",
     "marketing-footer-highlight-directory-telegram": "Телеграм",
     "marketing-footer-highlight-directory-instagram": "Інстаграм",
-    "marketing-footer-highlight-directory-google-plus": "Google+",
     "marketing-footer-highlight-directory-youtube": "YouTube",
     "marketing-footer-highlight-directory-linkedin": "LinkedIn",
+    "marketing-footer-highlight-directory-kakao": "Kakao Plus Friend",
+    "marketing-footer-highlight-directory-twitter": "Cards Engineering",
+    "marketing-footer-highlight-directory-naver": "Naver Блоґ",
+    "marketing-footer-highlight-directory-medium": "Medium Блоґ",
     "marketing-footer-copyright-all-rights-reserved": "© Корпорація Cards"
   }
 }
