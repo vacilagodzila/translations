@@ -5,11 +5,9 @@
     "cards-auth-change-number": "휴대폰 번호 변경",
     "cards-auth-code": "인증번호",
     "cards-auth-country": "국가",
-    "cards-auth-done": "완료",
     "cards-auth-i-agree-to-the": "{termsOfServiceFormatMessage} 모두 동의합니다.",
     "cards-auth-next-step": "다음",
     "cards-auth-number": "전화번호",
-    "cards-auth-skip-login": "로그인없이 사용하기",
     "cards-auth-terms-of-service": "이용약관, 개인정보 수집 및 이용에",
     "cards-auth-type-phone-number-here": "휴대폰 번호입력",
     "cards-auth-type-sms-code-here": "인증번호 입력"

@@ -5,11 +5,9 @@
     "cards-auth-change-number": "Назад к номеру",
     "cards-auth-code": "Код",
     "cards-auth-country": "Страна",
-    "cards-auth-done": "Готово",
     "cards-auth-i-agree-to-the": "Соглашаюсь с {termsOfServiceFormatMessage}",
     "cards-auth-next-step": "Далее",
     "cards-auth-number": "Номер",
-    "cards-auth-skip-login": "Пропустить вход",
     "cards-auth-terms-of-service": "условиями использования",
     "cards-auth-type-phone-number-here": "Введите номер",
     "cards-auth-type-sms-code-here": "Введите СМС пароль"
