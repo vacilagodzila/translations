@@ -10,9 +10,18 @@
     "cards-stack-my-cards-share-temp-code": "임시 코드",
     "cards-stack-my-cards-done": "완료",
     "cards-stack-my-cards-received-cards": "받는 카드",
-    "cards-stack-my-cards-exchange-successful": "라이브카드를 교환하였습니다.",
-    "cards-stack-my-cards-create-new": "Create a new live card",
-    "cards-stack-my-cards-share-or-edit": "Share or edit your card",
-    "cards-stack-my-cards-update": "갱신 내 라이브 카드"
+    "cards-stack-my-cards-exchange-successful": "연락처카드를 교환하였습니다.",
+    "cards-stack-my-cards-create-new": "새 라이브 카드 생성",
+    "cards-stack-my-cards-share-or-edit": "내 라이브 카드 공유 또는 수정",
+    "cards-stack-my-cards-update": "내 연락처 카드 갱신",
+    "cards-stack-my-cards-heading-title-morning": "좋은 아침~",
+    "cards-stack-my-cards-heading-subtitle-morning": "좋은 하루 되세요 🌞",
+    "cards-stack-my-cards-heading-title-afternoon": "안녕하세요!",
+    "cards-stack-my-cards-heading-subtitle-afternoon": "연락처를 빠르게 공유하세요 ⚡",
+    "cards-stack-my-cards-heading-title-evening": "수고했어요~",
+    "cards-stack-my-cards-heading-subtitle-evening": "내 인맥을 업데이트 해보세요 💡",
+    "cards-stack-my-cards-heading-title-night": "안녕히 주무세요~",
+    "cards-stack-my-cards-heading-subtitle-night": "오늘 늦게까지 일하시는 거에요? 🌙",
+    "cards-stack-my-cards-section-title": "내 연락처 카드"
   }
 }

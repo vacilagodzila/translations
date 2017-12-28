@@ -10,9 +10,18 @@
     "cards-stack-my-cards-share-temp-code": "Тимчасовий код",
     "cards-stack-my-cards-done": "Готово",
     "cards-stack-my-cards-received-cards": "Вхідні картки",
-    "cards-stack-my-cards-exchange-successful": "Обмін живими картками успішний.",
-    "cards-stack-my-cards-create-new": "Create a new live card",
-    "cards-stack-my-cards-share-or-edit": "Share or edit your card",
-    "cards-stack-my-cards-update": "Оновити живу картку"
+    "cards-stack-my-cards-exchange-successful": "Обмін картками успішний.",
+    "cards-stack-my-cards-create-new": "Створити нову картку",
+    "cards-stack-my-cards-share-or-edit": "Поділитися або редагувати картку",
+    "cards-stack-my-cards-update": "Оновити живу картку",
+    "cards-stack-my-cards-heading-title-morning": "Доброго ранку!",
+    "cards-stack-my-cards-heading-subtitle-morning": "Бажаємо гарного дня 🌞",
+    "cards-stack-my-cards-heading-title-afternoon": "Доброго дня!",
+    "cards-stack-my-cards-heading-subtitle-afternoon": "Поділіться карткою миттєво ⚡",
+    "cards-stack-my-cards-heading-title-evening": "Гарного вечора!",
+    "cards-stack-my-cards-heading-subtitle-evening": "Дізнайтесь що нового в інших 💡",
+    "cards-stack-my-cards-heading-title-night": "Надобраніч!",
+    "cards-stack-my-cards-heading-subtitle-night": "Більше знаєш — краще спиш 🌙",
+    "cards-stack-my-cards-section-title": "Мої картки"
   }
 }

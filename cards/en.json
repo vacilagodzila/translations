@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-title": "andCards",
-    "cards-keywords": "endcards,phone,contacts,sync,design,manager,group,cloud,online,business,cards,maker,work,backup,social,restore,smart,simpler,stacks,best,web,community",
+    "cards-keywords": "endcards,phone,contacts,sync,design,manager,group,cloud,online,business,cards,maker,work,backup,social,restore,smart,simpler,stacks,best,web,community,coworking",
     "cards-description": "Empower your community: search people directory, organize and promote events",
     "cards-group-quick-actions": "Quick Actions",
     "cards-group-general": "General",
@@ -11,6 +11,6 @@
     "cards-notification-autoconnect-one": "{name} is on andCards. Check out the live card!",
     "cards-notification-autoconnect-many": "Some of your friends are now on andCards. Check them out right now!",
     "cards-notification-received-cards-updates-one": "Did you know that {name} changed their card?",
-    "cards-notification-received-cards-updates-mane": "We've updated {number} live cards with new information!"
+    "cards-notification-received-cards-updates-many": "We've updated {number} live cards with new information!"
   }
 }
