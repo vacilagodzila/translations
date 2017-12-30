@@ -1,5 +1,10 @@
 {
   "data": {
-    "marketing-blogs-title": "Blogs andCards"
+    "marketing-blogs-title": "Blogs andCards",
+    "marketing-blogs-and-news": "Blogs & News",
+    "marketing-blogs-knowledge": "Knowledge",
+    "marketing-blogs-technology": "Technology",
+    "marketing-blogs-design": "Design",
+    "marketing-blogs-news": "News"
   }
 }
