@@ -1,14 +1,16 @@
 {
   "data": {
-    "marketing-about-title": "О компании Cards",
-    "marketing-about-browser-no-support-html5-video": "Пожалуйста, используйте современный браузер.",
-    "marketing-about-value-statement": "Мы ценим индивидуальность и свободу вашего выбора чем делиться онлайн",
-    "marketing-about-management-ceo-name": "Игорь Джебян",
-    "marketing-about-management-ceo-title": "Соучредитель",
-    "marketing-about-management-cto-name": "Ростислав Ханас",
-    "marketing-about-management-cto-title": "Соучредитель",
-    "marketing-about-management-investor-name": "Инвестор",
-    "marketing-about-management-investor-title": "Мы в активном поиске первичных инвестиций",
-    "marketing-about-management-investor-action": "Стать инвестором"
+    "marketing-about-title": "О компании Cards Corp.",
+    "marketing-about-we-are-cards" : "Мы — Cards Corp.",
+    "marketing-about-us": "О нас",
+    "marketing-about-us-text": "Cards Corp. — разработчик сервиса andCards для организации сообществ. Компания основана в Сеуле, Республика Корея. Cards Corp. явлется победителем различных международных конкурсов, таких как K-Startup Grand Challenge 2017, Infinity Challenge на Startup Festival 2017, а также Global Startup Expo в Сеуле.",
+    "marketing-about-news": "Новости",
+    "marketing-about-locations": "Офисы",
+    "marketing-about-locations-seoul": "Сеул",
+    "marketing-about-locations-seoul-address": "3 эт., 109 Чхонпа-ро,\n Йонгсан-гу,\n Сеул 04370,\n Республика Корея",
+    "marketing-about-locations-pangyo": "Пангьо",
+    "marketing-about-locations-pangyo-address": "20, Пангьо-ро 289бон-гил,\n Бунданг-гу, Сонгнам-си,\n Кенги-до 13488\n Республика Корея",
+    "marketing-about-locations-lviv": "Львов",
+    "marketing-about-locations-lviv-address": "iHUB Львов\n ул. Замкнена, 9\n Львов 79000\n Украина"
   }
 }
