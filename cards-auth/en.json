@@ -5,7 +5,7 @@
     "cards-auth-change-number": "Back to number",
     "cards-auth-code": "Code",
     "cards-auth-country": "Country",
-    "cards-auth-agree-to-policies": "By proceeding you verify that you are at least 14 years old, and consent to be bound by our {termsOfUse}, {privacyPolicy} and {cookiePolicy} policies. You may withdraw your consent at any time in Settings.",
+    "cards-auth-agree-to-policies": "By proceeding I verify that I am at least 14 years old, and consent to be bound by Cards {termsOfUse}, {privacyPolicy} and {cookiePolicy} policies. I may withdraw this consent at any time in Settings.",
     "cards-auth-link-terms-of-use": "Terms of Use",
     "cards-auth-link-privacy-policy": "Privacy",
     "cards-auth-link-cookies-policy": "Cookies",
