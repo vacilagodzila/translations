@@ -5,10 +5,12 @@
     "cards-auth-change-number": "Back to number",
     "cards-auth-code": "Code",
     "cards-auth-country": "Country",
-    "cards-auth-i-agree-to-the": "I agree to the {termsOfServiceFormatMessage}",
-    "cards-auth-next-step": "Next step",
+    "cards-auth-agree-to-policies": "By proceeding you verify that you are at least 14 years old, and consent to be bound by our {termsOfUse}, {privacyPolicy} and {cookiePolicy} policies. You may withdraw your consent at any time in Settings.",
+    "cards-auth-link-terms-of-use": "Terms of Use",
+    "cards-auth-link-privacy-policy": "Privacy",
+    "cards-auth-link-cookies-policy": "Cookies",
+    "cards-auth-next-step": "Agree and continue",
     "cards-auth-number": "Number",
-    "cards-auth-terms-of-service": "Terms of Service",
     "cards-auth-type-phone-number-here": "Type number",
     "cards-auth-type-sms-code-here": "Type SMS code"
   }
