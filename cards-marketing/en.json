@@ -1,6 +1,9 @@
 {
   "data": {
     "cards-marketing-keywords": "endcards,phone,contacts,sync,design,manager,group,cloud,online,business,cards,maker,work,backup,social,restore,smart,simpler,stacks,best,web,community,coworking",
-    "cards-marketing-description": "Empower your community: people directory, events, notifications, polls and other features"
+    "cards-marketing-description": "Empower your community: people directory, events, notifications, polls and other features",
+    "cookie-notice-text": "andCards uses cookies to personalize your experience. By continuing to browse you consent to the {cookiePolicy}.",
+    "cookie-notice-link-to-policy": "Cookie Policy",
+    "cookie-notice-i-accept": "I accept"
   }
 }
