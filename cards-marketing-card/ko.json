@@ -2,6 +2,8 @@
   "data": {
     "marketing-card-title": "Cards 카드",
     "marketing-card-add-to-cards": "추가",
-    "marketing-card-open-in-cards": "열기"
+    "marketing-card-open-in-cards": "열기",
+    "marketing-card-login-cancel": "취소",
+    "marketing-card-login-authenticate": "전화번호 인증"
   }
 }

@@ -2,6 +2,8 @@
   "data": {
     "marketing-card-title": "Картка Cards",
     "marketing-card-add-to-cards": "Додати",
-    "marketing-card-open-in-cards": "Відкрити"
+    "marketing-card-open-in-cards": "Відкрити",
+    "marketing-card-login-cancel": "Скасувати",
+    "marketing-card-login-authenticate": "Автентифікація"
   }
 }

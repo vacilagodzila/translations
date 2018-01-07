@@ -2,6 +2,8 @@
   "data": {
     "marketing-card-title": "Cards Card",
     "marketing-card-add-to-cards": "Add",
-    "marketing-card-open-in-cards": "Open"
+    "marketing-card-open-in-cards": "Open",
+    "marketing-card-login-cancel": "Cancel",
+    "marketing-card-login-authenticate": "Authenticate"
   }
 }
