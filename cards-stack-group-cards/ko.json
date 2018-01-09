@@ -2,7 +2,6 @@
   "data": {
     "cards-stack-custom-cards-title": "새로운 그룹",
     "cards-stack-custom-cards-more": "기타 기능",
-    "cards-stack-custom-cards-type-here": "그룹 이름 입력",
     "cards-stack-custom-cards-add-cards": "추가",
     "cards-stack-custom-cards-edit-card": "편집",
     "cards-stack-custom-cards-delete-card": "삭제",
@@ -15,8 +14,6 @@
     "cards-stack-custom-cards-empty-button": "카드를 추가하기",
     "cards-stack-custom-rename-settings": "그룹 이름 바꾸기",
     "cards-stack-custom-remove": "삭제하기",
-    "cards-stack-custom-stack-title-input": "그룹 이름",
-    "cards-stack-custom-details-page-title": "그룹 이름 바꾸기",
-    "cards-stack-custom-details-page-save": "저장하기"
+    "cards-stack-custom-details-page-title": "그룹 이름 바꾸기"
   }
 }

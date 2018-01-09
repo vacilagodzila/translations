@@ -2,7 +2,6 @@
   "data": {
     "cards-stack-custom-cards-title": "New group",
     "cards-stack-custom-cards-more" : "More options",
-    "cards-stack-custom-cards-type-here": "Type here",
     "cards-stack-custom-cards-add-cards": "Add cards",
     "cards-stack-custom-cards-edit-card": "Edit",
     "cards-stack-custom-cards-delete-card": "Delete",
@@ -15,8 +14,6 @@
     "cards-stack-custom-cards-empty-button": "Add cards",
     "cards-stack-custom-rename-settings": "Rename Group",
     "cards-stack-custom-remove": "Remove",
-    "cards-stack-custom-stack-title-input": "Title",
-    "cards-stack-custom-details-page-title": "Rename Group",
-    "cards-stack-custom-details-page-save": "Save"
+    "cards-stack-custom-details-page-title": "Rename Group"
   }
 }
