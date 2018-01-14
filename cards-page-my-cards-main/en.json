@@ -1,0 +1,20 @@
+{
+  "data": {
+    "cards-page-my-cards-main-title": "My andCards",
+    "cards-page-my-cards-main-edit-card": "Edit",
+    "cards-page-my-cards-main-delete-card": "Delete",
+    "cards-page-my-cards-main-share": "Share",
+    "cards-page-my-cards-main-more": "More options",
+    "cards-page-my-cards-main-create": "Create card",
+    "cards-page-my-cards-main-update": "Update live card",
+    "cards-page-my-cards-main-heading-title-morning": "Good morning!",
+    "cards-page-my-cards-main-heading-subtitle-morning": "Have a nice day 🌞",
+    "cards-page-my-cards-main-heading-title-afternoon": "Good afternoon!",
+    "cards-page-my-cards-main-heading-subtitle-afternoon": "Share your card in one touch ⚡",
+    "cards-page-my-cards-main-heading-title-evening": "Good evening!",
+    "cards-page-my-cards-main-heading-subtitle-evening": "See what's new with your people 💡",
+    "cards-page-my-cards-main-heading-title-night": "Good night!",
+    "cards-page-my-cards-main-heading-subtitle-night": "One last thing before sleep... 🌙",
+    "cards-page-my-cards-main-section-title": "My Cards"
+  }
+}
