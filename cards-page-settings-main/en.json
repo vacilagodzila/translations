@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-settings-main-title": "Settings",
+    "cards-page-settings-main-display": "Display",
+    "cards-page-settings-main-sorting": "Sorting",
+    "cards-page-settings-main-locale": "Language",
+    "cards-page-settings-main-support": "Support",
+    "cards-page-settings-main-general": "General",
+    "cards-page-settings-main-sign-out": "Log Out",
+    "cards-page-settings-main-account": "Account",
+    "cards-page-settings-main-sorting-first-last": "First, Last",
+    "cards-page-settings-main-sorting-last-first": "Last, First"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-settings-main-title": "Налаштування",
+    "cards-page-settings-main-display": "Вигляд",
+    "cards-page-settings-main-sorting": "Порядок",
+    "cards-page-settings-main-locale": "Мова",
+    "cards-page-settings-main-support": "Підтримка",
+    "cards-page-settings-main-general": "Загальні",
+    "cards-page-settings-main-sign-out": "Вийти з системи",
+    "cards-page-settings-main-account": "Обліковий запис",
+    "cards-page-settings-main-sorting-first-last": "Ім'я, прізвище",
+    "cards-page-settings-main-sorting-last-first": "Прізвище, ім'я"
+  }
+}

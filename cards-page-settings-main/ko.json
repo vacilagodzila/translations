@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-settings-main-title": "설정",
+    "cards-page-settings-main-display": "표시 순서",
+    "cards-page-settings-main-sorting": "정렬 순서",
+    "cards-page-settings-main-locale": "언어",
+    "cards-page-settings-main-support": "지원",
+    "cards-page-settings-main-general": "일반",
+    "cards-page-settings-main-sign-out": "로그아웃",
+    "cards-page-settings-main-account": "계정",
+    "cards-page-settings-main-sorting-first-last": "이름, 성",
+    "cards-page-settings-main-sorting-last-first": "성, 으름"
+  }
+}

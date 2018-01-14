@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-settings-main-title": "Настройки",
+    "cards-page-settings-main-display": "Вид",
+    "cards-page-settings-main-sorting": "Порядок",
+    "cards-page-settings-main-locale": "Язык",
+    "cards-page-settings-main-support": "Поддержка",
+    "cards-page-settings-main-general": "Общие",
+    "cards-page-settings-main-sign-out": "Выйти из системы",
+    "cards-page-settings-main-account": "Учетная запись",
+    "cards-page-settings-main-sorting-first-last": "Имя, фамилия",
+    "cards-page-settings-main-sorting-last-first": "Фамилия, имя"
+  }
+}
