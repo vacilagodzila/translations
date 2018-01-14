@@ -1,0 +1,17 @@
+{
+  "data": {
+    "cards-page-group-cards-main-more" : "More options",
+    "cards-page-group-cards-main-add-cards": "Add cards",
+    "cards-page-group-cards-main-edit-card": "Edit",
+    "cards-page-group-cards-main-delete-card": "Delete",
+    "cards-page-group-cards-main-add-to-favorites": "Add to favorites",
+    "cards-page-group-cards-main-add-to-group": "Add to group...",
+    "cards-page-group-cards-main-remove-from-stack": "Remove from group",
+    "cards-page-group-cards-main-empty-heading": "Let's add some cards",
+    "cards-page-group-cards-main-empty-text-add": "You can add live or phone cards to this group.",
+    "cards-page-group-cards-main-empty-button": "Add cards",
+    "cards-page-group-cards-main-rename-settings": "Rename Group",
+    "cards-page-group-cards-main-remove": "Remove",
+    "cards-page-group-cards-main-details-page-title": "Rename Group"
+  }
+}

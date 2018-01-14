@@ -1,0 +1,17 @@
+{
+  "data": {
+    "cards-page-group-cards-main-more": "Інші функції",
+    "cards-page-group-cards-main-add-cards": "Додати картки",
+    "cards-page-group-cards-main-edit-card": "Редагувати",
+    "cards-page-group-cards-main-delete-card": "Видалити",
+    "cards-page-group-cards-main-add-to-favorites": "Додати до улюблених",
+    "cards-page-group-cards-main-add-to-group": "Додати до групи...",
+    "cards-page-group-cards-main-remove-from-stack": "Прибрати з групи",
+    "cards-page-group-cards-main-empty-heading": "Почнемо додавати картки",
+    "cards-page-group-cards-main-empty-text-add": "В цю групу можна додавати як живі картки, так і звичайні.",
+    "cards-page-group-cards-main-empty-button": "Додати картки",
+    "cards-page-group-cards-main-rename-settings": "Перейменувати",
+    "cards-page-group-cards-main-remove": "Видалити",
+    "cards-page-group-cards-main-details-page-title": "Перейменувати"
+  }
+}
