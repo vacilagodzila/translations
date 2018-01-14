@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-design-store-details-get-card-design": "Download design",
+    "cards-page-design-store-details-get-card-design-success": "Success! Edit your card to apply this design.",
+    "cards-page-design-store-details-get-card-design-unsuccess": "Couldn't download design. Try again later.",
+    "cards-page-design-store-details-info": "Information",
+    "cards-page-design-store-details-author": "Author",
+    "cards-page-design-store-details-category": "Category",
+    "cards-page-design-store-details-date": "Date",
+    "cards-page-design-store-details-description": "Description",
+    "cards-page-design-store-details-customize": "Color preview",
+    "cards-page-design-store-details-no-description": "Author did not provide any description.",
+    "cards-page-design-store-details-other-by-author": "More by",
+    "cards-page-design-store-details-other-category": "More in"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-design-store-details-get-card-design": "Завантажити дизайн",
+    "cards-page-design-store-details-get-card-design-success": "Готово! Редагуйте картку, щоб застосувати цей дизайн.",
+    "cards-page-design-store-details-get-card-design-unsuccess": "Неможливо завантажити дизайн. Спробуйте ще раз.",
+    "cards-page-design-store-details-info": "Інформація",
+    "cards-page-design-store-details-author": "Митець",
+    "cards-page-design-store-details-category": "Категорія",
+    "cards-page-design-store-details-date": "Дата",
+    "cards-page-design-store-details-description": "Опис",
+    "cards-page-design-store-details-customize": "Перегляд кольорів",
+    "cards-page-design-store-details-no-description": "Автор не надав ніякого опису.",
+    "cards-page-design-store-details-other-by-author": "Більше від",
+    "cards-page-design-store-details-other-category": "Інші в категорії"
+  }
+}
