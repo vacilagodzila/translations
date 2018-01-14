@@ -1,11 +1,10 @@
 {
   "data": {
     "marketing-error-title": "Ошибка {errorCode}",
-    "marketing-error-description": "Развивайте свое сообщество: создавайте каталог участников, мероприятия, оповещения, опросы и другое",
+    "marketing-error-description": "andCards — сервис для развития коворкингов и организаций",
     "marketing-error-something-is-missing": "Что-то пошло не так",
     "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Перейдите {supportPageFormatMessage} для помощи, либо вернитесь на {homeFormatMessage}",
-    "marketing-error-faq-page": "страницу поддержки",
-    "marketing-error-twitter": "Твиттер",
+    "marketing-error-help-page": "справку",
     "marketing-error-home": "домой"
   }
 }

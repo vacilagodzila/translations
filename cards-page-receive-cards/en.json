@@ -4,11 +4,11 @@
     "cards-page-receive-cards-sharing-code-placeholder": "Enter code",
     "cards-page-receive-cards-share-cards": "Share cards",
     "cards-page-receive-cards-cancel-and-return": "Cancel and return",
-    "cards-page-receive-cards-add-live-cards": "Add live cards",
+    "cards-page-receive-cards-add-received-cards": "Add cards",
     "cards-page-receive-cards-received-cards": "Incoming cards",
     "cards-page-receive-cards-approve-incoming-cards": "Approve",
     "cards-page-receive-cards-connect-to-internet-and-try-again": "Connect to internet and try again.",
-    "cards-page-receive-cards-exchange-successful": "Live card exchange successful.",
+    "cards-page-receive-cards-exchange-successful": "Card exchange successful.",
     "cards-page-receive-cards-mark-card": "Select"
   }
 }

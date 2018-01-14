@@ -1,11 +1,10 @@
 {
   "data": {
     "marketing-error-title": "에러 {errorCode}",
-    "marketing-error-description": "당신만의 커뮤니티를 만들어보세요 : 사람들의 연락처를 찾고, 이벤트를 조직하고 홍보하세요",
+    "marketing-error-description": "andCards — 조직과 코워킹 스페이스를 위한 커뮤니티 소프트웨어",
     "marketing-error-something-is-missing": " ",
-    "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "{supportPageFormatMessage}이나 방문하십시오. {homeFormatMessage}",
-    "marketing-error-faq-page": "사용자 지원",
-    "marketing-error-twitter": "트위터",
+    "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "{supportPageFormatMessage}를 방문하십시오. {homeFormatMessage}",
+    "marketing-error-help-page": "고객센터",
     "marketing-error-home": "메인으로 돌아가기"
   }
 }

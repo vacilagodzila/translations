@@ -1,14 +1,14 @@
 {
   "data": {
     "cards-card-edit-my-autoconnect-notice": "Эта карточка автоматически синхронизируется с пользователями andCards, у которых есть ваш номер телефона и чей номер есть в вашем списке контактов.",
-    "cards-card-edit-my-automapping-switch": "Отображать мои данные автоматически",
+    "cards-card-edit-my-automapping-switch": "Показывать автоматически",
     "cards-card-edit-my-shared-basic-information": "Основная информация",
-    "cards-card-edit-my-shared-phone-numbers-information": "Phone numbers",
+    "cards-card-edit-my-shared-phone-numbers-information": "Номера телефонов",
     "cards-card-edit-my-shared-emails-information": "Электропочта",
     "cards-card-edit-my-shared-social-information": "Социальные сервисы",
     "cards-card-edit-my-shared-notes": "Публичные заметки",
     "cards-card-edit-my-private-notes": "Личные заметки",
-    "cards-card-edit-my-color-reset": "Восстановить цвет по умолчанию",
+    "cards-card-edit-my-color-reset": "Цвет по умолчанию",
     "cards-card-edit-my-logo-crop": "Кадрировать лого",
     "cards-card-edit-my-logos": "Логотипы",
     "cards-card-edit-my-photo-crop": "Кадрировать фото",
@@ -22,6 +22,6 @@
     "cards-card-edit-my-public-embed-code": "Код для сайта",
     "cards-card-edit-my-design-mappings": "Дизайн и макет",
     "cards-card-edit-my-privacy-settings": "Приватность",
-    "cards-card-edit-my-autoconnect": "Автоконект"
+    "cards-card-edit-my-autoconnect": "Автоконнект"
   }
 }

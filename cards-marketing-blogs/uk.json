@@ -1,7 +1,9 @@
 {
   "data": {
-    "marketing-blogs-title": "Блоґи та новини andCards",
-    "marketing-blogs-description": "Розбудуйте свою спільноту: створюйте каталог учасників, події, оповіщення, опитування та інше",
+    "marketing-blogs-title":
+      "andCards: Блоґи та новини — культура коворкінгу, розробка ПО, дизайн",
+    "marketing-blogs-description":
+      "Як продуктивно працювати у коворкінгу? Як організувати цікаві заходи? Як розробити та спроектувати програмне забезпечення для коворкінгу? Читайте наші ідеї та поради!",
     "marketing-blogs-and-news": "Блоґи та новини",
     "marketing-blogs-knowledge": "Знання",
     "marketing-blogs-technology": "Технології",

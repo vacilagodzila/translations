@@ -1,0 +1,15 @@
+{
+  "data": {
+    "cards-stack-favorite-cards-title": "Favorites",
+    "cards-stack-favorite-cards-add": "Add to favorites",
+    "cards-stack-favorite-cards-add-to-group": "Add to group",
+    "cards-stack-favorite-cards-add-to-stack": "Add to stack",
+    "cards-stack-favorite-cards-more": "More options",
+    "cards-stack-favorite-cards-edit-card":"Edit card",
+    "cards-stack-favorite-cards-delete-card":"Delete card",
+    "cards-stack-favorite-cards-remove-from-favorites":"Remove from favorites",
+    "cards-stack-favorite-cards-empty-heading": "It's lonely here",
+    "cards-stack-favorite-cards-empty-text-add": "Add some cards to this stack for quick access.",
+    "cards-stack-favorite-cards-empty-facebook-button": "Add cards"
+  }
+}

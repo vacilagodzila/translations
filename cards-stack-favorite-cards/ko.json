@@ -1,0 +1,15 @@
+{
+  "data": {
+    "cards-stack-favorite-cards-title": "즐겨찾기",
+    "cards-stack-favorite-cards-add": "즐겨찾기에 추가",
+    "cards-stack-favorite-cards-add-to-group": "그룹에 추가...",
+    "cards-stack-favorite-cards-add-to-stack": "스텍에 추가..",
+    "cards-stack-favorite-cards-more": "기타 기능",
+    "cards-stack-favorite-cards-edit-card": "카드를 편집",
+    "cards-stack-favorite-cards-delete-card": "카드를 삭제",
+    "cards-stack-favorite-cards-remove-from-favorites": "즐겨찾기에서 삭제하기",
+    "cards-stack-favorite-cards-empty-heading": "보여줄 것이 없다",
+    "cards-stack-favorite-cards-empty-text-add": "빠른 연락하도록 카드를 즐겨찾기에 추가.",
+    "cards-stack-favorite-cards-empty-facebook-button": "카드를 추가"
+  }
+}
