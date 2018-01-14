@@ -1,0 +1,10 @@
+{
+  "data": {
+    "cards-page-organizations-guild-join-title": "Join {organizationTitle}",
+    "cards-page-organizations-guild-join-as-employee-text": "{organizationTitle} invited you to join as an employee.",
+    "cards-page-organizations-guild-join-as-community-text": "{organizationTitle} invited you to join their community",
+    "cards-page-organizations-guild-join-required-information": "Required Information",
+    "cards-page-organizations-guild-join-card-preview": "Card Preview",
+    "cards-page-organizations-guild-join-card-select-to-join": "Select card to join"
+  }
+}

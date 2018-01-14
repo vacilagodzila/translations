@@ -1,0 +1,10 @@
+{
+  "data": {
+    "cards-page-organizations-guild-join-title": "Присоединиться к {organizationTitle}",
+    "cards-page-organizations-guild-join-as-employee-text": "{organizationTitle} пригласили вас в качестве сотрудника.",
+    "cards-page-organizations-guild-join-as-community-text": "{organizationTitle} пригласили вас к участию в сообществе.",
+    "cards-page-organizations-guild-join-required-information": "Обязательная информация",
+    "cards-page-organizations-guild-join-card-preview": "Предпросмотр карточки",
+    "cards-page-organizations-guild-join-card-select-to-join": "Выбрать карточку"
+  }
+}

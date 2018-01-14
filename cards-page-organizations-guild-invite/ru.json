@@ -1,0 +1,10 @@
+{
+  "data": {
+    "cards-page-organizations-guild-invite-title":
+      "Пригласить в {organizationTitle}",
+    "cards-page-organizations-guild-invite-done": "Пригласить",
+    "cards-page-organizations-guild-invite-cancel": "Отменить",
+    "cards-page-organizations-guild-invite-by-email": "Пригласить по почте",
+    "cards-page-organizations-guild-invite-email": "Email"
+  }
+}

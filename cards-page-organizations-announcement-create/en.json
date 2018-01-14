@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-organizations-announcement-stack-title": "Create Announcement",
+    "cards-page-organizations-announcement-title": "Title",
+    "cards-page-organizations-announcement-date": "Date",
+    "cards-page-organizations-announcement-create-send": "Send",
+    "cards-page-organizations-announcement-create-cancel": "Cancel",
+    "cards-page-organizations-announcement-create-notification-sms": "SMS Notification",
+    "cards-page-organizations-announcement-create-target-guilds": "Target Guilds",
+    "cards-page-organizations-announcement-create-target-guilds-select-all": "Everyone",
+    "cards-page-organizations-announcement-create-contents": "Contents",
+    "cards-page-organizations-announcement-create-text-placeholder": "Type your announcement here"
+  }
+}

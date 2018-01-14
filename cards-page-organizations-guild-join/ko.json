@@ -1,0 +1,10 @@
+{
+  "data": {
+    "cards-page-organizations-guild-join-title": "{organizationTitle} 가입",
+    "cards-page-organizations-guild-join-as-employee-text": "{organizationTitle}는 본인을 직원으로 초대했습니다.",
+    "cards-page-organizations-guild-join-as-community-text": "{organizationTitle}는 본인을 회원으로 초대했습니다.",
+    "cards-page-organizations-guild-join-required-information": "필수 정보",
+    "cards-page-organizations-guild-join-card-preview": "내 카드 미리보기",
+    "cards-page-organizations-guild-join-card-select-to-join": "카드를 선택하기"
+  }
+}

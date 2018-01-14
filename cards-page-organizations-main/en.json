@@ -1,0 +1,17 @@
+{
+  "data": {
+    "cards-page-organizations-main-settings": "Organization Settings",
+    "cards-page-organizations-main-membership-settings": "Membership settings",
+    "cards-page-organizations-main-approve-requests": "Approve requests",
+    "cards-page-organizations-main-create-guild": "Create guild",
+    "cards-page-organizations-main-announcements": "Announcements",
+    "cards-page-organizations-main-announcement-create": "Announce",
+    "cards-page-organizations-main-announcements-all": "All announcements",
+    "cards-page-organizations-main-events": "Events",
+    "cards-page-organizations-main-event-create": "Organize event",
+    "cards-page-organizations-main-events-all": "All events",
+    "cards-page-organizations-main-polls": "Polls",
+    "cards-page-organizations-main-polls-create": "Ask a question",
+    "cards-page-organizations-main-polls-all": "All questions"
+  }
+}

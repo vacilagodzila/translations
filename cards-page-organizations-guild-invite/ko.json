@@ -1,0 +1,10 @@
+{
+  "data": {
+    "cards-page-organizations-guild-invite-title":
+      "{organizationTitle}에 초대하기",
+    "cards-page-organizations-guild-invite-done": "초대하기",
+    "cards-page-organizations-guild-invite-cancel": "취소하기",
+    "cards-page-organizations-guild-invite-by-email": "이메일로 초대하기",
+    "cards-page-organizations-guild-invite-email": "이메일"
+  }
+}
