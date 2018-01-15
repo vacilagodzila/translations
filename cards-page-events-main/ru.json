@@ -1,0 +1,9 @@
+{
+  "data": {
+    "cards-page-events-main-title": "События и нетворкинг",
+    "cards-page-events-main-event-create": "Create event",
+    "cards-page-events-main-missing": "НЛО прилетело и забрало это событие",
+    "cards-page-events-main-not-started": "Регистрация на событие еще не началась",
+    "cards-page-events-main-registration-ended": "Регистрация на событие уже закончилось"
+  }
+}

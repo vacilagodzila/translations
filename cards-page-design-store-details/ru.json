@@ -1,16 +1,16 @@
 {
   "data": {
-    "cards-page-design-store-details-get-card-design": "Загрузить дизайн",
-    "cards-page-design-store-details-get-card-design-success": "Готово! Редактируйте карточку, чтобы применить этот дизайн.",
-    "cards-page-design-store-details-get-card-design-unsuccess": "Невозможно загрузить дизайн. Попробуйте еще раз.",
-    "cards-page-design-store-details-info": "Информация",
-    "cards-page-design-store-details-author": "Художник",
-    "cards-page-design-store-details-category": "Категория",
-    "cards-page-design-store-details-date": "Дата",
-    "cards-page-design-store-details-description": "Описание",
-    "cards-page-design-store-details-customize": "Просмотр цветов",
-    "cards-page-design-store-details-no-description": "Автор не предоставил описания.",
-    "cards-page-design-store-details-other-by-author": "Больше от",
-    "cards-page-design-store-details-other-category": "Другое в категории"
+    "cards-page-design-store-design-details-get-card-design": "Загрузить дизайн",
+    "cards-page-design-store-design-details-get-card-design-success": "Готово! Редактируйте карточку, чтобы применить этот дизайн.",
+    "cards-page-design-store-design-details-get-card-design-unsuccess": "Невозможно загрузить дизайн. Попробуйте еще раз.",
+    "cards-page-design-store-design-details-info": "Информация",
+    "cards-page-design-store-design-details-author": "Художник",
+    "cards-page-design-store-design-details-category": "Категория",
+    "cards-page-design-store-design-details-date": "Дата",
+    "cards-page-design-store-design-details-description": "Описание",
+    "cards-page-design-store-design-details-customize": "Просмотр цветов",
+    "cards-page-design-store-design-details-no-description": "Автор не предоставил описания.",
+    "cards-page-design-store-design-details-other-by-author": "Больше от",
+    "cards-page-design-store-design-details-other-category": "Другое в категории"
   }
 }
