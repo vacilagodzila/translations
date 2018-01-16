@@ -6,6 +6,7 @@
     "cards-page-organizations-guild-settings-name": "Name",
     "cards-page-organizations-guild-settings-icon": "Icon",
     "cards-page-organizations-guild-settings-design": "Use default design",
-    "cards-page-organizations-guild-settings-label-preview": "Label Preview"
+    "cards-page-organizations-guild-settings-label-preview": "Label Preview",
+    "cards-page-organizations-guild-settings-combobox-title": "Select Icon"
   }
 }
