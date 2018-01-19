@@ -1,9 +1,10 @@
 {
   "data": {
     "cards-page-organizations-guild-invite-title": "{organizationTitle}에 초대하기",
-    "cards-page-organizations-guild-invite-design": "기본 디자인 사용",
+    "cards-page-organizations-guild-invite-design": "직원으로 초대하기",
     "cards-page-organizations-guild-invite-done": "초대하기",
     "cards-page-organizations-guild-invite-cancel": "취소하기",
-    "cards-page-organizations-guild-invite-by-phone-number": "Invite by Phone number"
+    "cards-page-organizations-guild-invite-by-phone-number": "전화번호 입력",
+    "cards-page-organizations-guild-invite-notice": "초대 대상자는 등록 링크가있는 문자를 받게된다 (190개국 이상 지원). 일반 회원은 기존 카드 중 하나에 가입 할 수 있다. 직원들은 귀하의 기본 조직 설계로 새로운 카드를 받게된다."
   }
 }

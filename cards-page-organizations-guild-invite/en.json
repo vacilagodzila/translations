@@ -1,9 +1,10 @@
 {
   "data": {
     "cards-page-organizations-guild-invite-title": "Invite to {organizationTitle}",
-    "cards-page-organizations-guild-invite-design": "Use default design",
+    "cards-page-organizations-guild-invite-design": "Invite as employee",
     "cards-page-organizations-guild-invite-done": "Invite",
     "cards-page-organizations-guild-invite-cancel": "Cancel",
-    "cards-page-organizations-guild-invite-by-phone-number": "Invite by Phone number"
+    "cards-page-organizations-guild-invite-by-phone-number": "Invite by SMS",
+    "cards-page-organizations-guild-invite-notice": "Invitees will receive an SMS with a registration link (190+ countries supported). Regular members can join with any of their existing cards. Employees will get a new card with your default organization design."
   }
 }
