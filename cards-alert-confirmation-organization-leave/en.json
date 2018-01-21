@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-alert-confirmation-organization-leave-title": "Leave organization",
+    "cards-alert-confirmation-organization-leave-text": "Are you sure you want to withdraw your consent to this policy? This policy is essential to running andCards services. If you proceed, you can not continue using andCards, and ALL YOUR DATA WILL BE DELETED PERMANENTLY AND IRREVERSIBLY.",
+    "cards-alert-confirmation-organization-leave-yes": "Yes, leave",
+    "cards-alert-confirmation-organization-leave-no": "Cancel"
+  }
+}
