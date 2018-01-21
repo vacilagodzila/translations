@@ -1,8 +1,9 @@
 {
   "data": {
     "cards-alert-confirmation-organization-leave-title": "Покинути організацію",
-    "cards-alert-confirmation-organization-leave-text": "Якщо ви продовжите, всі ваші карти, налаштування та інші дані будуть втрачені. Видалення аккаунта є незворотнім. Ми не зможемо відновити інформацію.",
-    "cards-alert-confirmation-organization-leave-yes": "Так, видалити",
+    "cards-alert-confirmation-organization-leave-text":
+      "Ви впевнені, що хочете покинути цю організацію? Якщо ви продовжите, ви втратите всі дані, пов'язані з цією організацією. Ця дія незворотна.",
+    "cards-alert-confirmation-organization-leave-yes": "Так, покинути",
     "cards-alert-confirmation-organization-leave-no": "Скасувати"
   }
 }

@@ -1,8 +1,9 @@
 {
   "data": {
     "cards-alert-confirmation-organization-leave-title": "이 조직 나가기",
-    "cards-alert-confirmation-organization-leave-text": "계속 진행하면 모든 카드, 설정 및 기타 데이터가 손실됩니다. 계정 삭제는 되돌릴 수 없습니다. 우리는 귀하의 정보를 복원 할 수 없습니다.",
-    "cards-alert-confirmation-organization-leave-yes": "네, 삭제합니다",
+    "cards-alert-confirmation-organization-leave-text":
+      "정말 이 조직을 나가시겠습니까? 계속하시면 이 조직에서의 모든 데이터를 잃어버리며, 되돌릴 수 없습니다.",
+    "cards-alert-confirmation-organization-leave-yes": "네, 나가기",
     "cards-alert-confirmation-organization-leave-no": "돌아가기"
   }
 }
