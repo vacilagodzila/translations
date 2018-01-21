@@ -13,10 +13,12 @@
     "marketing-footer-highlight-directory-licenses": "Licenses",
     "marketing-footer-highlight-directory-about": "About Company",
     "marketing-footer-highlight-directory-connect": "Social",
+    "marketing-footer-highlight-directory-behance": "Behance",
     "marketing-footer-highlight-directory-facebook": "Facebook",
     "marketing-footer-highlight-directory-kakao": "Kakao Plus Friend",
     "marketing-footer-highlight-directory-naver": "Naver Blog",
     "marketing-footer-highlight-directory-medium": "Medium Blog",
-    "marketing-footer-copyright-all-rights-reserved": "©2017-2018 Cards Corp. All rights reserved."
+    "marketing-footer-copyright-all-rights-reserved":
+      "©2017-2018 Cards Corp. All rights reserved."
   }
 }

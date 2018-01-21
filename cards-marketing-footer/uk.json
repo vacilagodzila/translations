@@ -13,10 +13,12 @@
     "marketing-footer-highlight-directory-privacy": "Приватність",
     "marketing-footer-highlight-directory-about": "Про компанію",
     "marketing-footer-highlight-directory-connect": "Зв'язок",
+    "marketing-footer-highlight-directory-behance": "Behance",
     "marketing-footer-highlight-directory-facebook": "Фейсбук",
     "marketing-footer-highlight-directory-kakao": "Kakao Plus Friend",
     "marketing-footer-highlight-directory-naver": "Naver Блоґ",
     "marketing-footer-highlight-directory-medium": "Medium Блоґ",
-    "marketing-footer-copyright-all-rights-reserved": "©2017-2018 Корпорація Cards"
+    "marketing-footer-copyright-all-rights-reserved":
+      "©2017-2018 Корпорація Cards"
   }
 }
