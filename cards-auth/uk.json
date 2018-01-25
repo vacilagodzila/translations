@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-auth-login-or-join": "Автентифікація",
-    "cards-auth-welcome-header": "Ласкаво просимо",
+    "cards-auth-login-or-join": "Вхід",
+    "cards-auth-welcome-header": "Вітаємо",
     "cards-auth-change-number": "Назад до номеру",
     "cards-auth-code": "Код",
     "cards-auth-country": "Країна",

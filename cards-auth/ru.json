@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-auth-login-or-join": "Аутентификация",
-    "cards-auth-welcome-header": "Добро пожаловать",
+    "cards-auth-login-or-join": "Вход",
+    "cards-auth-welcome-header": "Привет!",
     "cards-auth-change-number": "Назад к номеру",
     "cards-auth-code": "Код",
     "cards-auth-country": "Страна",
