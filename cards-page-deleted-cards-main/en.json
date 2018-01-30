@@ -2,6 +2,7 @@
   "data": {
     "cards-page-deleted-cards-main-title": "Deleted cards",
     "cards-page-deleted-cards-main-more": "More options",
-    "cards-page-deleted-cards-main-restore": "Restore"
+    "cards-page-deleted-cards-main-restore": "Restore",
+    "cards-page-deleted-cards-main-no-cards": "No deleted cards"
   }
 }

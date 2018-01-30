@@ -1,5 +1,6 @@
 {
   "data": {
-    "cards-page-favorite-cards-add-title": "Add to stack"
+    "cards-page-favorite-cards-add-title": "Add to stack",
+    "cards-page-favorite-cards-add-no-cards": "No cards to add."
   }
 }

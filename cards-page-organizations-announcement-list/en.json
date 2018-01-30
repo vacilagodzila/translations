@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organizations-announcement-list-title": "Announcements",
-    "cards-page-organizations-announcement-list-button": "Announce"
+    "cards-page-organizations-announcement-list-button": "Announce",
+    "cards-page-organizations-announcement-list-no-announcements": "No announcements."
   }
 }

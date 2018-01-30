@@ -4,6 +4,7 @@
     "cards-page-events-main-event-create": "Create event",
     "cards-page-events-main-missing": "НЛО прилетело и забрало это событие",
     "cards-page-events-main-not-started": "Регистрация на событие еще не началась",
-    "cards-page-events-main-registration-ended": "Регистрация на событие уже закончилось"
+    "cards-page-events-main-registration-ended": "Регистрация на событие уже закончилось",
+    "cards-page-events-main-no-events": "No events."
   }
 }

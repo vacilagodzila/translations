@@ -2,6 +2,7 @@
   "data": {
     "cards-page-events-event-title": "События и нетворкинг",
     "cards-page-events-event-card-more": "Другие функции",
-    "cards-page-events-event-card-share-action-sheet": "Добавить себе"
+    "cards-page-events-event-card-share-action-sheet": "Добавить себе",
+    "cards-page-events-event-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?"
   }
 }
