@@ -1,6 +1,9 @@
 {
   "data": {
     "cards-page-design-store-main-title": "Крамниця дизайнів",
+    "cards-page-design-store-main-get-card-design": "Завантажити дизайн",
+    "cards-page-design-store-main-get-card-design-success": "Готово! Редагуйте картку, щоб застосувати цей дизайн.",
+    "cards-page-design-store-main-get-card-design-unsuccess": "Неможливо завантажити дизайн. Спробуйте ще раз.",
     "cards-page-design-store-main-no-card-designs": "No card designs. Are you sure there is an internet connection?"
   }
 }
