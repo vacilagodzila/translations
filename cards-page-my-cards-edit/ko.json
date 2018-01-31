@@ -29,6 +29,8 @@
     "cards-page-my-cards-edit-design-mappings": "디자인 및 레이아웃",
     "cards-page-my-cards-edit-privacy-settings": "정보 보호 설정",
     "cards-page-my-cards-edit-autoconnect": "자동 연결",
-    "cards-page-my-cards-edit-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다."
+    "cards-page-my-cards-edit-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
+    "cards-page-my-cards-edit-error-action": "다시 로드",
+    "cards-page-my-cards-edit-error-text": "인터넷 또는 서버 문제로 인해 페이지를 볼 수 없습니다. 다시 시도하세요."
   }
 }

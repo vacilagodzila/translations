@@ -29,6 +29,8 @@
     "cards-page-my-cards-edit-design-mappings": "Design & Mappings",
     "cards-page-my-cards-edit-privacy-settings": "Privacy Settings",
     "cards-page-my-cards-edit-autoconnect": "Auto-connect",
-    "cards-page-my-cards-edit-copied-to-clipboard": "Copied to clipboard"
+    "cards-page-my-cards-edit-copied-to-clipboard": "Copied to clipboard",
+    "cards-page-my-cards-edit-error-action": "Reload",
+    "cards-page-my-cards-edit-error-text": "Could not load page because of internet or server issue. Please try again."
   }
 }

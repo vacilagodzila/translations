@@ -29,6 +29,8 @@
     "cards-page-my-cards-edit-design-mappings": "Дизайн та макет",
     "cards-page-my-cards-edit-privacy-settings": "Приватність",
     "cards-page-my-cards-edit-autoconnect": "Автоконект",
-    "cards-page-my-cards-edit-copied-to-clipboard": "Скопійовано в буфер обміну."
+    "cards-page-my-cards-edit-copied-to-clipboard": "Скопійовано в буфер обміну.",
+    "cards-page-my-cards-edit-error-action": "Перезавантажити",
+    "cards-page-my-cards-edit-error-text": "Неможливо завантажити сторінку через проблеми з інтернетом чи сервером. Спробуйте ще раз."
   }
 }

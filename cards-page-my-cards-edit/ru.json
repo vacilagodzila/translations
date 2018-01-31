@@ -29,6 +29,8 @@
     "cards-page-my-cards-edit-design-mappings": "Дизайн и макет",
     "cards-page-my-cards-edit-privacy-settings": "Приватность",
     "cards-page-my-cards-edit-autoconnect": "Автоконнект",
-    "cards-page-my-cards-edit-copied-to-clipboard": "Скопировано в буфер обмена"
+    "cards-page-my-cards-edit-copied-to-clipboard": "Скопировано в буфер обмена",
+    "cards-page-my-cards-edit-error-action": "Перезагрузить",
+    "cards-page-my-cards-edit-error-text": "Невозможно отобразить страницу из-за проблем с интернетом или сервером."
   }
 }
