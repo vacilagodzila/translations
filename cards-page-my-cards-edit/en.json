@@ -30,6 +30,10 @@
     "cards-page-my-cards-edit-privacy-settings": "Privacy Settings",
     "cards-page-my-cards-edit-autoconnect": "Auto-connect",
     "cards-page-my-cards-edit-copied-to-clipboard": "Copied to clipboard",
+    "cards-page-my-cards-edit-store-get-card-design": "Download design",
+    "cards-page-my-cards-edit-store-get-card-design-success": "Success! Edit your card to apply this design.",
+    "cards-page-my-cards-edit-store-get-card-design-unsuccess": "Couldn't download design. Try again later.",
+    "cards-page-my-cards-edit-store-no-card-designs": "No card designs. Are you sure there is an internet connection?",
     "cards-page-my-cards-edit-error-action": "Reload",
     "cards-page-my-cards-edit-error-text": "Could not load page because of internet or server issue. Please try again."
   }
