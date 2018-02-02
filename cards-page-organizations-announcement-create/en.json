@@ -6,6 +6,7 @@
     "cards-page-organizations-announcement-create-send": "Send",
     "cards-page-organizations-announcement-create-cancel": "Cancel",
     "cards-page-organizations-announcement-create-notification-sms": "SMS Notification",
+    "cards-page-organizations-announcement-create-notification-push": "Push Notification",
     "cards-page-organizations-announcement-create-target-guilds": "Target Guilds",
     "cards-page-organizations-announcement-create-target-guilds-select-all": "Everyone",
     "cards-page-organizations-announcement-create-contents": "Contents",

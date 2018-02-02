@@ -6,6 +6,7 @@
     "cards-page-organizations-announcement-create-send": "보내기",
     "cards-page-organizations-announcement-create-cancel": "취소",
     "cards-page-organizations-announcement-create-notification-sms": "문자 알림",
+    "cards-page-organizations-announcement-create-notification-push": "푸시 알림 보내기",
     "cards-page-organizations-announcement-create-target-guilds": "타깃 길드",
     "cards-page-organizations-announcement-create-target-guilds-select-all": "모든 회원",
     "cards-page-organizations-announcement-create-contents": "내용",
