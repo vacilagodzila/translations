@@ -6,6 +6,7 @@
     "cards-page-organizations-guild-settings-name": "이름",
     "cards-page-organizations-guild-settings-icon": "아이콘",
     "cards-page-organizations-guild-settings-label-preview": "라벨 미리보기",
-    "cards-page-organizations-guild-settings-combobox-title": "아이콘 선택하기"
+    "cards-page-organizations-guild-settings-combobox-title": "아이콘 선택하기",
+    "cards-page-organizations-guild-settings-delete": "길드 삭제"
   }
 }

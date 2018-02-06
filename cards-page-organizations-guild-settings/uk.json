@@ -6,6 +6,7 @@
     "cards-page-organizations-guild-settings-name": "Назва",
     "cards-page-organizations-guild-settings-icon": "Іконка",
     "cards-page-organizations-guild-settings-label-preview": "Попередній перегляд",
-    "cards-page-organizations-guild-settings-combobox-title": "Обрати іконку"
+    "cards-page-organizations-guild-settings-combobox-title": "Обрати іконку",
+    "cards-page-organizations-guild-settings-delete": "Видалити гільдію"
   }
 }
