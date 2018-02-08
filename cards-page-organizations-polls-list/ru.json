@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organizations-polls-list-title": "Polls",
-    "cards-page-organizations-polls-list-button": "Poll",
-    "cards-page-organizations-polls-list-no-polls": "No polls."
+    "cards-page-organizations-polls-list-title": "Вопросы и ответы",
+    "cards-page-organizations-polls-list-button": "Задать вопрос",
+    "cards-page-organizations-polls-list-no-polls": "Нет вопросов и ответов."
   }
 }

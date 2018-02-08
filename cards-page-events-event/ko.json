@@ -2,7 +2,7 @@
   "data": {
     "cards-page-events-event-title": "행사 및 네트워킹",
     "cards-page-events-event-card-more": "추가 옵션",
-    "cards-page-events-event-card-share-action-sheet": "내 라이브 카드에 추가",
-    "cards-page-events-event-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?"
+    "cards-page-events-event-card-share-action-sheet": "내 연락처에 추가",
+    "cards-page-events-event-no-event-details": "행사 정보를 가져올 수 없습니다. 인터넷 연결을 확인하십시오."
   }
 }

@@ -31,7 +31,7 @@
     "cards-page-my-cards-edit-store-get-card-design": "받기",
     "cards-page-my-cards-edit-store-get-card-design-success": "다운로드 완료되었습니다. 디자인을 적용하기로 개인카드를 편집하세요.",
     "cards-page-my-cards-edit-store-get-card-design-unsuccess": "다운로드 실패. 나중에 다시 시도하세요.",
-    "cards-page-my-cards-edit-store-no-card-designs": "No card designs. Are you sure there is an internet connection?",
+    "cards-page-my-cards-edit-store-no-card-designs": "디자인 없습니다. 인터넷 확인하시고 다시 시도하세요.",
     "cards-page-my-cards-edit-error-action": "다시 로드",
     "cards-page-my-cards-edit-error-text": "인터넷 또는 서버 문제로 인해 페이지를 볼 수 없습니다. 다시 시도하세요."
   }

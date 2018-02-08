@@ -2,7 +2,7 @@
   "data": {
     "cards-page-events-event-title": "Події та нетворкінг",
     "cards-page-events-event-card-more": "Інші функції",
-    "cards-page-events-event-card-share-action-sheet": "Додати собі",
-    "cards-page-events-event-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?"
+    "cards-page-events-event-card-share-action-sheet": "Додати в контакти",
+    "cards-page-events-event-no-event-details": "Неможливо показати деталі події. Перевірте з'єднання з інтернетом."
   }
 }

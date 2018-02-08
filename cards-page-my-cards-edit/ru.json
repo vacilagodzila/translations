@@ -31,7 +31,7 @@
     "cards-page-my-cards-edit-store-get-card-design": "Получить",
     "cards-page-my-cards-edit-store-get-card-design-success": "Готово! Редактируйте карточку, чтобы применить этот дизайн.",
     "cards-page-my-cards-edit-store-get-card-design-unsuccess": "Невозможно загрузить дизайн. Попробуйте еще раз.",
-    "cards-page-my-cards-edit-store-no-card-designs": "No card designs. Are you sure there is an internet connection?",
+    "cards-page-my-cards-edit-store-no-card-designs": "Нет доступных дизайнов. Проверьте соединение с интернетом.",
     "cards-page-my-cards-edit-error-action": "Перезагрузить",
     "cards-page-my-cards-edit-error-text": "Невозможно отобразить страницу из-за проблем с интернетом или сервером."
   }

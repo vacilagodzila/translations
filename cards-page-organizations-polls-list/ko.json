@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organizations-polls-list-title": "Polls",
-    "cards-page-organizations-polls-list-button": "Poll",
-    "cards-page-organizations-polls-list-no-polls": "No polls."
+    "cards-page-organizations-polls-list-title": "설문 조사",
+    "cards-page-organizations-polls-list-button": "문의하기",
+    "cards-page-organizations-polls-list-no-polls": "설문 조사 없습니다."
   }
 }

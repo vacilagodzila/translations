@@ -2,7 +2,7 @@
   "data": {
     "cards-page-events-event-title": "Events & Networking",
     "cards-page-events-event-card-more": "More options",
-    "cards-page-events-event-card-share-action-sheet": "Add to Live Cards",
-    "cards-page-events-event-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?"
+    "cards-page-events-event-card-share-action-sheet": "Add to contacts",
+    "cards-page-events-event-no-event-details": "Couldn't get event details. Check internet connection."
   }
 }

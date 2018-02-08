@@ -1,8 +1,8 @@
 {
   "data": {
     "cards-page-organizations-join-title": "Присоединиться к {organizationTitle}",
-    "cards-page-organizations-join-error-invitation-not-valid": "This invitation is not valid",
-    "cards-page-organizations-join-error-already-joined": "You have already joined the organization",
+    "cards-page-organizations-join-error-invitation-not-valid": "Это приглашение недействительно.",
+    "cards-page-organizations-join-error-already-joined": "Вы уже присоединились к этой организации.",
     "cards-page-organizations-join-as-employee-text": "{organizationTitle} пригласили вас в качестве сотрудника.",
     "cards-page-organizations-join-as-community-text": "{organizationTitle} пригласили вас к участию в сообществе.",
     "cards-page-organizations-join-required-information": "Обязательная информация",
