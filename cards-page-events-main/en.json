@@ -2,9 +2,9 @@
   "data": {
     "cards-page-events-main-title": "Events & Networking",
     "cards-page-events-main-event-create": "Create event",
-    "cards-page-events-main-missing": "It seems the event has disappeared.",
-    "cards-page-events-main-not-started": "The event has not started yet.",
-    "cards-page-events-main-registration-ended": "Event registration period is over.",
-    "cards-page-events-main-no-events": "No events."
+    "cards-page-events-main-event-registration-not-started": "The event has not started yet.",
+    "cards-page-events-main-event-registration-ended": "Event registration period is over.",
+    "cards-page-events-main-no-events": "No events.",
+    "cards-page-events-main-join-event-description": "You haven't joined this event yet. Let's get you started!"
   }
 }
