@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-received-cards-receive-sharing-code": "Код обміну",
+    "cards-page-received-cards-receive-sharing-code-placeholder": "Уведіть код",
+    "cards-page-received-cards-receive-share-cards": "Поділитися картками",
+    "cards-page-received-cards-receive-cancel-and-return": "Скасувати та повернутись",
+    "cards-page-received-cards-receive-add-received-cards": "Отримати картку",
+    "cards-page-received-cards-receive-received-cards": "Картки",
+    "cards-page-received-cards-receive-approve-incoming-cards": "Підтвердити",
+    "cards-page-received-cards-receive-connect-to-internet-and-try-again": "Під'єднайтесь до інтернету і спробуйте знову.",
+    "cards-page-received-cards-receive-exchange-successful": "Успіх! Картки додано до контактів.",
+    "cards-page-received-cards-receive-mark-card": "Обрати"
+  }
+}

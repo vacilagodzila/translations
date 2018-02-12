@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-group-cards-title": "Назва групи",
-    "cards-page-group-cards-title-placeholder": "Уведіть назву",
-    "cards-page-group-cards-save": "Зберегти",
-    "cards-page-group-cards-remove": "Видалити"
+    "cards-page-group-settings-title": "Назва групи",
+    "cards-page-group-settings-title-placeholder": "Уведіть назву",
+    "cards-page-group-settings-save": "Зберегти",
+    "cards-page-group-settings-remove": "Видалити"
   }
 }

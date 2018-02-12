@@ -1,0 +1,15 @@
+{
+  "data": {
+    "cards-page-group-main-more": "Другие функции",
+    "cards-page-group-main-add-cards": "Добавить карточку",
+    "cards-page-group-main-edit-card": "Редактировать",
+    "cards-page-group-main-delete-card": "Удалить",
+    "cards-page-group-main-add-to-favorites": "Добавить в избранные",
+    "cards-page-group-main-add-to-group": "Добавить в группу...",
+    "cards-page-group-main-remove-from-stack": "Убрать из группы",
+    "cards-page-group-main-empty-text-add": "В эту группу можно добавлять как живые карточки, так и обычные.",
+    "cards-page-group-main-empty-button": "Добавить карточки",
+    "cards-page-group-main-rename-settings": "Переименовать",
+    "cards-page-group-main-remove": "Удалить"
+  }
+}

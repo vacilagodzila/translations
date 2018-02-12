@@ -1,0 +1,23 @@
+{
+  "data": {
+    "cards-page-my-cards-edit-design-full-name": "Повне ім'я",
+    "cards-page-my-cards-edit-design-select-data": "Обрати поле",
+    "cards-page-my-cards-edit-design-default": "За замовчуванням",
+    "cards-page-my-cards-edit-design-empty": "Без даних",
+    "cards-page-my-cards-edit-design-automapping-switch": "Відображати автоматично",
+    "cards-page-my-cards-edit-design-color-reset": "Колір за замовчанням",
+    "cards-page-my-cards-edit-design-photo-crop": "Кадрувати фото",
+    "cards-page-my-cards-edit-design-photo-delete": "Видалити",
+    "cards-page-my-cards-edit-design-photo-delete-select": "Обрати",
+    "cards-page-my-cards-edit-design-photo-deselect": "Скасувати",
+    "cards-page-my-cards-edit-design-photo-edit": "Редагувати",
+    "cards-page-my-cards-edit-design-photos": "Фотографії",
+    "cards-page-my-cards-edit-design-font-name": "Шрифт імені",
+    "cards-page-my-cards-edit-design-font-field": "Шрифт даних",
+    "cards-page-my-cards-edit-design-mappings": "Дизайн та макет",
+    "cards-page-my-cards-edit-design-store-get-card-design": "Завантажити",
+    "cards-page-my-cards-edit-design-store-get-card-design-success": "Готово! Редагуйте картку, щоб застосувати цей дизайн.",
+    "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "Неможливо завантажити дизайн. Спробуйте ще раз.",
+    "cards-page-my-cards-edit-design-store-no-card-designs": "Немає доступних дизайнів. Перевірте з'єднання з інтернетом."
+  }
+}

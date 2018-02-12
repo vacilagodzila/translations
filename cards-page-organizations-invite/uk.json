@@ -1,0 +1,10 @@
+{
+  "data": {
+    "cards-page-organizations-invite-title": "Запросити до {organizationTitle}",
+    "cards-page-organizations-invite-design": "Запросити як працівника",
+    "cards-page-organizations-invite-done": "Запросити",
+    "cards-page-organizations-invite-cancel": "Скасувати",
+    "cards-page-organizations-invite-by-phone-number": "Запросити через СМС",
+    "cards-page-organizations-invite-notice": "Запрошення надійде як текстове повідомлення з посиланням для реєстрації (підтримується 190+ країн). Звичайні учасники приєднаються з однією з існуючих персональних карток. Працівники отримають нову картку з дизайном організації за замовчанням."
+  }
+}

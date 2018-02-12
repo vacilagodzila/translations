@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-group-cards-title": "Название группы",
-    "cards-page-group-cards-title-placeholder": "Введите название",
-    "cards-page-group-cards-save": "Сохранить",
-    "cards-page-group-cards-remove": "Удалить"
+    "cards-page-group-settings-title": "Название группы",
+    "cards-page-group-settings-title-placeholder": "Введите название",
+    "cards-page-group-settings-save": "Сохранить",
+    "cards-page-group-settings-remove": "Удалить"
   }
 }
