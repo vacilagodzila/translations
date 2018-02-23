@@ -1,6 +1,6 @@
 # translations
 
-Translations for Cards Corp. marketing web site and Web/Desktop and Mobile applications.
+Translations for [Cards Corp. marketing](https://andcards.com) web site and [Web](https://andcards.com/my)/Desktop and Mobile applications.
 
 ### Want to contribute?
 
