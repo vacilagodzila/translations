@@ -1,0 +1,15 @@
+{
+  "data": {
+    "cards-page-group-main-more" : "Más opciones",
+    "cards-page-group-main-add-cards": "Añadir tarjetas",
+    "cards-page-group-main-edit-card": "Editar",
+    "cards-page-group-main-delete-card": "Eliminar",
+    "cards-page-group-main-add-to-favorites": "Añadir a favoritos",
+    "cards-page-group-main-add-to-group": "Añadir al grupo...",
+    "cards-page-group-main-remove-from-stack": "Sacar del grupo",
+    "cards-page-group-main-empty-text-add": "Puede añadir live o tarjetas telefónicas a este grupo.",
+    "cards-page-group-main-empty-button": "Añadir tarjetas",
+    "cards-page-group-main-rename-settings": "Cambiar nombre de grupo",
+    "cards-page-group-main-remove": "Quitar"
+  }
+}
