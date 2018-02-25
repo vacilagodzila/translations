@@ -1,0 +1,23 @@
+{
+  "data": {
+    "cards-page-my-cards-edit-design-full-name": "Nombre completo",
+    "cards-page-my-cards-edit-design-select-data": "Seleccionar datos",
+    "cards-page-my-cards-edit-design-default": "Predeterminado",
+    "cards-page-my-cards-edit-design-empty": "Campo vacío",
+    "cards-page-my-cards-edit-design-automapping-switch": "Hacer auto-map de mis datos",
+    "cards-page-my-cards-edit-design-color-reset": "Reestablecer color predeterminado",
+    "cards-page-my-cards-edit-design-photo-crop": "Cortar foto",
+    "cards-page-my-cards-edit-design-photo-delete": "Eliminar",
+    "cards-page-my-cards-edit-design-photo-delete-select": "Seleccionar",
+    "cards-page-my-cards-edit-design-photo-deselect": "Deseleccionar",
+    "cards-page-my-cards-edit-design-photo-edit": "Editar",
+    "cards-page-my-cards-edit-design-photos": "Fotos",
+    "cards-page-my-cards-edit-design-font-name": "Fuente del Nombre",
+    "cards-page-my-cards-edit-design-font-field": "Fuente del Campo",
+    "cards-page-my-cards-edit-design-mappings": "Diseño y Mapeos",
+    "cards-page-my-cards-edit-design-store-get-card-design": "Conseguir",
+    "cards-page-my-cards-edit-design-store-get-card-design-success": "¡Bien hecho! Edite su tarjeta para aplicar este diseño.",
+    "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "No se puede descarga el diseño. Intentelo nuevamente más tarde.",
+    "cards-page-my-cards-edit-design-store-no-card-designs": "No hay diseños de tarjeta. Verifique su conexión a internet."
+  }
+}
