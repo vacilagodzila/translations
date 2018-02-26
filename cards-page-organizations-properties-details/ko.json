@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-organizations-property-no-property": "No booking resource.",
+    "cards-page-organizations-property-no-property": "시설이 없습니다",
     "cards-page-organizations-property-no-property-bookings": "No booking resource bookings.",
-    "cards-page-organizations-property-view": "View Resource",
-    "cards-page-organizations-property-view-date": "Date"
+    "cards-page-organizations-property-view": "시설 보기",
+    "cards-page-organizations-property-view-date": "날짜"
   }
 }
