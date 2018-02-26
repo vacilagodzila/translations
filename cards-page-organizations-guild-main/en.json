@@ -2,10 +2,10 @@
   "data": {
     "cards-page-organizations-guild-delete": "Delete guild",
     "cards-page-organizations-guild-delete-failure": "Failed to delete guild",
-    "cards-page-organizations-guild-delete-repeat": "Delete again",
+    "cards-page-organizations-guild-delete-repeat": "Try again",
     "cards-page-organizations-guild-main-add": "Add",
     "cards-page-organizations-guild-main-settings": "Guild Settings",
     "cards-page-organizations-guild-main-card-more": "More options",
-    "cards-page-organizations-guild-main-no-cards": "No cards in this guild"      
+    "cards-page-organizations-guild-main-no-cards": "No cards in this guild"
   }
 }
