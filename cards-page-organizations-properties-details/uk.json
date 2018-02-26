@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-organizations-property-no-property": "No booking resource.",
+    "cards-page-organizations-property-no-property": "Ресурс відсутній.",
     "cards-page-organizations-property-no-property-bookings": "No booking resource bookings.",
-    "cards-page-organizations-property-view": "View Resource",
-    "cards-page-organizations-property-view-date": "Date"
+    "cards-page-organizations-property-view": "Огляд ресурсу",
+    "cards-page-organizations-property-view-date": "Дата"
   }
 }
