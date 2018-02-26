@@ -2,7 +2,6 @@
   "data": {
     "cards-page-group-settings-title": "그룹 이름",
     "cards-page-group-settings-title-placeholder": "그룹 이름 입력",
-    "cards-page-group-settings-save": "저장하기",
-    "cards-page-group-settings-remove": "삭제하기"
+    "cards-page-group-settings-save": "저장하기"
   }
 }
