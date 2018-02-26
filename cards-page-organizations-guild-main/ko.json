@@ -1,5 +1,8 @@
 {
   "data": {
+    "cards-page-organizations-guild-delete": "길드 삭제",
+    "cards-page-organizations-guild-delete-failure": "Failed to delete guild",
+    "cards-page-organizations-guild-delete-repeat": "Delete again",
     "cards-page-organizations-guild-main-add": "추가하기",
     "cards-page-organizations-guild-main-settings": "길드 설정",
     "cards-page-organizations-guild-main-card-more": "기타 기능",

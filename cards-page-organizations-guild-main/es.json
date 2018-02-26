@@ -1,5 +1,8 @@
 {
   "data": {
+    "cards-page-organizations-guild-delete": "Eliminar Gremio",
+    "cards-page-organizations-guild-delete-failure": "Failed to delete guild",
+    "cards-page-organizations-guild-delete-repeat": "Delete again",
     "cards-page-organizations-guild-main-add": "Añadir",
     "cards-page-organizations-guild-main-settings": "Configuraciones de Gremio",
     "cards-page-organizations-guild-main-card-more": "Más Opciones",

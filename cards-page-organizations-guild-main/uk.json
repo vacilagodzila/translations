@@ -1,5 +1,8 @@
 {
   "data": {
+    "cards-page-organizations-guild-delete": "Видалити гільдію",
+    "cards-page-organizations-guild-delete-failure": "Failed to delete guild",
+    "cards-page-organizations-guild-delete-repeat": "Delete again",
     "cards-page-organizations-guild-main-add": "Додати",
     "cards-page-organizations-guild-main-settings": "Налаштування гільдії",
     "cards-page-organizations-guild-main-card-more": "Інші функції",
