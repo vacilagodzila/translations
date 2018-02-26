@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-organizations-properties": "Booking List",
-    "cards-page-organizations-properties-no-properties": "No booking resources.",
-    "cards-page-organizations-properties-list-button": "Add resource",
-    "cards-page-organizations-properties-settings-title": "Booking Settings"
+    "cards-page-organizations-properties": "Список ресурсів",
+    "cards-page-organizations-properties-no-properties": "Ресурси відсутні.",
+    "cards-page-organizations-properties-list-button": "Додати ресурс",
+    "cards-page-organizations-properties-settings-title": "Налаштування системи резервації"
   }
 }
