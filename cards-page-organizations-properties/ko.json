@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-organizations-properties": "Booking List",
-    "cards-page-organizations-properties-no-properties": "No booking resources.",
-    "cards-page-organizations-properties-list-button": "Add resource",
-    "cards-page-organizations-properties-settings-title": "Booking Settings"
+    "cards-page-organizations-properties": "예약 리스트",
+    "cards-page-organizations-properties-no-properties": "시설이 없습니다.",
+    "cards-page-organizations-properties-list-button": "시설 추가하기",
+    "cards-page-organizations-properties-settings-title": "시설 예약 설정"
   }
 }
