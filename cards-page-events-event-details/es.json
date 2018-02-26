@@ -1,0 +1,13 @@
+{
+  "data": {
+    "cards-page-events-event-details-title": "Seleccione una tarjeta para unirse",
+    "cards-page-events-event-details-address": "Lugar de encuentro",
+    "cards-page-events-event-details-attendees": "Invitados",
+    "cards-page-events-event-details-people-i-know": "Personas que conozco",
+    "cards-page-events-event-details-start-date": "Comienzo",
+    "cards-page-events-event-details-end-date": "Final",
+    "cards-page-events-event-details-info-title": "Información del evento",
+    "cards-page-events-event-details-leave-event": "Dejar el evento",
+    "cards-page-events-event-details-join-title": "Unirme al evento"
+  }
+}
