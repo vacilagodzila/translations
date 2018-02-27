@@ -1,13 +1,12 @@
 {
   "data": {
     "cards-page-my-cards-main-title": "내 andCards",
-    "cards-page-my-cards-main-edit-card": "정보 편집",
-    "cards-page-my-cards-main-edit-design-card-design": "디자인 편집",
-    "cards-page-my-cards-main-delete-card": "삭제",
-    "cards-page-my-cards-main-share": "공유",
+    "cards-page-my-cards-main-action-create": "카드 만들기",
+    "cards-page-my-cards-main-action-delete-card": "삭제",
+    "cards-page-my-cards-main-action-edit-card": "정보 편집",
+    "cards-page-my-cards-main-action-edit-design": "디자인 편집",
+    "cards-page-my-cards-main-action-share": "공유",
     "cards-page-my-cards-main-more": "기타 기능",
-    "cards-page-my-cards-main-create": "카드 만들기",
-    "cards-page-my-cards-main-update": "내 연락처 카드 갱신",
     "cards-page-my-cards-main-heading-title-morning": "좋은 아침~",
     "cards-page-my-cards-main-heading-subtitle-morning": "좋은 하루 되세요 🌞",
     "cards-page-my-cards-main-heading-title-afternoon": "안녕하세요!",

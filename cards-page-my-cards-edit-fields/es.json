@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-my-cards-edit-fields-edit-title": "Editar información",
+    "cards-page-my-cards-edit-fields-create-title": "Crear tarjeta",
     "cards-page-my-cards-edit-fields-autoconnect-notice": "Esta tarjeta será sincronizada automáticamente con usuarios de andCards que ya tengan su número telefónico en sus contactos, y cuyos números telefónicos usted ya tenga en sus contactos.",
     "cards-page-my-cards-edit-fields-shared-basic-information": "Información Básica",
     "cards-page-my-cards-edit-fields-shared-phone-numbers-information": "Números Telefónicos",

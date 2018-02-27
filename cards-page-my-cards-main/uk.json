@@ -1,13 +1,12 @@
 {
   "data": {
     "cards-page-my-cards-main-title": "Мої andCards",
-    "cards-page-my-cards-main-edit-card": "Редагувати дані",
-    "cards-page-my-cards-main-edit-design-card-design": "Редагувати дизайн",
-    "cards-page-my-cards-main-delete-card": "Видалити",
-    "cards-page-my-cards-main-share": "Поділитися",
+    "cards-page-my-cards-main-action-create": "Створити картку",
+    "cards-page-my-cards-main-action-delete-card": "Видалити",
+    "cards-page-my-cards-main-action-edit-card": "Редагувати дані",
+    "cards-page-my-cards-main-action-edit-design": "Редагувати дизайн",
+    "cards-page-my-cards-main-action-share": "Поділитися",
     "cards-page-my-cards-main-more": "Інші функції",
-    "cards-page-my-cards-main-create": "Створити картку",
-    "cards-page-my-cards-main-update": "Оновити картку",
     "cards-page-my-cards-main-heading-title-morning": "Доброго ранку!",
     "cards-page-my-cards-main-heading-subtitle-morning": "Гарного дня 🌞",
     "cards-page-my-cards-main-heading-title-afternoon": "Доброго дня!",

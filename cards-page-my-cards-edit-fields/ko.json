@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-my-cards-edit-fields-edit-title": "정보 편집",
+    "cards-page-my-cards-edit-fields-create-title": "카드 만들기",
     "cards-page-my-cards-edit-fields-autoconnect-notice": "이 카드는 이미 자신의 전화 번호가 이미 연락처에 있고, 전화 번호가 이미 연락처에 있던 카드 사용자와 자동으로 동기화됩니다.",
     "cards-page-my-cards-edit-fields-shared-basic-information": "기본 정보",
     "cards-page-my-cards-edit-fields-shared-phone-numbers-information": "연락처",
