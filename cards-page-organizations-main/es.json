@@ -1,0 +1,19 @@
+{
+  "data": {
+    "cards-page-organizations-main-settings": "Ajustes de Organización",
+    "cards-page-organizations-main-membership-settings": "Ajustes de membresía",
+    "cards-page-organizations-main-invite": "Invitar",
+    "cards-page-organizations-main-approve-requests": "Aprobar solicitudes",
+    "cards-page-organizations-main-create-guild": "Crear gremio",
+    "cards-page-organizations-main-announcements": "Anuncios",
+    "cards-page-organizations-main-announcement-create": "Anunciar",
+    "cards-page-organizations-main-announcements-all": "Todos los anuncios",
+    "cards-page-organizations-main-events": "Eventos",
+    "cards-page-organizations-main-event-create": "Organizar evento",
+    "cards-page-organizations-main-events-all": "todos los eventos",
+    "cards-page-organizations-main-polls": "Encuestas",
+    "cards-page-organizations-main-polls-create": "Hacer una pregunta",
+    "cards-page-organizations-main-card-more": "Más opciones",
+    "cards-page-organizations-main-polls-all": "Todas las preguntas"
+  }
+}
