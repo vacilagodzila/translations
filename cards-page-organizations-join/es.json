@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-page-organizations-join-title": "Unirse a {organizationTitle}",
+    "cards-page-organizations-join-error-invitation-not-valid": "Esta invitación no es valida",
+    "cards-page-organizations-join-error-already-joined": "Ya te has unido a esta organización",
+    "cards-page-organizations-join-as-employee-text": "{organizationTitle} le invita a unirse como empleado.",
+    "cards-page-organizations-join-as-community-text": "{organizationTitle} le invita a unirse a su comunidad",
+    "cards-page-organizations-join-required-information": "Información Requerida",
+    "cards-page-organizations-join-card-preview": "Vista Previa De La Tarjeta",
+    "cards-page-organizations-join-card-select-to-join": "Seleccione una tarjeta para unirse"
+  }
+}
