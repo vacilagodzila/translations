@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-error-crash-title": "오류",
+    "cards-page-error-crash-action": "업데이트하기",
     "cards-page-error-crash-description": "이 페이지는 볼 수 없습니다.",
-    "cards-page-error-crash-action": "업데이트하기"
+    "cards-page-error-crash-title": "오류"
   }
 }

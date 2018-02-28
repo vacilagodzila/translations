@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-error-crash-title": "Ошибка",
+    "cards-page-error-crash-action": "Перезагрузить",
     "cards-page-error-crash-description": "Невозможно открыть страницу.",
-    "cards-page-error-crash-action": "Перезагрузить"
+    "cards-page-error-crash-title": "Ошибка"
   }
 }

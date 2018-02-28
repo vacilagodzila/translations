@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-error-crash-title": "Помилка",
+    "cards-page-error-crash-action": "Оновити",
     "cards-page-error-crash-description": "Неможливо відкрити сторінку.",
-    "cards-page-error-crash-action": "Оновити"
+    "cards-page-error-crash-title": "Помилка"
   }
 }
