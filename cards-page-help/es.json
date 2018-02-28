@@ -1,5 +1,8 @@
 {
   "data": {
-    "cards-page-help-title": "Centro de Ayuda"
+    "cards-page-help-error-no-internet-action": "Reload",
+    "cards-page-help-error-no-internet-description": "No internet.",
+    "cards-page-help-title": "Centro de Ayuda",
+    "cards-page-help-settings-main-title": "Settings"
   }
 }
