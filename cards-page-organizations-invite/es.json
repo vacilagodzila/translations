@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-alert-invitation-failure": "Failed to send invitations",
+    "cards-page-organization-alert-invitation-success": "Invitation successfully sent",    
     "cards-page-organizations-invite-title": "Invitar a {organizationTitle}",
     "cards-page-organizations-invite-design": "Invitar como empleado",
     "cards-page-organizations-invite-done": "Invitar",

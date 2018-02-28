@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-alert-invitation-failure": "Failed to send invitations",
+    "cards-page-organization-alert-invitation-success": "Invitation successfully sent",    
     "cards-page-organizations-invite-title": "{organizationTitle}에 초대하기",
     "cards-page-organizations-invite-design": "직원으로 초대하기",
     "cards-page-organizations-invite-done": "초대하기",
