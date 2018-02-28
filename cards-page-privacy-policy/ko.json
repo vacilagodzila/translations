@@ -1,9 +1,9 @@
 {
   "data": {
+    "cards-page-privacy-policy-consent-withdraw": "동의를 취소하기",
     "cards-page-privacy-policy-error-no-internet-action": "Reload",
     "cards-page-privacy-policy-error-no-internet-description": "No internet.",
     "cards-page-privacy-policy-settings-main-title": "Settings",
-    "cards-page-privacy-policy-title": "개인 정보 보호 정책",
-    "cards-page-privacy-policy-consent-withdraw": "동의를 취소하기"
+    "cards-page-privacy-policy-title": "개인 정보 보호 정책"
   }
 }
