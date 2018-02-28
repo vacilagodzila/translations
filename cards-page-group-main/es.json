@@ -1,15 +1,15 @@
 {
-  "data": {
-    "cards-page-group-main-more" : "Más opciones",
+  "data": {    
     "cards-page-group-main-add-cards": "Añadir tarjetas",
-    "cards-page-group-main-edit-card": "Editar",
+    "cards-page-group-main-add-card-to-favorites": "Añadir a favoritos",
+    "cards-page-group-main-add-card-to-group": "Añadir al grupo...",
+    "cards-page-group-main-add-empty-text": "Puede añadir tarjetas live o tarjetas telefónicas a este grupo.",
     "cards-page-group-main-delete-card": "Eliminar",
-    "cards-page-group-main-add-to-favorites": "Añadir a favoritos",
-    "cards-page-group-main-add-to-group": "Añadir al grupo...",
-    "cards-page-group-main-remove-from-stack": "Sacar del grupo",
-    "cards-page-group-main-empty-text-add": "Puede añadir tarjetas live o tarjetas telefónicas a este grupo.",
-    "cards-page-group-main-empty-button": "Añadir tarjetas",
-    "cards-page-group-main-rename-settings": "Cambiar nombre de grupo",
-    "cards-page-group-main-remove": "Quitar"
+    "cards-page-group-main-delete-card-from-group": "Sacar del grupo",
+    "cards-page-group-main-delete-group": "Eliminar",
+    "cards-page-group-main-edit-card": "Editar",
+    "cards-page-group-main-empty-button": "Añadir tarjetas",    
+    "cards-page-group-main-more": "Más opciones",    
+    "cards-page-group-main-rename-group": "Cambiar nombre de grupo"
   }
 }

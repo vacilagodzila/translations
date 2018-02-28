@@ -1,15 +1,15 @@
 {
-  "data": {
-    "cards-page-group-main-more": "Інші функції",
+  "data": {  
     "cards-page-group-main-add-cards": "Додати картки",
+    "cards-page-group-main-add-card-to-favorites": "Додати до улюблених",
+    "cards-page-group-main-add-card-to-group": "Додати до групи...",
+    "cards-page-group-main-add-empty-text": "В цю групу можна додавати як живі картки, так і звичайні.",
+    "cards-page-group-main-delete-card":"Видалити",
+    "cards-page-group-main-delete-card-from-group": "Прибрати з групи",
+    "cards-page-group-main-delete-group": "Видалити",
     "cards-page-group-main-edit-card": "Редагувати",
-    "cards-page-group-main-delete-card": "Видалити",
-    "cards-page-group-main-add-to-favorites": "Додати до улюблених",
-    "cards-page-group-main-add-to-group": "Додати до групи...",
-    "cards-page-group-main-remove-from-stack": "Прибрати з групи",
-    "cards-page-group-main-empty-text-add": "В цю групу можна додавати як живі картки, так і звичайні.",
     "cards-page-group-main-empty-button": "Додати картки",
-    "cards-page-group-main-rename-settings": "Перейменувати",
-    "cards-page-group-main-remove": "Видалити"
+    "cards-page-group-main-more": "Інші функції",
+    "cards-page-group-main-rename-group": "Перейменувати"
   }
 }
