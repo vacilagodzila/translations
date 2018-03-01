@@ -1,11 +1,13 @@
 {
   "data": {
-    "cards-page-organizations-guild-delete": "Удалить гильдию",
-    "cards-page-organizations-guild-delete-failure": "Не удалось удалить гильдию",
-    "cards-page-organizations-guild-delete-repeat": "Попробовать снова",
-    "cards-page-organizations-guild-main-add": "Добавить",
-    "cards-page-organizations-guild-main-settings": "Настройки гильдии",
-    "cards-page-organizations-guild-main-card-more": "Другие функции",
-    "cards-page-organizations-guild-main-no-cards": "Здесь совсем одиноко."
+    "cards-page-organization-guild-main-add": "Добавить",
+    "cards-page-organization-guild-main-card-more": "Другие функции",
+    "cards-page-organization-guild-main-card-share-action-sheet": "Add to live cards",
+    "cards-page-organization-guild-main-delete": "Удалить гильдию",
+    "cards-page-organization-guild-main-delete-failure": "Не удалось удалить гильдию",
+    "cards-page-organization-guild-main-delete-repeat": "Попробовать снова",
+    "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Live card exchange successful.",
+    "cards-page-organization-guild-main-no-cards": "Здесь совсем одиноко.",
+    "cards-page-organization-guild-main-settings": "Настройки гильдии"
   }
 }
