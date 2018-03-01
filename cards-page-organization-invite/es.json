@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-page-organization-alert-invitation-failure": "Failed to send invitations",
+    "cards-page-organization-alert-invitation-success": "Invitation successfully sent",    
+    "cards-page-organization-invite-cancel": "Cancelar",
+    "cards-page-organization-invite-by-phone-number": "Invitar por mensaje de texto",
+    "cards-page-organization-invite-design": "Invitar como empleado",
+    "cards-page-organization-invite-done": "Invitar",
+    "cards-page-organization-invite-notice": "Los invitados recibirán un mensaje de texto con el link para registrarse (disponible para +190 países). Los miembros regulares pueden unirse con cualquiera de sus tarjetas existentes. Los empleados obtendrán una nueva tarjeta con el diseño predeterminado de su organización.",
+    "cards-page-organization-invite-title": "Invitar a {organizationTitle}"
+  }
+}
