@@ -1,14 +1,14 @@
 {
   "data": {
-    "cards-page-organizations-membership-settings-title": "Настройки участия",
-    "cards-page-organizations-membership-settings-leave-organization": "Покинуть организацию",
-    "cards-page-organizations-membership-settings-role": "Роль",
-    "cards-page-organizations-membership-settings-role-admin": "Администратор",
-    "cards-page-organizations-membership-settings-role-moderator": "Модератор",
-    "cards-page-organizations-membership-settings-role-member": "Участник",
-    "cards-page-organizations-membership-settings-role-info-admin": "Как администратор, вы можете настраивать и управлять всем в вашей организации.",
-    "cards-page-organizations-membership-settings-role-info-moderator": "Как модератор, вы можете управлять содержанием и гильдиями в вашей организации. Если вам нужно что-то настроить, обратитесь к администратору.",
-    "cards-page-organizations-membership-settings-role-info-member": "Как участник, вы можете создавать и просматривать релевантное содержаниев вашей организации. Если вам нужно что-то изменить, обратитесь к модератору или администратору."
+    "cards-page-organization-membership-settings-title": "Настройки участия",
+    "cards-page-organization-membership-settings-leave-organization": "Покинуть организацию",
+    "cards-page-organization-membership-settings-role": "Роль",
+    "cards-page-organization-membership-settings-role-admin": "Администратор",
+    "cards-page-organization-membership-settings-role-moderator": "Модератор",
+    "cards-page-organization-membership-settings-role-member": "Участник",
+    "cards-page-organization-membership-settings-role-info-admin": "Как администратор, вы можете настраивать и управлять всем в вашей организации.",
+    "cards-page-organization-membership-settings-role-info-moderator": "Как модератор, вы можете управлять содержанием и гильдиями в вашей организации. Если вам нужно что-то настроить, обратитесь к администратору.",
+    "cards-page-organization-membership-settings-role-info-member": "Как участник, вы можете создавать и просматривать релевантное содержаниев вашей организации. Если вам нужно что-то изменить, обратитесь к модератору или администратору."
 
   }
 }
