@@ -1,13 +1,13 @@
 {
   "data": {    
-    "cards-page-organizations-announcement-create-cancel": "Отменить",
-    "cards-page-organizations-announcement-create-contents": "Содержание",   
-    "cards-page-organizations-announcement-create-date": "Дата",  
-    "cards-page-organizations-announcement-create-send": "Отправить",
-    "cards-page-organizations-announcement-create-stack-title": "Создать объявление", 
-    "cards-page-organizations-announcement-create-target-guilds": "Целевая гильдия",
-    "cards-page-organizations-announcement-create-target-guilds-select-all": "Все участники",
-    "cards-page-organizations-announcement-create-text-placeholder": "Введите текст объявления",
-    "cards-page-organizations-announcement-create-title": "Название"
+    "cards-page-organization-announcement-create-cancel": "Отменить",
+    "cards-page-organization-announcement-create-contents": "Содержание",   
+    "cards-page-organization-announcement-create-date": "Дата",  
+    "cards-page-organization-announcement-create-send": "Отправить",
+    "cards-page-organization-announcement-create-stack-title": "Создать объявление", 
+    "cards-page-organization-announcement-create-target-guilds": "Целевая гильдия",
+    "cards-page-organization-announcement-create-target-guilds-select-all": "Все участники",
+    "cards-page-organization-announcement-create-text-placeholder": "Введите текст объявления",
+    "cards-page-organization-announcement-create-title": "Название"
   }
 }
