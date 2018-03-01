@@ -1,15 +1,13 @@
 {
   "data": {
-    "cards-page-organizations-announcement-stack-title": "Створити оголошення",
-    "cards-page-organizations-announcement-title": "Назва",
-    "cards-page-organizations-announcement-date": "Дата",
-    "cards-page-organizations-announcement-create-send": "Відправити",
     "cards-page-organizations-announcement-create-cancel": "Скасувати",
-    "cards-page-organizations-announcement-create-notification-sms": "SMS повідомлення",
-    "cards-page-organizations-announcement-create-notification-push": "Мобільне сповіщення",
+    "cards-page-organizations-announcement-create-contents": "Зміст",    
+    "cards-page-organizations-announcement-create-date": "Дата",
+    "cards-page-organizations-announcement-create-send": "Відправити",
+    "cards-page-organizations-announcement-create-stack-title": "Створити оголошення",
     "cards-page-organizations-announcement-create-target-guilds": "Цільові гільдії",
-    "cards-page-organizations-announcement-create-target-guilds-select-all": "Всі учасники",
-    "cards-page-organizations-announcement-create-contents": "Зміст",
-    "cards-page-organizations-announcement-create-text-placeholder": "Уведіть текст оголошення"
+    "cards-page-organizations-announcement-create-target-guilds-select-all": "Всі учасники",    
+    "cards-page-organizations-announcement-create-text-placeholder": "Уведіть текст оголошення",    
+    "cards-page-organizations-announcement-create-title": "Назва"  
   }
 }
