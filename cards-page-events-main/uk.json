@@ -1,10 +1,7 @@
 {
   "data": {
-    "cards-page-events-main-title": "Події та нетворкінг",
     "cards-page-events-main-event-create": "Організувати подію",
-    "cards-page-events-main-event-registration-not-started": "Реєстрація на подію ще не почалася",
-    "cards-page-events-main-event-registration-ended": "Реєстрація на подію вже завершилася",
     "cards-page-events-main-no-events": "Немає подій",
-    "cards-page-events-main-join-event-description": "Ви поки що не приєдналися до цієї події. Розпочнімо!"
+    "cards-page-events-main-title": "Події та нетворкінг"
   }
 }

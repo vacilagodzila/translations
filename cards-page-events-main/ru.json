@@ -1,10 +1,7 @@
 {
   "data": {
-    "cards-page-events-main-title": "События и нетворкинг",
     "cards-page-events-main-event-create": "Организовать событие",
-    "cards-page-events-main-event-registration-not-started": "Регистрация на событие еще не началась",
-    "cards-page-events-main-event-registration-ended": "Регистрация на событие уже закончилось",
     "cards-page-events-main-no-events": "Нет событий",
-    "cards-page-events-main-join-event-description": "Вы еще не присоединились к этому событию. Поехали!"
+    "cards-page-events-main-title": "События и нетворкинг"
   }
 }

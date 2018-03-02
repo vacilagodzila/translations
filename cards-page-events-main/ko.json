@@ -1,10 +1,7 @@
 {
   "data": {
-    "cards-page-events-main-title": "행사 및 네트워킹",
     "cards-page-events-main-event-create": "행사 만들기",
-    "cards-page-events-main-event-registration-not-started": "행사 등록은 시작 안 됩니다",
-    "cards-page-events-main-event-registration-ended": "행사 등록 기간이 아닙니다",
     "cards-page-events-main-no-events": "행사가 없습니다",
-    "cards-page-events-main-join-event-description": "이 행사가 아직 참석하지 않습니다. 참석합시다~"
+    "cards-page-events-main-title": "행사 및 네트워킹"
   }
 }

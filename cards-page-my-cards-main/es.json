@@ -1,20 +1,20 @@
 {
   "data": {
-    "cards-page-my-cards-main-title": "Mi andCards",
     "cards-page-my-cards-main-action-create": "Crear tarjeta",
     "cards-page-my-cards-main-action-delete-card": "Eliminar",
     "cards-page-my-cards-main-action-edit-card": "Editar información",
     "cards-page-my-cards-main-action-edit-design": "Editar diseño",
-    "cards-page-my-cards-main-action-share": "Compartir",
-    "cards-page-my-cards-main-more": "Más opciones",
-    "cards-page-my-cards-main-heading-title-morning": "¡Buenos días!",
-    "cards-page-my-cards-main-heading-subtitle-morning": "Tenga un buen día 🌞",
-    "cards-page-my-cards-main-heading-title-afternoon": "¡Buenas tardes!",
+    "cards-page-my-cards-main-action-share": "Compartir",   
     "cards-page-my-cards-main-heading-subtitle-afternoon": "Comparta su tarjeta al instante ⚡",
-    "cards-page-my-cards-main-heading-title-evening": "¡Buenas noches!",
     "cards-page-my-cards-main-heading-subtitle-evening": "Vea que hay de nuevo con su gente 💡",
-    "cards-page-my-cards-main-heading-title-night": "¡Buenas noches!",
+    "cards-page-my-cards-main-heading-subtitle-morning": "Tenga un buen día 🌞",
     "cards-page-my-cards-main-heading-subtitle-night": "Una última cosa antes de dormir... 🌙",
-    "cards-page-my-cards-main-section-title": "Mis Cards"
+    "cards-page-my-cards-main-heading-title-afternoon": "¡Buenas tardes!",
+    "cards-page-my-cards-main-heading-title-evening": "¡Buenas noches!",
+    "cards-page-my-cards-main-heading-title-morning": "¡Buenos días!",
+    "cards-page-my-cards-main-heading-title-night": "¡Buenas noches!",
+    "cards-page-my-cards-main-more": "Más opciones",
+    "cards-page-my-cards-main-section-title": "Mis Cards",
+    "cards-page-my-cards-main-title": "Mi andCards",
   }
 }
