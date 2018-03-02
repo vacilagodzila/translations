@@ -1,8 +1,7 @@
 {
   "data": {
-    "cards-page-organizations-properties": "Список ресурсов",
-    "cards-page-organizations-properties-no-properties": "Нет доступных ресурсов.",
-    "cards-page-organizations-properties-list-button": "Добавить ресурс",
-    "cards-page-organizations-properties-settings-title": "Настройки системы резервации"
+    "cards-page-organization-properties-no-properties": "Нет доступных ресурсов.",
+    "cards-page-organization-properties-settings-title": "Настройки системы резервации",
+    "cards-page-organization-properties-title": "Список ресурсов"
   }
 }
