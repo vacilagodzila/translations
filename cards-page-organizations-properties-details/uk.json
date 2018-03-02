@@ -1,8 +1,14 @@
 {
   "data": {
-    "cards-page-organizations-property-no-property": "Ресурс відсутній.",
-    "cards-page-organizations-property-no-property-bookings": "No booking resource bookings.",
-    "cards-page-organizations-property-view": "Огляд ресурсу",
-    "cards-page-organizations-property-view-date": "Дата"
+    "cards-page-organization-property-details-book-button": "Book",
+    "cards-page-organization-property-details-date": "Date",
+    "cards-page-organization-property-details-delete-button": "Delete property",
+    "cards-page-organization-property-details-delete-failure": "Failed to delete property",
+    "cards-page-organization-property-details-delete-repeat": "Delete again",
+    "cards-page-organization-property-details-no-property": "No booking property.",
+    "cards-page-organization-property-details-no-property-bookings": "No property bookings.",
+    "cards-page-organization-property-details-schedule": "Schedule",
+    "cards-page-organization-property-details-title": "Property Details",
+    "cards-page-organization-property-edit-title": "Edit property"
   }
 }
