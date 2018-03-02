@@ -1,10 +1,15 @@
 {
   "data": {
-    "cards-page-organizations-settings-title": "조직 설정",
-    "cards-page-organizations-settings-save": "저장",
-    "cards-page-organizations-settings-name": "이름",
-    "cards-page-organizations-settings-address": "주소",
-    "cards-page-organizations-settings-cover-photo": "커버 사진",
-    "cards-page-organizations-settings-default-design": "직원 카드 디자인"
+    "cards-page-organization-settings-address": "주소",
+    "cards-page-organization-settings-cover-photo": "커버 사진",
+    "cards-page-organization-settings-default-design": "직원 카드 디자인",
+    "cards-page-organization-settings-edit-my-cards-design-default": "Default",
+    "cards-page-organization-settings-edit-design-color-reset": "Reset color",
+    "cards-page-organization-settings-edit-design-font-field": "Field Font",
+    "cards-page-organization-settings-edit-design-font-name": "Name Font",
+    "cards-page-organization-settings-error-no-internet-description": "No internet.",
+    "cards-page-organization-settings-name": "이름",
+    "cards-page-organization-settings-save": "저장",
+    "cards-page-organization-settings-title": "조직 설정"
   }
 }

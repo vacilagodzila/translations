@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-organization-announcement-create-cancel": "Cancelar",
+    "cards-page-organization-announcement-create-contents": "Contenidos",
+    "cards-page-organization-announcement-create-date": "Fecha",
+    "cards-page-organization-announcement-create-notification-push": "Push Notification",
+    "cards-page-organization-announcement-create-send": "Enviar",
+    "cards-page-organization-announcement-create-stack-title": "Crear Anuncio",
+    "cards-page-organization-announcement-create-target-guilds": "Target Guilds",
+    "cards-page-organization-announcement-create-target-guilds-select-all": "Todos",
+    "cards-page-organization-announcement-create-text-placeholder": "Escriba su anuncio aquí",
+    "cards-page-organization-announcement-create-title": "Título"    
+  }
+}

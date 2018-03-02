@@ -1,10 +1,15 @@
 {
   "data": {
-    "cards-page-organizations-settings-title": "Настройки организации",
-    "cards-page-organizations-settings-save": "Сохранить",
-    "cards-page-organizations-settings-name": "Название",
-    "cards-page-organizations-settings-address": "Адрес",
-    "cards-page-organizations-settings-cover-photo": "Фото обложки",
-    "cards-page-organizations-settings-default-design": "Дизайн карточки сотрудника"
+    "cards-page-organization-settings-address": "Адрес",
+    "cards-page-organization-settings-cover-photo": "Фото обложки",
+    "cards-page-organization-settings-default-design": "Дизайн карточки сотрудника",
+    "cards-page-organization-settings-edit-my-cards-design-default": "Default",
+    "cards-page-organization-settings-edit-design-color-reset": "Reset color",
+    "cards-page-organization-settings-edit-design-font-field": "Field Font",
+    "cards-page-organization-settings-edit-design-font-name": "Name Font",
+    "cards-page-organization-settings-error-no-internet-description": "No internet.",
+    "cards-page-organization-settings-name": "Название",
+    "cards-page-organization-settings-save": "Сохранить",
+    "cards-page-organization-settings-title": "Настройки организации"
   }
 }

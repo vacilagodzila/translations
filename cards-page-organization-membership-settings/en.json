@@ -1,0 +1,13 @@
+{
+  "data": {
+    "cards-page-organization-membership-settings-title": "Membership Settings",
+    "cards-page-organization-membership-settings-leave-organization": "Leave organization",
+    "cards-page-organization-membership-settings-role": "Role",
+    "cards-page-organization-membership-settings-role-admin": "Administrator",
+    "cards-page-organization-membership-settings-role-moderator": "Moderator",
+    "cards-page-organization-membership-settings-role-member": "Member",
+    "cards-page-organization-membership-settings-role-info-admin": "As an administrator, you can set up and manage everything in your organization.",
+    "cards-page-organization-membership-settings-role-info-moderator": "As a moderator, you can manage content and guilds in your organization. If you need to change settings, ask administrator.",
+    "cards-page-organization-membership-settings-role-info-member": "As a member, you can create and view relevant content in your organization. If you need to manage something, ask moderator or administrator."
+  }
+}

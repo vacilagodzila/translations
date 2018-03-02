@@ -1,5 +1,8 @@
 {
   "data": {
+    "cards-page-help-error-no-internet-action": "Reload",
+    "cards-page-help-error-no-internet-description": "No internet.",
+    "cards-page-help-settings-main-title": "Settings",
     "cards-page-help-title": "Довідковий центр"
   }
 }
