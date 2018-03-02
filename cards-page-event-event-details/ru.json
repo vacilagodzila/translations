@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-event-details-address": "Место",
+    "cards-page-event-details-attendees": "посетителей", 
+    "cards-page-event-details-end-date": "Конец",
+    "cards-page-event-details-info-title": "Информация о событии",
+    "cards-page-event-details-join-title": "Присоединиться к событию",
+    "cards-page-event-details-leave-event": "Покинуть событие",
+    "cards-page-event-details-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
+    "cards-page-event-details-start-date": "Начало",
+    "cards-page-event-details-people-i-know": "знакомых",
+    "cards-page-event-details-title": "Выбрать карточку"
+  }
+}
