@@ -1,6 +1,6 @@
 {
-  "cards-alert-confirmation-organization-booking-delete-text": "Are you sure you want to delete this booking? This action is irreversible.",
-  "cards-alert-confirmation-organization-booking-delete-no": "Cancel",
-  "cards-alert-confirmation-organization-booking-delete-title": "Delete booking",
-  "cards-alert-confirmation-organization-booking-delete-yes": "Yes, delete"
+  "cards-alert-confirmation-organization-booking-delete-text": "Ви впевнені, що хочете видалити цю резервацію? Ця дія незворотна.",
+  "cards-alert-confirmation-organization-booking-delete-no": "Скасувати",
+  "cards-alert-confirmation-organization-booking-delete-title": "Видалити резервацію",
+  "cards-alert-confirmation-organization-booking-delete-yes": "Так, видалити"
 }
