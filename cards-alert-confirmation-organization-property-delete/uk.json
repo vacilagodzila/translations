@@ -1,6 +1,6 @@
 {
-  "cards-alert-confirmation-organization-property-delete-text": "Are you sure you want to delete this property? This action is irreversible.",
-  "cards-alert-confirmation-organization-property-delete-no": "Cancel",
-  "cards-alert-confirmation-organization-property-delete-title": "Delete property",
-  "cards-alert-confirmation-organization-property-delete-yes": "Yes, delete"
+  "cards-alert-confirmation-organization-property-delete-text": "Ви впевнені, що хочете видалити цей ресурс? Ця дія незворотна.",
+  "cards-alert-confirmation-organization-property-delete-no": "Скасувати",
+  "cards-alert-confirmation-organization-property-delete-title": "Видалення ресурсу",
+  "cards-alert-confirmation-organization-property-delete-yes": "Так, видалити"
 }
